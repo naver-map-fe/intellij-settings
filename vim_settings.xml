@@ -21,6 +21,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/StyleManager.ts" timestamp="1545807483352" />
       <file name="/env.test.ts" timestamp="1545286001254" />
       <file name="/OpenLayers.ts" timestamp="1544778046351" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/index.html" timestamp="1545962406664">
+        <mark key="[" line="67" column="29" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1542279349295">
         <mark key="[" line="201" column="5" />
       </file>
@@ -32,7 +37,7 @@
         <mark key="^" line="1747" column="7" />
         <mark key="." line="1747" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1541411355946">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1545962387458">
         <mark key="[" line="170" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1545904405457" />
@@ -152,10 +157,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
