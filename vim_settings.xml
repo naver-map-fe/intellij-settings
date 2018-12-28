@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-style-manager.service.ts" timestamp="1545987658197">
+        <mark key="[" line="235" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.module.ts" timestamp="1538471036952">
         <mark key="[" line="185" column="91" />
       </file>
@@ -152,7 +155,7 @@
         <mark key="]" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="/OpenLayers.ts" timestamp="1544778046351" />
+      <file name="/OpenLayers.ts" timestamp="1545986982535" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1542616584711">
         <mark key="[" line="50" column="7" />
       </file>
@@ -205,8 +208,8 @@
         <mark key="[" line="4" column="6" />
       </file>
       <file name="/image.ts" timestamp="1545369193166" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1545984858570">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1545986996431">
+        <mark key="'" line="1634" column="25" />
         <mark key="[" line="106" column="19" />
         <mark key="]" line="106" column="19" />
         <mark key="^" line="1747" column="7" />
@@ -280,7 +283,7 @@
         <mark key="]" line="109" column="18" />
         <mark key="." line="109" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/enum/index.ts" timestamp="1541408864174">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/enum/index.ts" timestamp="1545987399495">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="24" />
         <mark key="." line="74" column="0" />
@@ -560,7 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="38" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/nginx-conf/vhost-config/local-vhost.conf" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/nginx-conf/vhost-config/real-vhost.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/nginx-conf/vhost-config/real-vhost.conf" />
       <jump line="136" column="29" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/components/control-debug-common/control-debug-common.component.ts" />
@@ -660,6 +662,7 @@
       <jump line="62" column="16" filename="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/naver/subway-engine.js/src/environments/env.real.ts" />
       <jump line="5" column="15" filename="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Building.ts" />
+      <jump line="1634" column="25" filename="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
