@@ -76,9 +76,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/bookmark/bookmark-marker.model.ts" timestamp="1542174208839">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/ZoomView.ts" timestamp="1546241436457">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/ZoomView.ts" timestamp="1546245192951" />
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-create/mapswebpc-v5-banner-settings-create.component.html" timestamp="1536036571517">
         <mark key="[" line="1" column="5" />
       </file>
@@ -211,7 +209,7 @@
         <mark key="[" line="4" column="6" />
       </file>
       <file name="/image.ts" timestamp="1545369193166" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1546241461933">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1546244274374">
         <mark key="'" line="1634" column="25" />
         <mark key="[" line="261" column="45" />
         <mark key="]" line="264" column="44" />
@@ -664,10 +662,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>scale</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>scale</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
