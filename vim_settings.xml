@@ -132,6 +132,12 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1545962387458">
         <mark key="[" line="170" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1546407018325">
+        <mark key="[" line="184" column="38" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="177" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1539588106604">
         <mark key="[" line="57" column="5" />
       </file>
@@ -571,10 +577,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>twoface</text>
+        <text>compareText</text>
       </register>
       <register name="-" type="4">
-        <text>twoface</text>
+        <text>compareText</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
