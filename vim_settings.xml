@@ -364,6 +364,11 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1546420413310">
+        <mark key="[" line="277" column="14" />
+        <mark key="]" line="277" column="14" />
+        <mark key="." line="277" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/index.html" timestamp="1546250731462" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-content/subway-content.component.ts" timestamp="1542869333152">
         <mark key="[" line="86" column="30" />
@@ -574,10 +579,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AROUND_HERE_SOURCE_LAYER_ID</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>AROUND_HERE_SOURCE_LAYER_ID</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
