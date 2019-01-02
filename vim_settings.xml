@@ -39,7 +39,6 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/components/nm-spinner/nm-spinner.component.ts" timestamp="1538384028642">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/ZoomView.ts" timestamp="1546245192951" />
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-create/mapswebpc-v5-banner-settings-create.component.html" timestamp="1536036571517">
         <mark key="[" line="1" column="5" />
       </file>
@@ -60,9 +59,6 @@
         <mark key="]" line="56" column="1" />
         <mark key="^" line="56" column="1" />
         <mark key="." line="56" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/marker/massive.html" timestamp="1546250438982">
-        <mark key="[" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/decorators/index.ts" timestamp="1538445399383">
         <mark key="[" line="0" column="0" />
@@ -98,13 +94,6 @@
         <mark key="[" line="201" column="5" />
       </file>
       <file name="/image.ts" timestamp="1545369193166" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1546248248710">
-        <mark key="'" line="1634" column="25" />
-        <mark key="[" line="261" column="45" />
-        <mark key="]" line="264" column="44" />
-        <mark key="^" line="264" column="44" />
-        <mark key="." line="264" column="44" />
-      </file>
       <file name="$USER_HOME$/workspace/personal/ol-mapbox-style/stylefunction.js" timestamp="1540552987085">
         <mark key="[" line="504" column="22" />
       </file>
@@ -315,9 +304,9 @@
         <mark key="[" line="45" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/circle.html" timestamp="1546250491456">
-        <mark key="[" line="130" column="27" />
-        <mark key="]" line="130" column="27" />
-        <mark key="." line="130" column="27" />
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="27" />
+        <mark key="." line="27" column="27" />
       </file>
       <file name="/env.test.ts" timestamp="1545286001254" />
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-create/mapswebpc-v5-banner-settings-small-create.component.html" timestamp="1536041778203">
