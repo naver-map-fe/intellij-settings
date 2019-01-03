@@ -18,6 +18,9 @@
         <mark key="^" line="56" column="1" />
         <mark key="." line="56" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/TileGrid.ts" timestamp="1546508980726">
+        <mark key="[" line="108" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/StyleManager.ts" timestamp="1546496826971">
         <mark key="^" line="541" column="0" />
       </file>
@@ -45,6 +48,11 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1545962387458">
         <mark key="[" line="170" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1546508904031">
+        <mark key="[" line="432" column="16" />
+        <mark key="]" line="432" column="16" />
+        <mark key="." line="432" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.service.ts" timestamp="1546429452957" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/math.ts" timestamp="1545895194462" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/lcs/lcs.service.ts" timestamp="1544061973378">
@@ -61,7 +69,11 @@
         <mark key="[" line="15" column="69" />
       </file>
       <file name="/env.real.ts" timestamp="1545285928273" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/CustomLayer.ts" timestamp="1546506056341" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/CustomLayer.ts" timestamp="1546509080016">
+        <mark key="[" line="66" column="56" />
+        <mark key="]" line="66" column="56" />
+        <mark key="." line="66" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/interfaces/index.ts" timestamp="1545894712511">
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="11" />
@@ -237,10 +249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log('test');</text>
+        <text>source</text>
       </register>
       <register name="-" type="4">
-        <text>console.log('test');</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
