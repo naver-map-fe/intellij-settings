@@ -18,8 +18,10 @@
         <mark key="^" line="56" column="1" />
         <mark key="." line="56" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/TileGrid.ts" timestamp="1546512227958">
-        <mark key="[" line="108" column="43" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/TileGrid.ts" timestamp="1546580717503">
+        <mark key="[" line="120" column="57" />
+        <mark key="]" line="120" column="57" />
+        <mark key="." line="120" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/StyleManager.ts" timestamp="1546496826971">
         <mark key="^" line="541" column="0" />
@@ -30,7 +32,7 @@
         <mark key="[" line="201" column="5" />
       </file>
       <file name="/image.ts" timestamp="1545369193166" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1546578125100" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1546580495935" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun-layers.html" timestamp="1546250484880">
         <mark key="[" line="34" column="30" />
       </file>
@@ -106,6 +108,9 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="23" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/text.ts" timestamp="1546579979764">
+        <mark key="[" line="235" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/initialize/init.html" timestamp="1546250152135" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/overlay/CommonMarker.ts" timestamp="1539161435843">
         <mark key="[" line="9" column="34" />
@@ -113,10 +118,10 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1546578410436">
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="4" />
-        <mark key="." line="46" column="4" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1546580552736">
+        <mark key="[" line="152" column="18" />
+        <mark key="]" line="152" column="18" />
+        <mark key="." line="152" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/index.html" timestamp="1546250731462" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/common-routes/common-routes.interfaces.ts" timestamp="1545980934322" />
@@ -245,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.tileGrid = new TileGrid(context);</text>
+        <text>setSource</text>
       </register>
       <register name="-" type="4">
-        <text>this.tileGrid = new TileGrid(context);</text>
+        <text>setSource</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
