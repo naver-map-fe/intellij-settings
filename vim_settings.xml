@@ -69,11 +69,6 @@
         <mark key="[" line="15" column="69" />
       </file>
       <file name="/env.real.ts" timestamp="1545285928273" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/CustomLayer.ts" timestamp="1546513363829">
-        <mark key="[" line="89" column="65" />
-        <mark key="]" line="89" column="65" />
-        <mark key="." line="89" column="65" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/interfaces/index.ts" timestamp="1545894712511">
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="11" />
@@ -92,6 +87,7 @@
         <mark key="]" line="127" column="38" />
         <mark key="." line="127" column="38" />
       </file>
+      <file name="/CustomLayer.ts" timestamp="1546575102796" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/common/util.ts" timestamp="1543382832051">
         <mark key="[" line="61" column="38" />
         <mark key="]" line="61" column="38" />
