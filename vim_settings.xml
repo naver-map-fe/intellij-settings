@@ -30,7 +30,7 @@
         <mark key="[" line="201" column="5" />
       </file>
       <file name="/image.ts" timestamp="1545369193166" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1546576110281" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1546578125100" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun-layers.html" timestamp="1546250484880">
         <mark key="[" line="34" column="30" />
       </file>
@@ -113,10 +113,10 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1546576214128">
-        <mark key="[" line="263" column="46" />
-        <mark key="]" line="263" column="46" />
-        <mark key="." line="263" column="46" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1546578410436">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="46" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/index.html" timestamp="1546250731462" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/common-routes/common-routes.interfaces.ts" timestamp="1545980934322" />
@@ -245,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tileSource</text>
+        <text>this.tileGrid = new TileGrid(context);</text>
       </register>
       <register name="-" type="4">
-        <text>tileSource</text>
+        <text>this.tileGrid = new TileGrid(context);</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
