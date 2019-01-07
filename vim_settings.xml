@@ -62,10 +62,10 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/decorators/index.ts" timestamp="1538445399383">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/TileGrid.ts" timestamp="1546841422756">
-        <mark key="[" line="125" column="6" />
-        <mark key="]" line="125" column="5" />
-        <mark key="." line="125" column="5" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/TileGrid.ts" timestamp="1546846448640">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="126" column="5" />
+        <mark key="." line="126" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/initialize/index.html" timestamp="1542877057985">
         <mark key="[" line="81" column="6" />
@@ -111,8 +111,10 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/decorators/zone/index.ts" timestamp="1538445383857">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1545978004785">
-        <mark key="[" line="201" column="5" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1546846140818">
+        <mark key="[" line="223" column="26" />
+        <mark key="]" line="223" column="26" />
+        <mark key="." line="223" column="26" />
       </file>
       <file name="/image.ts" timestamp="1545369193166" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" timestamp="1546595333093">
@@ -142,7 +144,7 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-list/mapswebpc-v5-banner-settings-small-list.component.html" timestamp="1536041793795">
         <mark key="[" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Tile.ts" timestamp="1546583195977">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Tile.ts" timestamp="1546846437177">
         <mark key="[" line="70" column="74" />
         <mark key="]" line="70" column="74" />
         <mark key="." line="70" column="74" />
@@ -180,7 +182,7 @@
         <mark key="." line="432" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+entry-place/components/entry-place/entry-place.component.ts" timestamp="1546594695037" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1546842860138">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1546846530769">
         <mark key="[" line="134" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1539588106604">
@@ -541,6 +543,7 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-main-list/mapswebpc-v5-banner-main-list.component.html" timestamp="1536036613261">
         <mark key="[" line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1546846376783" />
       <file name="$USER_HOME$/workspace/naver/mantle/gulpfile-jsdoc.js" timestamp="1541496801699">
         <mark key="[" line="95" column="41" />
       </file>
@@ -697,10 +700,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
