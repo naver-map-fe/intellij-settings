@@ -583,6 +583,11 @@
       <file name="$USER_HOME$/workspace/naver/mantle/gulpfile-jsdoc.js" timestamp="1541496801699">
         <mark key="[" line="95" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/three-globe.js" timestamp="1546931337836">
+        <mark key="[" line="126" column="27" />
+        <mark key="]" line="126" column="27" />
+        <mark key="." line="126" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/polygon-pattern.html" timestamp="1546249994230">
         <mark key="[" line="27" column="15" />
       </file>
@@ -633,7 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/nginx-conf/vhost-config/real-vhost.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/nginx-conf/vhost-config/real-vhost.conf" />
       <jump line="136" column="29" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/components/control-debug-common/control-debug-common.component.ts" />
       <jump line="149" column="60" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/components/control-debug-common/control-debug-common.component.ts" />
@@ -733,13 +737,14 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/naver/subway-engine.js/src/environments/env.real.ts" />
       <jump line="5" column="15" filename="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Building.ts" />
       <jump line="1634" column="25" filename="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/OpenLayers.ts" />
+      <jump line="251" column="58" filename="$USER_HOME$/workspace/personal/playground/examples/three-globe.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>click</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>click</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
