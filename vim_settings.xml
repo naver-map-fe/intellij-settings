@@ -182,10 +182,10 @@
         <mark key="." line="432" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+entry-place/components/entry-place/entry-place.component.ts" timestamp="1546594695037" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1547015166530">
-        <mark key="[" line="672" column="35" />
-        <mark key="]" line="672" column="35" />
-        <mark key="." line="672" column="35" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1547019670373">
+        <mark key="[" line="1024" column="48" />
+        <mark key="]" line="1024" column="48" />
+        <mark key="." line="1024" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1539588106604">
         <mark key="[" line="57" column="5" />
@@ -711,10 +711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>map</text>
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
