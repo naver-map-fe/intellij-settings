@@ -277,7 +277,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/maptype/maptype.html" timestamp="1540787932149">
         <mark key="[" line="88" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/InfoLayer.ts" timestamp="1547031992563">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/InfoLayer.ts" timestamp="1547038240007">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="64" column="14" />
         <mark key="." line="64" column="14" />
@@ -346,6 +346,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.service.ts" timestamp="1542892402345">
         <mark key="[" line="288" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/model/Indicator.ts" timestamp="1547038263437">
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/popup/index.html" timestamp="1546249711737">
         <mark key="[" line="45" column="15" />
@@ -657,10 +662,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newMapLayers</text>
+        <text>getID</text>
       </register>
       <register name="-" type="4">
-        <text>newMapLayers</text>
+        <text>getID</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
