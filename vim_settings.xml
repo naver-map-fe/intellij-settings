@@ -438,10 +438,10 @@
         <mark key="]" line="202" column="27" />
         <mark key="." line="202" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1547272224217">
-        <mark key="[" line="374" column="12" />
-        <mark key="]" line="374" column="12" />
-        <mark key="." line="374" column="12" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1547275185665">
+        <mark key="[" line="94" column="34" />
+        <mark key="]" line="375" column="12" />
+        <mark key="." line="375" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/const.ts" timestamp="1544666868166">
         <mark key="[" line="73" column="2" />
@@ -455,7 +455,7 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/infolayer.ts" timestamp="1544180264474">
         <mark key="[" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1547268882277">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1547275317276">
         <mark key="[" line="95" column="44" />
         <mark key="]" line="95" column="24" />
         <mark key="^" line="95" column="24" />
@@ -574,11 +574,11 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/SubwayService.ts" timestamp="1542262788868">
         <mark key="[" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.ts" timestamp="1547272615258">
-        <mark key="[" line="96" column="15" />
-        <mark key="]" line="96" column="15" />
-        <mark key="." line="96" column="15" />
-        <mark key="^" line="89" column="49" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.ts" timestamp="1547275761522">
+        <mark key="[" line="106" column="6" />
+        <mark key="]" line="210" column="105" />
+        <mark key="^" line="210" column="105" />
+        <mark key="." line="210" column="105" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/routes/route.service.ts" timestamp="1542343082952">
         <mark key="[" line="50" column="18" />
@@ -761,10 +761,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>availableHeight, INDOOR_OFFSET_TOP</text>
+        <text encoding="base64">IDogOw==</text>
       </register>
       <register name="-" type="4">
-        <text>availableHeight, INDOOR_OFFSET_TOP</text>
+        <text encoding="base64">IDogOw==</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
@@ -773,44 +773,44 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">cHJpdmF0ZSBlbDogRWxlbWVudFJlZiwKICAgICAgICAgICAgICA=</text>
+      </register>
+      <register name="2" type="4">
         <text>else {
             flag = true;
           }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgcHJvcGVydGllc1snbGF5ZXInXSA9PT0gbFsnc291cmNlLWxheWVyJ10gJiY=</text>
-      </register>
       <register name="3" type="4">
-        <text>{
-            'base': 5
-          }</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgcHJvcGVydGllc1snbGF5ZXInXSA9PT0gbFsnc291cmNlLWxheWVyJ10gJiY=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="4">
+        <text>{
+            'base': 5
+          }</text>
+      </register>
+      <register name="5" type="4">
         <text>coordinates: (11) [Array(2), Array(2), Array(2), Array(2), Array(2), Array(2), Array(2), Array(2), Array(2), Array(2), Array(2)]
 type: &quot;Polygon&quot;
 __proto__: Object</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGVsc2UgewogICAgdGV4dC5zZXRUZXh0QWxpZ24odW5kZWZpbmVkKTsKICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBoYXNJbWFnZSB8fCA=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHsKICAgICAgeDogYm94WzJdLAogICAgICB5OiBib3hbMV0sCiAgICB9</text>
-      </register>
       <register name="8" type="4">
-        <text>lng: popupData.x,
-      lat: popupData.y</text>
+        <text encoding="base64">IHsKICAgICAgeDogYm94WzJdLAogICAgICB5OiBib3hbMV0sCiAgICB9</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PC9wPgo=</text>
+      <register name="9" type="4">
+        <text>lng: popupData.x,
+      lat: popupData.y</text>
       </register>
       <register name=":" type="4">
         <text>jumps</text>
