@@ -495,10 +495,10 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-update/banner-update.component.ts" timestamp="1539761099881">
         <mark key="[" line="274" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/services/search/search.service.ts" timestamp="1547284865170">
-        <mark key="[" line="230" column="35" />
-        <mark key="]" line="230" column="35" />
-        <mark key="." line="230" column="35" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/services/search/search.service.ts" timestamp="1547288910749">
+        <mark key="[" line="233" column="24" />
+        <mark key="]" line="233" column="24" />
+        <mark key="." line="233" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/routes/model/Label.ts" timestamp="1542341842785">
         <mark key="[" line="15" column="17" />
@@ -729,10 +729,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
