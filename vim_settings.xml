@@ -341,6 +341,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/Indoor.ts" timestamp="1541057867891">
         <mark key="[" line="194" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/bookmark/bookmark.service.ts" timestamp="1547268718487" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.module.ts" timestamp="1538471036952">
         <mark key="[" line="185" column="91" />
       </file>
@@ -454,8 +455,11 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/infolayer.ts" timestamp="1544180264474">
         <mark key="[" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1545980549107">
-        <mark key="[" line="453" column="1" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1547268882277">
+        <mark key="[" line="95" column="44" />
+        <mark key="]" line="95" column="24" />
+        <mark key="^" line="95" column="24" />
+        <mark key="." line="95" column="24" />
       </file>
       <file name="/fragment.js" timestamp="1537520782204">
         <mark key="[" line="0" column="0" />
@@ -494,6 +498,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/location-info-widget/location-info-widget.component.ts" timestamp="1541661561038">
         <mark key="[" line="92" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/control-debug/control-debug.component.ts" timestamp="1547268655413" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/nginx-conf/vhost-config/local-vhost.conf" timestamp="1540368142418">
         <mark key="[" line="75" column="27" />
       </file>
