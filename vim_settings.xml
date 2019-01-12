@@ -438,7 +438,7 @@
         <mark key="]" line="202" column="27" />
         <mark key="." line="202" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1545979953176">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1547272224217">
         <mark key="[" line="374" column="12" />
         <mark key="]" line="374" column="12" />
         <mark key="." line="374" column="12" />
@@ -574,11 +574,11 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/SubwayService.ts" timestamp="1542262788868">
         <mark key="[" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.ts" timestamp="1547264841605">
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="34" column="44" />
-        <mark key="." line="34" column="44" />
-        <mark key="^" line="34" column="43" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.ts" timestamp="1547272615258">
+        <mark key="[" line="96" column="15" />
+        <mark key="]" line="96" column="15" />
+        <mark key="." line="96" column="15" />
+        <mark key="^" line="89" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/routes/route.service.ts" timestamp="1542343082952">
         <mark key="[" line="50" column="18" />
@@ -761,10 +761,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>availableHeight, INDOOR_OFFSET_TOP</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>availableHeight, INDOOR_OFFSET_TOP</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
