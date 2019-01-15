@@ -401,10 +401,10 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-main-list/mapswebpc-v5-banner-main-list.component.html" timestamp="1536036613261">
         <mark key="[" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1547545220184">
-        <mark key="[" line="206" column="21" />
-        <mark key="]" line="206" column="21" />
-        <mark key="." line="206" column="21" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1547546748824">
+        <mark key="[" line="180" column="10" />
+        <mark key="]" line="180" column="10" />
+        <mark key="." line="180" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/naver/mantle/gulpfile-jsdoc.js" timestamp="1541496801699">
         <mark key="[" line="95" column="41" />
@@ -594,10 +594,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>some</text>
+        <text>featureId</text>
       </register>
       <register name="-" type="4">
-        <text>some</text>
+        <text>featureId</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
