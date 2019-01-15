@@ -246,6 +246,9 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/index.ts" timestamp="1538382985043">
         <mark key="[" line="25" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1547544005544">
+        <mark key="[" line="276" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/enum/index.ts" timestamp="1546602775921">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="24" />
@@ -265,7 +268,7 @@
         <mark key="]" line="432" column="16" />
         <mark key="." line="432" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1547528655945" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1547543962781" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1547449412924">
         <mark key="[" line="57" column="5" />
       </file>
@@ -394,7 +397,7 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-main-list/mapswebpc-v5-banner-main-list.component.html" timestamp="1536036613261">
         <mark key="[" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1547541666866">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1547543306315">
         <mark key="[" line="38" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/naver/mantle/gulpfile-jsdoc.js" timestamp="1541496801699">
@@ -410,6 +413,7 @@
       <file name="/Dummy.txt" timestamp="1546421657182">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Indoor.ts" timestamp="1547543755892" />
       <file name="$USER_HOME$/workspace/naver/ink-docstrap-naver-maps/template/tmpl/layout.tmpl" timestamp="1539773199324">
         <mark key="[" line="55" column="33" />
       </file>
