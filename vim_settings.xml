@@ -74,6 +74,11 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/bookmark/bookmark-marker.model.ts" timestamp="1542174208839">
         <mark key="[" line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/openlayers/test/spec/ol/view.test.js" timestamp="1547529289006">
+        <mark key="[" line="1347" column="6" />
+        <mark key="]" line="1347" column="6" />
+        <mark key="." line="1347" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-create/mapswebpc-v5-banner-settings-create.component.html" timestamp="1536036571517">
         <mark key="[" line="1" column="5" />
       </file>
@@ -570,10 +575,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
