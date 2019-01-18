@@ -495,6 +495,9 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/Indoor.ts" timestamp="1541057867891">
         <mark key="[" line="194" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.html" timestamp="1547777976385">
+        <mark key="[" line="15" column="64" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/components/toolbox-distance-widget/toolbox-distance-widget.component.html" />
