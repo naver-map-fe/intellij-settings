@@ -47,8 +47,8 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun.html" timestamp="1546250712300">
         <mark key="[" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.ts" timestamp="1539169622266">
-        <mark key="[" line="161" column="55" />
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.ts" timestamp="1548058317963">
+        <mark key="[" line="91" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1547199177034">
         <mark key="[" line="20" column="24" />
@@ -108,7 +108,7 @@
         <mark key="[" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/interfaces/banner.interfaces.ts" timestamp="1548055773918">
-        <mark key="[" line="100" column="21" />
+        <mark key="[" line="101" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+search-route/components/search-layout/search-layout.component.scss" timestamp="1547278453493">
         <mark key="[" line="14" column="14" />
@@ -158,10 +158,10 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/styles/import/setting/_setting.scss" timestamp="1535682472294">
         <mark key="[" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.settings.ts" timestamp="1548056617078">
-        <mark key="[" line="269" column="13" />
-        <mark key="]" line="269" column="13" />
-        <mark key="." line="269" column="13" />
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.settings.ts" timestamp="1548058280298">
+        <mark key="[" line="271" column="11" />
+        <mark key="]" line="271" column="11" />
+        <mark key="." line="271" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1542616584711">
         <mark key="[" line="50" column="7" />
@@ -614,10 +614,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>배너에 대한 설명</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>배너에 대한 설명</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
