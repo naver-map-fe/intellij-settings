@@ -113,10 +113,10 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/interfaces/maps-marker.interfaces.ts" timestamp="1547717502733">
         <mark key="[" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/interfaces/banner.interfaces.ts" timestamp="1548064148281">
-        <mark key="[" line="169" column="9" />
-        <mark key="]" line="169" column="9" />
-        <mark key="." line="169" column="9" />
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/interfaces/banner.interfaces.ts" timestamp="1548067300461">
+        <mark key="[" line="193" column="24" />
+        <mark key="]" line="193" column="24" />
+        <mark key="." line="193" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+search-route/components/search-layout/search-layout.component.scss" timestamp="1547278453493">
         <mark key="[" line="14" column="14" />
@@ -168,10 +168,11 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/styles/import/setting/_setting.scss" timestamp="1548060886634">
         <mark key="[" line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.settings.ts" timestamp="1548060284420">
-        <mark key="[" line="272" column="11" />
-        <mark key="]" line="272" column="11" />
-        <mark key="." line="272" column="11" />
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.settings.ts" timestamp="1548067390654">
+        <mark key="'" line="279" column="28" />
+        <mark key="[" line="278" column="6" />
+        <mark key="]" line="273" column="11" />
+        <mark key="." line="273" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1542616584711">
         <mark key="[" line="50" column="7" />
@@ -530,7 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="577" column="23" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/services/location-info/location-info.service.ts" />
       <jump line="855" column="20" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/entry/components/entry-place/entry-place.component.ts" />
       <jump line="882" column="11" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/entry/components/entry-place/entry-place.component.ts" />
       <jump line="899" column="22" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/entry/components/entry-place/entry-place.component.ts" />
@@ -630,13 +630,14 @@
       <jump line="47" column="0" filename="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/common-routes/common-routes.service.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/common-routes/common-routes.service.ts" />
       <jump line="16" column="49" filename="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.html" />
+      <jump line="279" column="28" filename="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.settings.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>colorRegexMap.has(colorType)</text>
+        <text>color</text>
       </register>
       <register name="-" type="4">
-        <text>colorRegexMap.has(colorType)</text>
+        <text>color</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
