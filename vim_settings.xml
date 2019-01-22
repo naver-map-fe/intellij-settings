@@ -109,7 +109,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/overlay/popup.ts" timestamp="1547616576386">
         <mark key="[" line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/node_modules/@angular/forms/src/directives/validators.d.ts" timestamp="1548064184193" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/interfaces/maps-marker.interfaces.ts" timestamp="1547717502733">
         <mark key="[" line="4" column="8" />
       </file>
@@ -160,11 +159,9 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-entry-layout/subway-entry-layout.component.ts" timestamp="1544590527609">
         <mark key="[" line="134" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/nginx-conf/vhost-config/test-vhost.conf" timestamp="1548058995385" />
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-create/mapswebpc-v5-banner-settings-small-create.component.html" timestamp="1536041778203">
         <mark key="[" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/shared/api/base-api/base-api.service.ts" timestamp="1548063382910" />
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/styles/import/setting/_setting.scss" timestamp="1548060886634">
         <mark key="[" line="40" column="3" />
       </file>
@@ -452,8 +449,8 @@
       <file name="/Dummy.txt" timestamp="1546421657182">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.scss" timestamp="1548063461738">
-        <mark key="[" line="44" column="34" />
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.scss" timestamp="1548132670457">
+        <mark key="[" line="45" column="18" />
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
