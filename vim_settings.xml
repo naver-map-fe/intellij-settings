@@ -428,8 +428,11 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/data/SubwayData.ts" timestamp="1542345171567">
         <mark key="[" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/services/banner/banner.service.ts" timestamp="1548062743363">
-        <mark key="[" line="97" column="69" />
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/services/banner/banner.service.ts" timestamp="1548208672226">
+        <mark key="[" line="143" column="15" />
+        <mark key="]" line="143" column="14" />
+        <mark key="." line="143" column="14" />
+        <mark key="^" line="143" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.module.ts" timestamp="1548144810773">
         <mark key="[" line="41" column="18" />
@@ -643,10 +646,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>android</text>
+        <text>res</text>
       </register>
       <register name="-" type="4">
-        <text>android</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
