@@ -47,11 +47,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun.html" timestamp="1546250712300">
         <mark key="[" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.ts" timestamp="1548145882098">
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.ts" timestamp="1548218545542">
         <mark key="'" line="179" column="10" />
-        <mark key="[" line="294" column="0" />
-        <mark key="]" line="294" column="0" />
-        <mark key="." line="294" column="0" />
+        <mark key="[" line="93" column="21" />
+        <mark key="]" line="93" column="21" />
+        <mark key="." line="93" column="21" />
         <mark key="^" line="294" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1547199177034">
@@ -170,7 +170,7 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/styles/import/setting/_setting.scss" timestamp="1548060886634">
         <mark key="[" line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.settings.ts" timestamp="1548142484447">
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.settings.ts" timestamp="1548218349409">
         <mark key="'" line="279" column="28" />
         <mark key="[" line="281" column="52" />
         <mark key="]" line="281" column="52" />
@@ -187,11 +187,6 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/twoface.ts" timestamp="1542073722085">
         <mark key="[" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1547290657734">
-        <mark key="[" line="96" column="34" />
-        <mark key="]" line="377" column="12" />
-        <mark key="." line="377" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions/components/directions-map-summary-info-popup/directions-map-summary-info-popup.component.ts" timestamp="1541662106797">
         <mark key="[" line="60" column="23" />
@@ -228,6 +223,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+entry-bus-route/components/entry-bus-route-station-popup/entry-bus-route-station-popup.component.ts" timestamp="1542801183144">
         <mark key="[" line="295" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1548220300897">
+        <mark key="[" line="328" column="58" />
+        <mark key="]" line="328" column="58" />
+        <mark key="." line="328" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-list/mapswebpc-v5-banner-settings-small-list.component.html" timestamp="1536041793795">
         <mark key="[" line="1" column="10" />
@@ -396,7 +396,7 @@
         <mark key="[" line="36" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/assets/i18n/ko.json" timestamp="1547778755842">
-        <mark key="[" line="1166" column="5" />
+        <mark key="[" line="1222" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/searchresultdatarefinery.ts" timestamp="1542344563664">
         <mark key="[" line="98" column="18" />
@@ -646,10 +646,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>res</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
@@ -658,6 +658,12 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IHx8ICFmWydsYXllciddIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddCiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
+      </register>
+      <register name="3" type="4">
         <text>{
         ios: {
           from: '',
@@ -669,38 +675,30 @@
         }
       }</text>
       </register>
-      <register name="2" type="4">
-        <text>`${properties.type}_${properties.id}_${properties.minzoom ||
-      ''}_${properties.maxzoom || ''}_${zoom}`</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHByb3BlcnRpZXMubGF5ZXIgJiYgcHJvcGVydGllcy5pY29uX3R5cGUpIHsKICAgICAgICBmZWF0dXJlSWQgPSBgJHtwcm9wZXJ0aWVzLmxheWVyfV8ke3Byb3BlcnRpZXMuaWNvbl90eXBlfWA7CiAgICAgIH0=</text>
-      </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBmbGFnID0gdHJ1ZTsKICAgICAgICAgIH0=</text>
+        <text>`${properties.type}_${properties.id}_${properties.minzoom ||
+      ''}_${properties.maxzoom || ''}_${zoom}`</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZWxzZSBpZiAocHJvcGVydGllcy5sYXllciAmJiBwcm9wZXJ0aWVzLmJfdHlwZSkgewogICAgICAgIGZlYXR1cmVJZCA9IGAke3Byb3BlcnRpZXMubGF5ZXJ9XyR7cHJvcGVydGllcy5iX3R5cGV9YDsKICAgICAgfQo=</text>
+        <text encoding="base64">IGVsc2UgaWYgKHByb3BlcnRpZXMubGF5ZXIgJiYgcHJvcGVydGllcy5pY29uX3R5cGUpIHsKICAgICAgICBmZWF0dXJlSWQgPSBgJHtwcm9wZXJ0aWVzLmxheWVyfV8ke3Byb3BlcnRpZXMuaWNvbl90eXBlfWA7CiAgICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBmbGFnID0gdHJ1ZTsKICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICBbMSwgWzAsIDAuOV1dLAogICAgICAgICAgWzE1LCBbMCwgMC44XV0sCiAgICAgICAg</text>
+        <text encoding="base64">ZWxzZSBpZiAocHJvcGVydGllcy5sYXllciAmJiBwcm9wZXJ0aWVzLmJfdHlwZSkgewogICAgICAgIGZlYXR1cmVJZCA9IGAke3Byb3BlcnRpZXMubGF5ZXJ9XyR7cHJvcGVydGllcy5iX3R5cGV9YDsKICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJpdmF0ZSBlbDogRWxlbWVudFJlZiwKICAgICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>else {
-            flag = true;
-          }</text>
+        <text encoding="base64">CiAgICAgICAgICBbMSwgWzAsIDAuOV1dLAogICAgICAgICAgWzE1LCBbMCwgMC44XV0sCiAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>jumps</text>
