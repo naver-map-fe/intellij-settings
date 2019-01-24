@@ -47,13 +47,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun.html" timestamp="1548241704895">
         <mark key="[" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.ts" timestamp="1548218545542">
-        <mark key="'" line="179" column="10" />
-        <mark key="[" line="93" column="21" />
-        <mark key="]" line="93" column="21" />
-        <mark key="." line="93" column="21" />
-        <mark key="^" line="294" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1547199177034">
         <mark key="[" line="20" column="24" />
       </file>
@@ -256,8 +249,8 @@
         <mark key="." line="79" column="18" />
         <mark key="^" line="72" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.html" timestamp="1540371153978">
-        <mark key="[" line="2" column="24" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.html" timestamp="1548293571112">
+        <mark key="[" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/MapBase.ts" timestamp="1539171377057">
         <mark key="[" line="34" column="9" />
@@ -452,6 +445,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/Mantle.ts" timestamp="1543911780531">
         <mark key="[" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.js" timestamp="1548294251779">
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="48" column="28" />
+        <mark key="." line="48" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/polygon-pattern.html" timestamp="1546249994230">
         <mark key="[" line="27" column="15" />
       </file>
@@ -483,6 +481,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-main-update/mapswebpc-v5-banner-main-update.component.html" timestamp="1536036650693">
         <mark key="[" line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.css" timestamp="1548293636740">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/environments/env.real.ts" timestamp="1545975039170">
         <mark key="[" line="3" column="56" />
@@ -636,14 +639,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-      center: center,
-      zoom: zoom,
-      easing: 'ease'
-    }</text>
+        <text>clientHeight</text>
       </register>
       <register name="-" type="4">
-        <text>MoveTo</text>
+        <text>clientHeight</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
