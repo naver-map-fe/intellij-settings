@@ -156,10 +156,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/twoface.ts" timestamp="1542073722085">
         <mark key="[" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.js" timestamp="1548391735320">
-        <mark key="[" line="94" column="20" />
-        <mark key="]" line="94" column="20" />
-        <mark key="." line="94" column="20" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.js" timestamp="1548392843685">
+        <mark key="[" line="83" column="22" />
+        <mark key="]" line="83" column="22" />
+        <mark key="." line="83" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions/components/directions-map-summary-info-popup/directions-map-summary-info-popup.component.ts" timestamp="1541662106797">
         <mark key="[" line="60" column="23" />
@@ -241,6 +241,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/debug.html" timestamp="1546250131262">
         <mark key="[" line="89" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/thread-pool.js" timestamp="1548392302004" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1547638149177">
         <mark key="[" line="59" column="54" />
       </file>
@@ -449,8 +450,10 @@
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548389706679">
-        <mark key="[" line="1" column="25" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548394414077">
+        <mark key="[" line="132" column="6" />
+        <mark key="]" line="132" column="6" />
+        <mark key="." line="132" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread.js" timestamp="1548388152190">
         <mark key="[" line="27" column="4" />
@@ -604,10 +607,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>randomInt(1000, 4000)</text>
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>randomInt(1000, 4000)</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
