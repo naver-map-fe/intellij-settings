@@ -161,6 +161,7 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/infolayer.ts" timestamp="1544180264474">
         <mark key="[" line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/webpack/example-builder.js" timestamp="1548383607298" />
       <file name="$USER_HOME$/workspace/personal/ol-mapbox-style/stylefunction.js" timestamp="1540552987085">
         <mark key="[" line="504" column="22" />
       </file>
@@ -301,6 +302,9 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/DeclutterTile.ts" timestamp="1540963763445">
         <mark key="[" line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/package.json" timestamp="1548383251544">
+        <mark key="[" line="109" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/data.ts" timestamp="1542344185919">
         <mark key="[" line="2" column="12" />
       </file>
@@ -434,11 +438,7 @@
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548381426072">
-        <mark key="[" line="142" column="2" />
-        <mark key="]" line="142" column="2" />
-        <mark key="." line="142" column="2" />
-      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548384223975" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/CollisionMap.ts" timestamp="1542344742940">
         <mark key="[" line="11" column="25" />
       </file>
@@ -586,10 +586,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>promises</text>
+        <text>import</text>
       </register>
       <register name="-" type="4">
-        <text>promises</text>
+        <text>import</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
