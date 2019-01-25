@@ -47,13 +47,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun.html" timestamp="1548241704895">
         <mark key="[" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.ts" timestamp="1548295852183">
-        <mark key="'" line="179" column="10" />
-        <mark key="[" line="93" column="21" />
-        <mark key="]" line="93" column="21" />
-        <mark key="." line="93" column="21" />
-        <mark key="^" line="294" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1547199177034">
         <mark key="[" line="20" column="24" />
       </file>
@@ -110,6 +103,11 @@
       <file name="/Clipboard.txt" timestamp="1547722561067">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/generic-worker.js" timestamp="1548379454906">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="35" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/TileLoader.ts" timestamp="1538021959665">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,6 +143,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/twoface.ts" timestamp="1542073722085">
         <mark key="[" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.js" timestamp="1548382159127">
+        <mark key="[" line="83" column="4" />
+        <mark key="]" line="83" column="4" />
+        <mark key="." line="83" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions/components/directions-map-summary-info-popup/directions-map-summary-info-popup.component.ts" timestamp="1541662106797">
         <mark key="[" line="60" column="23" />
@@ -210,6 +213,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/mantle/gulp/jsdoc-envars.js" timestamp="1541485348630">
         <mark key="[" line="54" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/templates/example.html" timestamp="1548379094289">
+        <mark key="[" line="19" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/index.ts" timestamp="1538382985043">
         <mark key="[" line="25" column="42" />
@@ -298,6 +304,11 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/data.ts" timestamp="1542344185919">
         <mark key="[" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.html" timestamp="1548382053555">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/interfaces/common.interfaces.ts" timestamp="1543383219214">
         <mark key="[" line="71" column="1" />
       </file>
@@ -349,6 +360,11 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/SubwayService.ts" timestamp="1542262788868">
         <mark key="[" line="75" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/job.js" timestamp="1548380407218">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/data/SubwayData.ts" timestamp="1542345171567">
         <mark key="[" line="10" column="15" />
       </file>
@@ -396,6 +412,11 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/+mapswebpc-v5-banner.module.ts" timestamp="1536033733671">
         <mark key="[" line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/worker-factory.js" timestamp="1548380303877">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/DaumMap.ts" timestamp="1543911765615">
         <mark key="[" line="5" column="21" />
       </file>
@@ -405,10 +426,18 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-main-update/mapswebpc-v5-banner-main-update.component.html" timestamp="1536036650693">
         <mark key="[" line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/templates/example-full.html" timestamp="1548379146770">
+        <mark key="[" line="19" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.css" timestamp="1548293636740">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548381426072">
+        <mark key="[" line="142" column="2" />
+        <mark key="]" line="142" column="2" />
+        <mark key="." line="142" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/CollisionMap.ts" timestamp="1542344742940">
         <mark key="[" line="11" column="25" />
@@ -557,10 +586,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>event</text>
+        <text>promises</text>
       </register>
       <register name="-" type="4">
-        <text>event</text>
+        <text>promises</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
