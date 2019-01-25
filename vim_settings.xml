@@ -52,6 +52,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun.html" timestamp="1548241704895">
         <mark key="[" line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/common.js" timestamp="1548391649683" />
       <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
         <mark key="[" line="21" column="29" />
       </file>
@@ -134,6 +135,9 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-entry-layout/subway-entry-layout.component.ts" timestamp="1544590527609">
         <mark key="[" line="134" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/worker-factory.js" timestamp="1548391452307">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-create/mapswebpc-v5-banner-settings-small-create.component.html" timestamp="1536041778203">
         <mark key="[" line="1" column="10" />
       </file>
@@ -152,10 +156,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/twoface.ts" timestamp="1542073722085">
         <mark key="[" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.js" timestamp="1548389758181">
-        <mark key="[" line="83" column="25" />
-        <mark key="]" line="83" column="4" />
-        <mark key="." line="83" column="4" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.js" timestamp="1548391735320">
+        <mark key="[" line="94" column="20" />
+        <mark key="]" line="94" column="20" />
+        <mark key="." line="94" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions/components/directions-map-summary-info-popup/directions-map-summary-info-popup.component.ts" timestamp="1541662106797">
         <mark key="[" line="60" column="23" />
@@ -600,10 +604,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>randomInt(1000, 4000)</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>randomInt(1000, 4000)</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
