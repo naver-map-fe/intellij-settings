@@ -190,6 +190,9 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-list/mapswebpc-v5-banner-settings-small-list.component.html" timestamp="1536041793795">
         <mark key="[" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/thread.js" timestamp="1548400100272">
+        <mark key="[" line="74" column="13" />
+      </file>
       <file name="/fragment.js" timestamp="1537520782204">
         <mark key="[" line="0" column="0" />
       </file>
@@ -450,10 +453,10 @@
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548394414077">
-        <mark key="[" line="133" column="6" />
-        <mark key="]" line="133" column="6" />
-        <mark key="." line="133" column="6" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548399653518">
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="17" />
+        <mark key="." line="50" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread.js" timestamp="1548388152190">
         <mark key="[" line="27" column="4" />
@@ -607,10 +610,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>done</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>done</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
