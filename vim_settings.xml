@@ -135,14 +135,19 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-entry-layout/subway-entry-layout.component.ts" timestamp="1544590527609">
         <mark key="[" line="134" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/worker-factory.js" timestamp="1548391452307">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/worker-factory.js" timestamp="1548401033189">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-create/mapswebpc-v5-banner-settings-small-create.component.html" timestamp="1536041778203">
         <mark key="[" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/styles/import/setting/_setting.scss" timestamp="1548060886634">
         <mark key="[" line="40" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/worker-wrapper.js" timestamp="1548400914308">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1542616584711">
         <mark key="[" line="50" column="7" />
@@ -156,10 +161,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/twoface.ts" timestamp="1542073722085">
         <mark key="[" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.js" timestamp="1548392843685">
-        <mark key="[" line="83" column="22" />
-        <mark key="]" line="83" column="22" />
-        <mark key="." line="83" column="22" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.js" timestamp="1548400759509">
+        <mark key="[" line="84" column="50" />
+        <mark key="]" line="84" column="50" />
+        <mark key="." line="84" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions/components/directions-map-summary-info-popup/directions-map-summary-info-popup.component.ts" timestamp="1541662106797">
         <mark key="[" line="60" column="23" />
@@ -211,12 +216,6 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/environments/environment.real.template.ts" timestamp="1539160796944">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/action/move.html" timestamp="1548318340179">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="90" column="18" />
-        <mark key="." line="90" column="18" />
-        <mark key="^" line="76" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.html" timestamp="1548293571112">
         <mark key="[" line="13" column="22" />
       </file>
@@ -250,12 +249,6 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-content/subway-content.component.ts" timestamp="1542869333152">
         <mark key="[" line="86" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1548318216253">
-        <mark key="[" line="1127" column="7" />
-        <mark key="]" line="1123" column="8" />
-        <mark key="^" line="1123" column="8" />
-        <mark key="." line="1123" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1547449412924">
         <mark key="[" line="57" column="5" />
@@ -453,10 +446,10 @@
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548399653518">
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="50" column="17" />
-        <mark key="." line="50" column="17" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548400719832">
+        <mark key="[" line="97" column="10" />
+        <mark key="]" line="97" column="10" />
+        <mark key="." line="97" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread.js" timestamp="1548388152190">
         <mark key="[" line="27" column="4" />
@@ -610,10 +603,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>done</text>
+        <text>WorkerFactory</text>
       </register>
       <register name="-" type="4">
-        <text>done</text>
+        <text>WorkerFactory</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
