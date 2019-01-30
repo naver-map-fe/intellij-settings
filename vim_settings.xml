@@ -32,6 +32,11 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool.js" timestamp="1548388059493">
+        <mark key="[" line="125" column="6" />
+        <mark key="]" line="125" column="6" />
+        <mark key="." line="125" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/line-symbol.html" timestamp="1546250111283">
         <mark key="[" line="44" column="22" />
       </file>
@@ -47,13 +52,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun.html" timestamp="1548241704895">
         <mark key="[" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.ts" timestamp="1548295852183">
-        <mark key="'" line="179" column="10" />
-        <mark key="[" line="93" column="21" />
-        <mark key="]" line="93" column="21" />
-        <mark key="." line="93" column="21" />
-        <mark key="^" line="294" column="0" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/common.js" timestamp="1548391649683" />
+      <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
+        <mark key="[" line="21" column="29" />
       </file>
+      <file name="/MapView.js" timestamp="1548405279610" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1547199177034">
         <mark key="[" line="20" column="24" />
       </file>
@@ -110,6 +113,11 @@
       <file name="/Clipboard.txt" timestamp="1547722561067">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/generic-worker.js" timestamp="1548379454906">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="35" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/TileLoader.ts" timestamp="1538021959665">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,15 +133,22 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/popup/index.html" timestamp="1546249711737">
         <mark key="[" line="45" column="15" />
       </file>
-      <file name="/OpenLayersMap.ts" timestamp="1548313932029" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-entry-layout/subway-entry-layout.component.ts" timestamp="1544590527609">
         <mark key="[" line="134" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/worker-factory.js" timestamp="1548401033189">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-create/mapswebpc-v5-banner-settings-small-create.component.html" timestamp="1536041778203">
         <mark key="[" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/styles/import/setting/_setting.scss" timestamp="1548060886634">
         <mark key="[" line="40" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/worker-wrapper.js" timestamp="1548400914308">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1542616584711">
         <mark key="[" line="50" column="7" />
@@ -146,6 +161,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/twoface.ts" timestamp="1542073722085">
         <mark key="[" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.js" timestamp="1548400759509">
+        <mark key="[" line="84" column="50" />
+        <mark key="]" line="84" column="50" />
+        <mark key="." line="84" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions/components/directions-map-summary-info-popup/directions-map-summary-info-popup.component.ts" timestamp="1541662106797">
         <mark key="[" line="60" column="23" />
@@ -176,6 +196,9 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-list/mapswebpc-v5-banner-settings-small-list.component.html" timestamp="1536041793795">
         <mark key="[" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/thread.js" timestamp="1548400100272">
+        <mark key="[" line="74" column="13" />
+      </file>
       <file name="/fragment.js" timestamp="1537520782204">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,12 +217,6 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/environments/environment.real.template.ts" timestamp="1539160796944">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/action/move.html" timestamp="1548242454607">
-        <mark key="[" line="79" column="18" />
-        <mark key="]" line="79" column="18" />
-        <mark key="." line="79" column="18" />
-        <mark key="^" line="72" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.html" timestamp="1548293571112">
         <mark key="[" line="13" column="22" />
       </file>
@@ -212,21 +229,32 @@
       <file name="$USER_HOME$/workspace/naver/mantle/gulp/jsdoc-envars.js" timestamp="1541485348630">
         <mark key="[" line="54" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/templates/example.html" timestamp="1548379094289">
+        <mark key="[" line="19" column="90" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/index.ts" timestamp="1538382985043">
         <mark key="[" line="25" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/ol-custom/getCenterOn.ts" timestamp="1548319643375">
+        <mark key="[" line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1548318000315">
+        <mark key="[" line="206" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/debug.html" timestamp="1546250131262">
         <mark key="[" line="89" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/thread-pool.js" timestamp="1548392302004" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1547638149177">
         <mark key="[" line="59" column="54" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/mantle/src/constant.js" timestamp="1548403488799">
+        <mark key="[" line="278" column="33" />
+        <mark key="]" line="278" column="33" />
+        <mark key="." line="278" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-content/subway-content.component.ts" timestamp="1542869333152">
         <mark key="[" line="86" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1548314605162" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1548315714361">
-        <mark key="[" line="781" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1547449412924">
         <mark key="[" line="57" column="5" />
@@ -288,8 +316,16 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/DeclutterTile.ts" timestamp="1540963763445">
         <mark key="[" line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/package.json" timestamp="1548387509944">
+        <mark key="[" line="108" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/data.ts" timestamp="1542344185919">
         <mark key="[" line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/task-runner.html" timestamp="1548382053555">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/interfaces/common.interfaces.ts" timestamp="1543383219214">
         <mark key="[" line="71" column="1" />
@@ -306,6 +342,8 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/StateService.ts" timestamp="1544762451345">
         <mark key="[" line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/mantle/src/map/recognizer/MouseRecognizer.js" timestamp="1548402970749" />
+      <file name="/DOM_etc.js" timestamp="1548405234415" />
       <file name="$USER_HOME$/workspace/naver/mantle-geocoder/src/service/service-ncp.js" timestamp="1541495193032">
         <mark key="[" line="10" column="38" />
       </file>
@@ -336,11 +374,21 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/Line.ts" timestamp="1542344913159">
         <mark key="[" line="47" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/mantle/src/dom/DOMEvent.js" timestamp="1548404183019">
+        <mark key="[" line="325" column="26" />
+        <mark key="]" line="325" column="26" />
+        <mark key="." line="325" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/direction.ts" timestamp="1542343451432">
         <mark key="[" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/SubwayService.ts" timestamp="1542262788868">
         <mark key="[" line="75" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/job.js" timestamp="1548380407218">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/data/SubwayData.ts" timestamp="1542345171567">
         <mark key="[" line="10" column="15" />
@@ -366,6 +414,7 @@
       <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-turf.js" timestamp="1548307741956">
         <mark key="[" line="9" column="13" />
       </file>
+      <file name="/DOMEvent.js" timestamp="1548405195367" />
       <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.js" timestamp="1548294251779">
         <mark key="[" line="48" column="28" />
         <mark key="]" line="48" column="28" />
@@ -380,7 +429,6 @@
       <file name="$USER_HOME$/workspace/naver/ink-docstrap-naver-maps/template/tmpl/layout.tmpl" timestamp="1539773199324">
         <mark key="[" line="55" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/enum/index.ts" timestamp="1548316842390" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/environments/env.test.ts" timestamp="1543543908836">
         <mark key="[" line="1" column="66" />
       </file>
@@ -389,6 +437,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/+mapswebpc-v5-banner.module.ts" timestamp="1536033733671">
         <mark key="[" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/worker-factory.js" timestamp="1548380303877">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/DaumMap.ts" timestamp="1543911765615">
         <mark key="[" line="5" column="21" />
@@ -399,10 +452,23 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-main-update/mapswebpc-v5-banner-main-update.component.html" timestamp="1536036650693">
         <mark key="[" line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/templates/example-full.html" timestamp="1548379146770">
+        <mark key="[" line="19" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.css" timestamp="1548293636740">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/task-runner.js" timestamp="1548400719832">
+        <mark key="[" line="97" column="10" />
+        <mark key="]" line="97" column="10" />
+        <mark key="." line="97" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread.js" timestamp="1548388152190">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/CollisionMap.ts" timestamp="1542344742940">
         <mark key="[" line="11" column="25" />
@@ -551,10 +617,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>event</text>
+        <text encoding="base64">IGVsZW1lbnQuYXR0YWNoRXZlbnQoIm9uIisgZXZlbnROYW1lLCBoYW5kbGVyKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>event</text>
+        <text encoding="base64">IGVsZW1lbnQuYXR0YWNoRXZlbnQoIm9uIisgZXZlbnROYW1lLCBoYW5kbGVyKQ==</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
