@@ -57,6 +57,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun.html" timestamp="1548241704895">
         <mark key="[" line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.ts" timestamp="1548830707714">
+        <mark key="[" line="252" column="9" />
+        <mark key="]" line="252" column="12" />
+        <mark key="." line="252" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
         <mark key="[" line="21" column="29" />
       </file>
@@ -150,13 +155,14 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/styles/import/setting/_setting.scss" timestamp="1548060886634">
         <mark key="[" line="40" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.settings.ts" timestamp="1548830218880" />
       <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/worker-wrapper.js" timestamp="1548400914308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1542616584711">
         <mark key="[" line="50" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-render-event.js" timestamp="1548823372887" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-render-event.js" timestamp="1548829884986" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/styles/maps.scss" timestamp="1542800797145">
         <mark key="[" line="10" column="53" />
       </file>
@@ -289,6 +295,9 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/components/result-panel-folding-button/result-panel-folding-button.component.ts" timestamp="1547278048833">
         <mark key="[" line="52" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-update/banner-update.component.ts" timestamp="1548830514740">
+        <mark key="[" line="292" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.service.ts" timestamp="1548296804630">
         <mark key="[" line="1123" column="31" />
       </file>
@@ -303,6 +312,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-control-panel/subway-input-control/subway-input-control.component.ts" timestamp="1544588711709">
         <mark key="[" line="394" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-create/banner-create.component.html" timestamp="1548830228901">
+        <mark key="[" line="126" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/maps-layout/maps-layout.component.ts" timestamp="1547198805835">
         <mark key="[" line="334" column="82" />
@@ -414,10 +426,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/Mantle.ts" timestamp="1543911780531">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-turf.js" timestamp="1548827414252">
-        <mark key="[" line="94" column="43" />
-        <mark key="]" line="94" column="43" />
-        <mark key="." line="94" column="43" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-turf.js" timestamp="1548829899750">
+        <mark key="[" line="149" column="26" />
+        <mark key="]" line="149" column="26" />
+        <mark key="." line="149" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-event.js" timestamp="1548294251779">
         <mark key="[" line="48" column="28" />
@@ -621,10 +633,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFtiYm94WzJdLCBiYm94WzFdXQ==</text>
+        <text>red</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFtiYm94WzJdLCBiYm94WzFdXQ==</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
