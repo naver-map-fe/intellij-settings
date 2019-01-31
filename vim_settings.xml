@@ -172,11 +172,6 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/infolayer.ts" timestamp="1544180264474">
         <mark key="[" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/mapbox-quick-start.js" timestamp="1548900342868">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/personal/ol-mapbox-style/stylefunction.js" timestamp="1540552987085">
         <mark key="[" line="504" column="22" />
       </file>
@@ -373,6 +368,9 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/data/SubwayData.ts" timestamp="1542345171567">
         <mark key="[" line="10" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/services/banner/banner.service.ts" timestamp="1548911892465">
+        <mark key="[" line="108" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.module.ts" timestamp="1548834852778">
         <mark key="[" line="40" column="20" />
       </file>
@@ -391,11 +389,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/Mantle.ts" timestamp="1543911780531">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-turf.js" timestamp="1548829899750">
-        <mark key="[" line="149" column="26" />
-        <mark key="]" line="149" column="26" />
-        <mark key="." line="149" column="26" />
-      </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-turf.js" timestamp="1548913070985" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/polygon-pattern.html" timestamp="1546249994230">
         <mark key="[" line="27" column="15" />
       </file>
@@ -576,10 +570,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resourceType</text>
+        <text encoding="base64">CiAgLmZvckVhY2goKHBvbHlnb24pID0+IHsKICAgIAogIH0p</text>
       </register>
       <register name="-" type="4">
-        <text>resourceType</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
@@ -588,25 +582,28 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgfQ==</text>
+        <text encoding="base64">CiAgLmZvckVhY2goKHBvbHlnb24pID0+IHsKICAgIAogIH0p</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>{
       center: center,
       zoom: zoom,
       easing: 'ease'
     }</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
-      </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHx8ICFmWydsYXllciddIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddCiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IHx8ICFmWydsYXllciddIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddCiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
+      </register>
+      <register name="6" type="4">
         <text>{
         ios: {
           from: '',
@@ -618,21 +615,18 @@
         }
       }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>`${properties.type}_${properties.id}_${properties.minzoom ||
       ''}_${properties.maxzoom || ''}_${zoom}`</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHByb3BlcnRpZXMubGF5ZXIgJiYgcHJvcGVydGllcy5pY29uX3R5cGUpIHsKICAgICAgICBmZWF0dXJlSWQgPSBgJHtwcm9wZXJ0aWVzLmxheWVyfV8ke3Byb3BlcnRpZXMuaWNvbl90eXBlfWA7CiAgICAgIH0=</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBmbGFnID0gdHJ1ZTsKICAgICAgICAgIH0=</text>
+        <text encoding="base64">IGVsc2UgaWYgKHByb3BlcnRpZXMubGF5ZXIgJiYgcHJvcGVydGllcy5pY29uX3R5cGUpIHsKICAgICAgICBmZWF0dXJlSWQgPSBgJHtwcm9wZXJ0aWVzLmxheWVyfV8ke3Byb3BlcnRpZXMuaWNvbl90eXBlfWA7CiAgICAgIH0=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZWxzZSBpZiAocHJvcGVydGllcy5sYXllciAmJiBwcm9wZXJ0aWVzLmJfdHlwZSkgewogICAgICAgIGZlYXR1cmVJZCA9IGAke3Byb3BlcnRpZXMubGF5ZXJ9XyR7cHJvcGVydGllcy5iX3R5cGV9YDsKICAgICAgfQo=</text>
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBmbGFnID0gdHJ1ZTsKICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>jumps</text>
