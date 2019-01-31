@@ -172,6 +172,11 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/infolayer.ts" timestamp="1544180264474">
         <mark key="[" line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/playground/examples/mapbox-quick-start.js" timestamp="1548899621182">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/ol-mapbox-style/stylefunction.js" timestamp="1540552987085">
         <mark key="[" line="504" column="22" />
       </file>
@@ -571,10 +576,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRpc3BsYXk6IGlubGluZS1ibG9jazs=</text>
+        <text>resourceType</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRpc3BsYXk6IGlubGluZS1ibG9jazs=</text>
+        <text>resourceType</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
