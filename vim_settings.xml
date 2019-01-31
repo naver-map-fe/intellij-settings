@@ -411,8 +411,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/Mantle.ts" timestamp="1543911780531">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-turf.js" timestamp="1548919730908">
-        <mark key="'" line="97" column="32" />
+      <file name="$USER_HOME$/workspace/personal/playground/examples/openlayers-turf.js" timestamp="1548920615967">
+        <mark key="'" line="181" column="32" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/polygon-pattern.html" timestamp="1546249994230">
         <mark key="[" line="27" column="15" />
@@ -594,10 +597,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[[bbox[0], bbox[3]], [bbox[2], bbox[1]]]</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>[[bbox[0], bbox[3]], [bbox[2], bbox[1]]]</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
