@@ -136,6 +136,12 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/decorators/index.ts" timestamp="1538445399383">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/LayerManager.ts" timestamp="1548987207522">
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="76" column="17" />
+        <mark key="^" line="76" column="26" />
+        <mark key="." line="76" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/initialize/index.html" timestamp="1542877057985">
         <mark key="[" line="81" column="6" />
       </file>
@@ -186,6 +192,9 @@
         <mark key="]" line="35" column="102" />
         <mark key="." line="35" column="102" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/StyleManager.ts" timestamp="1548987240559">
+        <mark key="[" line="260" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/ol-mapbox-style/stylefunction.js" timestamp="1540552987085">
         <mark key="[" line="504" column="22" />
       </file>
@@ -210,8 +219,8 @@
       <file name="$USER_HOME$/workspace/naver/mantle/jsdocs/jsdoc.json" timestamp="1539854674906">
         <mark key="[" line="151" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/const.js" timestamp="1546249962252">
-        <mark key="[" line="22" column="29" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/const.js" timestamp="1548986725977">
+        <mark key="[" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/location-info/location-info.service.ts" timestamp="1547290703560">
         <mark key="[" line="839" column="10" />
@@ -598,10 +607,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>set</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>set</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
