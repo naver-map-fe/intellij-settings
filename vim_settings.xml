@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-style-manager.service.ts" timestamp="1545987658197">
         <mark key="[" line="235" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapsapp-v5/components/mapsapp-v5-layout/mapsapp-v5-layout.component.ts" timestamp="1549529999503">
+        <mark key="[" line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.module.ts" timestamp="1538471036952">
         <mark key="[" line="185" column="91" />
       </file>
@@ -65,14 +68,13 @@
       <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/nginx-conf/vhost-config/real-vhost.conf" timestamp="1548922694233" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1547199177034">
         <mark key="[" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-list/banner-list.component.ts" timestamp="1548916947893">
-        <mark key="[" line="66" column="23" />
-        <mark key="]" line="66" column="23" />
-        <mark key="." line="66" column="23" />
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-list/banner-list.component.ts" timestamp="1549530054619">
+        <mark key="[" line="81" column="39" />
+        <mark key="]" line="67" column="23" />
+        <mark key="." line="67" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/shrinkable-layout/shrinkable-layout.component.ts" timestamp="1547267606408">
         <mark key="[" line="28" column="18" />
@@ -258,6 +260,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-content/subway-content.component.ts" timestamp="1542869333152">
         <mark key="[" line="86" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/components/layout/layout.component.ts" timestamp="1549530006778" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1547449412924">
         <mark key="[" line="57" column="5" />
       </file>
@@ -288,7 +291,9 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/components/result-panel-folding-button/result-panel-folding-button.component.ts" timestamp="1547278048833">
         <mark key="[" line="52" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-update/banner-update.component.ts" timestamp="1548834031987" />
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-update/banner-update.component.ts" timestamp="1549530128125">
+        <mark key="[" line="90" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.service.ts" timestamp="1548296804630">
         <mark key="[" line="1123" column="31" />
       </file>
@@ -330,7 +335,6 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/interfaces/data.ts" timestamp="1542344185919">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/mantle/src/dom/DOM_image.js" timestamp="1548406836363" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/interfaces/common.interfaces.ts" timestamp="1543383219214">
         <mark key="[" line="71" column="1" />
       </file>
@@ -351,7 +355,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/StateService.ts" timestamp="1544762451345">
         <mark key="[" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/mantle/src/map/recognizer/MouseRecognizer.js" timestamp="1548406701155" />
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-update/banner-update.component.scss" timestamp="1548913799259">
         <mark key="[" line="50" column="28" />
       </file>
