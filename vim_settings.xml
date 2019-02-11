@@ -261,10 +261,10 @@
         <mark key="[" line="86" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/components/layout/layout.component.ts" timestamp="1549530006778" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1549859312694">
-        <mark key="[" line="899" column="13" />
-        <mark key="]" line="899" column="13" />
-        <mark key="." line="899" column="13" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1549860612508">
+        <mark key="[" line="703" column="60" />
+        <mark key="]" line="703" column="60" />
+        <mark key="." line="703" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1547449412924">
         <mark key="[" line="57" column="5" />
@@ -610,10 +610,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mouseup</text>
+        <text>toDataUrl</text>
       </register>
       <register name="-" type="4">
-        <text>mouseup</text>
+        <text>toDataUrl</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
