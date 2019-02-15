@@ -99,7 +99,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-item-bus-station/search-item-bus-station.component.ts" timestamp="1542271968806">
         <mark key="[" line="237" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/overlay/popup.ts" timestamp="1547616576386">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/overlay/popup.ts" timestamp="1550206443000">
         <mark key="[" line="25" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/interfaces/maps-marker.interfaces.ts" timestamp="1547717502733">
@@ -338,10 +338,11 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-update/banner-update.component.scss" timestamp="1548913799259">
         <mark key="[" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/svg-pan-zoom/index.html" timestamp="1550198138723">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/svg-pan-zoom/index.html" timestamp="1550206979438">
         <mark key="'" line="41" column="28" />
-        <mark key="]" line="41" column="31" />
-        <mark key="." line="41" column="31" />
+        <mark key="[" line="80" column="26" />
+        <mark key="]" line="80" column="26" />
+        <mark key="." line="80" column="26" />
         <mark key="^" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/naver/mantle-geocoder/src/service/service-ncp.js" timestamp="1541495193032">
@@ -593,10 +594,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIHN1YndheVN2ZyA=</text>
+        <text>y + point.y</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIHN1YndheVN2ZyA=</text>
+        <text>y + point.y</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
