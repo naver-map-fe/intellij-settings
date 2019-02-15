@@ -338,11 +338,11 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-update/banner-update.component.scss" timestamp="1548913799259">
         <mark key="[" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/svg-pan-zoom/index.html" timestamp="1550206979438">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/svg-pan-zoom/index.html" timestamp="1550207742181">
         <mark key="'" line="41" column="28" />
-        <mark key="[" line="80" column="26" />
-        <mark key="]" line="80" column="26" />
-        <mark key="." line="80" column="26" />
+        <mark key="[" line="91" column="25" />
+        <mark key="]" line="91" column="25" />
+        <mark key="." line="91" column="25" />
         <mark key="^" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/naver/mantle-geocoder/src/service/service-ncp.js" timestamp="1541495193032">
@@ -594,10 +594,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y + point.y</text>
+        <text>viewpor</text>
       </register>
       <register name="-" type="4">
-        <text>y + point.y</text>
+        <text>viewpor</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
