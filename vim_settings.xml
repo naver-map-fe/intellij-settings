@@ -110,6 +110,7 @@
         <mark key="]" line="72" column="8" />
         <mark key="." line="72" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/resources/SvgLoader.ts" timestamp="1550197090019" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+search-route/components/search-layout/search-layout.component.scss" timestamp="1547278453493">
         <mark key="[" line="14" column="14" />
       </file>
@@ -158,8 +159,8 @@
       <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/worker-wrapper.js" timestamp="1548400914308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1542616584711">
-        <mark key="[" line="50" column="7" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1550196962752">
+        <mark key="[" line="47" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/styles/maps.scss" timestamp="1542800797145">
         <mark key="[" line="10" column="53" />
@@ -337,8 +338,11 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/components/banner-update/banner-update.component.scss" timestamp="1548913799259">
         <mark key="[" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/svg-pan-zoom/index.html" timestamp="1550195126365">
-        <mark key="[" line="17" column="29" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/svg-pan-zoom/index.html" timestamp="1550198138723">
+        <mark key="'" line="41" column="28" />
+        <mark key="]" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/naver/mantle-geocoder/src/service/service-ncp.js" timestamp="1541495193032">
         <mark key="[" line="10" column="38" />
@@ -486,7 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="65" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/photo-viewer/components/photo-viewer/photo-viewer.component.html" />
       <jump line="18" column="14" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/shared/handlers/global-error.handler.ts" />
       <jump line="52" column="2" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/nginx-conf/vhost-config/local-vhost.conf" />
       <jump line="8" column="16" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/app.settings.ts" />
@@ -586,13 +589,14 @@
       <jump line="97" column="32" filename="$USER_HOME$/workspace/personal/playground/examples/openlayers-turf.js" />
       <jump line="540" column="27" filename="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" />
       <jump line="42" column="26" filename="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/ProfileManager.ts" />
+      <jump line="43" column="28" filename="$USER_HOME$/workspace/naver/subway-engine.js/examples/svg-pan-zoom/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text encoding="base64">dmFyIHN1YndheVN2ZyA=</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text encoding="base64">dmFyIHN1YndheVN2ZyA=</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
@@ -601,50 +605,60 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAudGhlbihyZXMgPT4gewogICAgICB0aGlzLnByb2ZpbGVNYW5hZ2VyLnByb2ZpbGUoJ2xvYWRlZEltYWdlVGlsZU1ldGFJbmZvJyk7CiAgICAgIHRoaXMucHJvZmlsZU1hbmFnZXIubG9hZCgnaW1hZ2VUaWxlJyk7CiAgICAgIHJldHVybiByZXM7CiAgICB9KTs=</text>
+        <text>, panEnabled: true
+        , controlIconsEnabled: false
+        , zoomEnabled: true
+        , dblClickZoomEnabled: true
+        , mouseWheelZoomEnabled: true
+        , preventMouseEventsDefault: true
+        , zoomScaleSensitivity: 0.2
+        , minZoom: 0.5
+        , maxZoom: 10
+        , fit: true
+        , contain: false
+        , center: true
+        , refreshRate: 'auto'
+        , beforeZoom: function(){}
+        , onZoom: function(){}
+        , beforePan: function(){}
+        , onPan: function(){}
+        , onUpdatedCTM: function(){}
+        , customEventsHandler: {}
+        , eve</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAudGhlbihyZXMgPT4gewogICAgICAKICAgICAgcmV0dXJuIHJlczsKICAgIH0pOw==</text>
+        <text encoding="base64">CiAgICAudGhlbihyZXMgPT4gewogICAgICB0aGlzLnByb2ZpbGVNYW5hZ2VyLnByb2ZpbGUoJ2xvYWRlZEltYWdlVGlsZU1ldGFJbmZvJyk7CiAgICAgIHRoaXMucHJvZmlsZU1hbmFnZXIubG9hZCgnaW1hZ2VUaWxlJyk7CiAgICAgIHJldHVybiByZXM7CiAgICB9KTs=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5pbmRvb3IuaGlkZUJ1aWxkaW5nKCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAudGhlbihyZXMgPT4gewogICAgICAKICAgICAgcmV0dXJuIHJlczsKICAgIH0pOw==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgLmZvckVhY2goKHBvbHlnb24pID0+IHsKICAgIAogIH0p</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5pbmRvb3IuaGlkZUJ1aWxkaW5nKCk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgfQ==</text>
+        <text encoding="base64">CiAgLmZvckVhY2goKHBvbHlnb24pID0+IHsKICAgIAogIH0p</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgfQ==</text>
+      </register>
+      <register name="7" type="4">
         <text>{
       center: center,
       zoom: zoom,
       easing: 'ease'
     }</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">IHx8ICFmWydsYXllciddIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddCiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>{
-        ios: {
-          from: '',
-          to: '',
-        },
-        android: {
-          from: '',
-          to: '',
-        }
-      }</text>
+        <text encoding="base64">IHx8ICFmWydsYXllciddIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddCiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
       </register>
       <register name=":" type="4">
         <text>jumps</text>
