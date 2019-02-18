@@ -219,9 +219,6 @@
       <file name="$USER_HOME$/workspace/personal/playground/examples/utils/thread-pool/thread.js" timestamp="1548400100272">
         <mark key="[" line="74" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/api/index.ts" timestamp="1550136191768">
-        <mark key="^" line="85" column="3" />
-      </file>
       <file name="/fragment.js" timestamp="1537520782204">
         <mark key="[" line="0" column="0" />
       </file>
@@ -435,6 +432,9 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/PerformanceManager.ts" timestamp="1550123979886">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/rollup.config.legacy.ts" timestamp="1550477900156">
+        <mark key="[" line="17" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/polygon-pattern.html" timestamp="1546249994230">
         <mark key="[" line="27" column="15" />
       </file>
@@ -618,13 +618,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, {bounds: {left: 0, right: 0, top: 0, bottom: 0}</text>
+        <text>lega</text>
       </register>
       <register name="-" type="4">
-        <text>, {bounds: {left: 0, right: 0, top: 0, bottom: 0}</text>
+        <text>lega</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjZW50ZXJPblw+</text>
+        <text>vs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
@@ -686,13 +686,13 @@
         <text encoding="base64">CiAgICAgICAgICAgIHx8ICFmWydsYXllciddWydtZXRhZGF0YSddWydncm91cCddCiAgICAgICAgICAgIHx8IGZbJ2xheWVyJ10ubWV0YWRhdGEuZ3JvdXAgIT09ICdpbmRvb3In</text>
       </register>
       <register name=":" type="4">
-        <text>jumps</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjZW50ZXJPblw+</last-search>
+      <last-search>vs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjZW50ZXJPblw+</last-pattern>
+      <last-pattern>vs</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTdW1tYXJ5XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -708,8 +708,8 @@
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDwwXD4=</entry>
         <entry>sp</entry>
-        <entry>vs</entry>
         <entry encoding="base64">XDxjZW50ZXJPblw+</entry>
+        <entry>vs</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
@@ -730,8 +730,8 @@
         <entry>q!</entry>
         <entry>vp</entry>
         <entry>wq</entry>
-        <entry>vs</entry>
         <entry>jumps</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
