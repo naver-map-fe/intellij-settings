@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.ts" timestamp="1547266701336">
         <mark key="[" line="378" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/canvg/index.html" timestamp="1550469039528">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/canvg/index.html" timestamp="1550472934878">
         <mark key="[" line="136" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/components/nm-spinner/nm-spinner.component.ts" timestamp="1538384028642">
@@ -270,6 +270,11 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1547449412924">
         <mark key="[" line="57" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/panZoom/index.html" timestamp="1550473472101">
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="56" column="44" />
+        <mark key="." line="56" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/entry-common/services/entry/entry-map.service.ts" timestamp="1547292249133">
         <mark key="[" line="84" column="47" />
       </file>
@@ -316,6 +321,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-control-panel/subway-input-control/subway-input-control.component.ts" timestamp="1544588711709">
         <mark key="[" line="394" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/panZoom/canvg.html" timestamp="1550473618195">
+        <mark key="[" line="104" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/maps-layout/maps-layout.component.ts" timestamp="1547198805835">
         <mark key="[" line="334" column="82" />
@@ -610,10 +618,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>originalEvent</text>
+        <text>, {bounds: {left: 0, right: 0, top: 0, bottom: 0}</text>
       </register>
       <register name="-" type="4">
-        <text>originalEvent</text>
+        <text>, {bounds: {left: 0, right: 0, top: 0, bottom: 0}</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
