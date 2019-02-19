@@ -60,10 +60,11 @@
       <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550479429729">
-        <mark key="[" line="283" column="11" />
-        <mark key="]" line="283" column="11" />
-        <mark key="." line="283" column="11" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550539067866">
+        <mark key="[" line="510" column="12" />
+        <mark key="]" line="510" column="12" />
+        <mark key="." line="510" column="12" />
+        <mark key="^" line="509" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/functions/util/trans-coord.ts" timestamp="1549956880210" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/nginx-conf/vhost-config/real-vhost.conf" timestamp="1550221862840" />
@@ -273,6 +274,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/log/log.service.ts" timestamp="1547449412924">
         <mark key="[" line="57" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/intefaces/Options.ts" timestamp="1550538359776" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/panZoom/index.html" timestamp="1550473472101">
         <mark key="[" line="56" column="44" />
         <mark key="]" line="56" column="44" />
@@ -395,6 +397,12 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/indoor/basic.html" timestamp="1545977989436">
         <mark key="[" line="40" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1550539612864">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" timestamp="1544750931202">
         <mark key="[" line="122" column="7" />
@@ -627,10 +635,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.commonManager.getIsColorBindness()</text>
+        <text>{ left: 0, top: 0, right: this.size[0], bottom: this.size[1] }</text>
       </register>
       <register name="-" type="4">
-        <text>this.commonManager.getIsColorBindness()</text>
+        <text>{ left: 0, top: 0, right: this.size[0], bottom: this.size[1] }</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
@@ -639,31 +647,34 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICB0</text>
+      </register>
+      <register name="2" type="4">
         <text>{
       x,
       y
     }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dGhpcy5kaXJlY3Rpb24KICAgICAgLmxvYWREaXJlY3Rpb25zKHsKICAgICAgICBzdGFydDogc3RhcnQsCiAgICAgICAgdmlhOiB2aWEsCiAgICAgICAgZ29hbDogZ29hbAogICAgICB9KQogICAgICAudGhlbihyID0+IHsKICAgICAgICB0aGlzLmxheWVyTWFuYWdlci50b2dnbGVEaW1tZXIodHJ1ZSk7CiAgICAgICAgdGhpcy5lbWl0KFB1YmxpY0V2ZW50LkxvYWREaXJlY3Rpb24sIHIpOwogICAgICB9KTs=</text>
-      </register>
       <register name="3" type="4">
-        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4geyAuLi5yIH07CiAgICB9KQ==</text>
+        <text encoding="base64">dGhpcy5kaXJlY3Rpb24KICAgICAgLmxvYWREaXJlY3Rpb25zKHsKICAgICAgICBzdGFydDogc3RhcnQsCiAgICAgICAgdmlhOiB2aWEsCiAgICAgICAgZ29hbDogZ29hbAogICAgICB9KQogICAgICAudGhlbihyID0+IHsKICAgICAgICB0aGlzLmxheWVyTWFuYWdlci50b2dnbGVEaW1tZXIodHJ1ZSk7CiAgICAgICAgdGhpcy5lbWl0KFB1YmxpY0V2ZW50LkxvYWREaXJlY3Rpb24sIHIpOwogICAgICB9KTs=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4gcGFyc2VJbnQoci5yY29kZSwgMTApOwogICAgfSk=</text>
+        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4geyAuLi5yIH07CiAgICB9KQ==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4gcGFyc2VJbnQoci5yY29kZSwgMTApOwogICAgfSk=</text>
+      </register>
+      <register name="6" type="4">
         <text>{
     } as Point;</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Zm9yKGk9MDtpPGltYWdlcy5sZW5ndGg7aSsrKXsKICAgICAgICBpbWFnZXNbaV0ud2lkdGggPSBNYXRoLnJvdW5kKDUwMC9zY2FsZSk7IC8vY2hhbmdlIDUwMCB0byB5b3VyIGltYWdlIHNpemUKICAgICAgICBpbWFnZXNbaV0uaGVpZ2h0ID0gTWF0aC5yb3VuZCg1MDAvc2NhbGUpOyAvL2NoYW5nZSA1MDAgdG8geW91ciBpbWFnZSBzaXplCiAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>, panEnabled: true
         , controlIconsEnabled: false
         , zoomEnabled: true
@@ -685,14 +696,11 @@
         , customEventsHandler: {}
         , eve</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAudGhlbihyZXMgPT4gewogICAgICB0aGlzLnByb2ZpbGVNYW5hZ2VyLnByb2ZpbGUoJ2xvYWRlZEltYWdlVGlsZU1ldGFJbmZvJyk7CiAgICAgIHRoaXMucHJvZmlsZU1hbmFnZXIubG9hZCgnaW1hZ2VUaWxlJyk7CiAgICAgIHJldHVybiByZXM7CiAgICB9KTs=</text>
-      </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAudGhlbihyZXMgPT4gewogICAgICAKICAgICAgcmV0dXJuIHJlczsKICAgIH0pOw==</text>
+        <text encoding="base64">CiAgICAudGhlbihyZXMgPT4gewogICAgICB0aGlzLnByb2ZpbGVNYW5hZ2VyLnByb2ZpbGUoJ2xvYWRlZEltYWdlVGlsZU1ldGFJbmZvJyk7CiAgICAgIHRoaXMucHJvZmlsZU1hbmFnZXIubG9hZCgnaW1hZ2VUaWxlJyk7CiAgICAgIHJldHVybiByZXM7CiAgICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
