@@ -86,11 +86,6 @@
         <mark key="[" line="134" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/TaskManager.ts" timestamp="1550123974948" />
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/carto-manager/carto-manager.service.ts" timestamp="1550108361190">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/styles/import/setting/_setting.scss" timestamp="1548060886634">
         <mark key="[" line="40" column="3" />
       </file>
@@ -515,7 +510,7 @@
       <file name="$USER_HOME$/workspace/personal/playground/examples/templates/example-full.html" timestamp="1548379146770">
         <mark key="[" line="19" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/src/SubwayEngine.ts" timestamp="1550544175990" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/src/SubwayEngine.ts" timestamp="1550556819092" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.scss" timestamp="1547278727940">
         <mark key="[" line="36" column="5" />
       </file>
@@ -539,7 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="2" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/nginx-conf/vhost-config/local-vhost.conf" />
       <jump line="8" column="16" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/app.settings.ts" />
       <jump line="35" column="31" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" />
       <jump line="327" column="0" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" />
@@ -639,6 +633,7 @@
       <jump line="42" column="26" filename="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/ProfileManager.ts" />
       <jump line="43" column="28" filename="$USER_HOME$/workspace/naver/subway-engine.js/examples/svg-pan-zoom/index.html" />
       <jump line="263" column="16" filename="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" />
+      <jump line="91" column="15" filename="$USER_HOME$/workspace/naver/blackpearl/src/app/services/carto-manager/carto-manager.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
