@@ -90,9 +90,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/TaskManager.ts" timestamp="1550123974948" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/Overlay.ts" timestamp="1550561354257">
-        <mark key="[" line="72" column="41" />
-        <mark key="]" line="72" column="41" />
-        <mark key="." line="72" column="41" />
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/styles/import/setting/_setting.scss" timestamp="1548060886634">
         <mark key="[" line="40" column="3" />
@@ -175,7 +175,6 @@
       <file name="$USER_HOME$/workspace/naver/mantle/theme/naver-maps-ncp/template/tmpl/layout.tmpl" timestamp="1539855263166">
         <mark key="[" line="118" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550560166646" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/Style.ts" timestamp="1541578832969">
         <mark key="[" line="0" column="0" />
       </file>
@@ -304,7 +303,7 @@
         <mark key="[" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src-legacy/SubwayEngine-legacy.ts" timestamp="1550479445910" />
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550560565358">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550563318023">
         <mark key="[" line="241" column="42" />
         <mark key="]" line="241" column="42" />
         <mark key="." line="241" column="42" />
