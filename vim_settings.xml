@@ -36,10 +36,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/events/point.html" timestamp="1546247714195">
         <mark key="[" line="90" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/popup/index.html" timestamp="1550581792027">
-        <mark key="[" line="50" column="40" />
-        <mark key="]" line="50" column="40" />
-        <mark key="." line="50" column="40" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/popup/index.html" timestamp="1550585216688">
+        <mark key="[" line="51" column="40" />
+        <mark key="]" line="51" column="40" />
+        <mark key="." line="51" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/line-symbol.html" timestamp="1546250111283">
         <mark key="[" line="44" column="22" />
@@ -66,12 +66,6 @@
       </file>
       <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
         <mark key="[" line="21" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550581800579">
-        <mark key="[" line="633" column="9" />
-        <mark key="]" line="633" column="9" />
-        <mark key="." line="633" column="9" />
-        <mark key="^" line="586" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1547199177034">
         <mark key="[" line="20" column="24" />
@@ -165,10 +159,10 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-entry-layout/subway-entry-layout.component.ts" timestamp="1544590527609">
         <mark key="[" line="134" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/Overlay.ts" timestamp="1550581072658">
-        <mark key="[" line="98" column="4" />
-        <mark key="]" line="98" column="4" />
-        <mark key="." line="98" column="4" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/Overlay.ts" timestamp="1550584941711">
+        <mark key="[" line="113" column="17" />
+        <mark key="]" line="113" column="17" />
+        <mark key="." line="113" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-create/mapswebpc-v5-banner-settings-small-create.component.html" timestamp="1536041778203">
         <mark key="[" line="1" column="10" />
@@ -306,11 +300,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/node_modules/@turf/bbox-polygon/index.d.ts" timestamp="1547259318968">
         <mark key="[" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550580096553">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550584271438">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
-        <mark key="^" line="29" column="26" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/PublicEvent.ts" timestamp="1549609840854">
         <mark key="[" line="10" column="0" />
@@ -424,10 +418,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/indoor/basic.html" timestamp="1545977989436">
         <mark key="[" line="40" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1550568255862">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1550585180487">
+        <mark key="[" line="161" column="39" />
+        <mark key="]" line="161" column="38" />
+        <mark key="." line="161" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" timestamp="1544750931202">
         <mark key="[" line="122" column="7" />
@@ -522,7 +516,7 @@
       <file name="$USER_HOME$/workspace/personal/playground/examples/templates/example-full.html" timestamp="1548379146770">
         <mark key="[" line="19" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/src/SubwayEngine.ts" timestamp="1550579274347" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/src/SubwayEngine.ts" timestamp="1550583382446" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/CollisionMap.ts" timestamp="1542344742940">
         <mark key="[" line="11" column="25" />
       </file>
@@ -678,10 +672,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>appendChild</text>
+        <text>unproject</text>
       </register>
       <register name="-" type="4">
-        <text>appendChild</text>
+        <text>unproject</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
