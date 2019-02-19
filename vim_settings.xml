@@ -29,6 +29,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/decorators/zone/zone.ts" timestamp="1538445979421">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/interfaces/index.ts" timestamp="1550568261594" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/common-routes/common-routes.service.ts" timestamp="1547449438889">
         <mark key="[" line="619" column="37" />
       </file>
@@ -61,7 +62,7 @@
       <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550565502455">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550567218393">
         <mark key="[" line="665" column="16" />
         <mark key="]" line="665" column="16" />
         <mark key="." line="665" column="16" />
@@ -137,6 +138,11 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.service.ts" timestamp="1542892402345">
         <mark key="[" line="288" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/model/Indicator.ts" timestamp="1550567727069">
+        <mark key="[" line="88" column="41" />
+        <mark key="]" line="88" column="40" />
+        <mark key="." line="88" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/decorators/index.ts" timestamp="1538445399383">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,8 +157,8 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-entry-layout/subway-entry-layout.component.ts" timestamp="1544590527609">
         <mark key="[" line="134" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/Overlay.ts" timestamp="1550561354257">
-        <mark key="[" line="24" column="41" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/Overlay.ts" timestamp="1550567471779">
+        <mark key="[" line="49" column="3" />
         <mark key="]" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
@@ -200,12 +206,6 @@
       </file>
       <file name="$USER_HOME$/workspace/personal/ol-mapbox-style/stylefunction.js" timestamp="1540552987085">
         <mark key="[" line="504" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/test/index.html" timestamp="1550469829008">
-        <mark key="[" line="95" column="18" />
-        <mark key="]" line="95" column="18" />
-        <mark key="." line="95" column="18" />
-        <mark key="^" line="126" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/label/labelgun-layers.html" timestamp="1546250484880">
         <mark key="[" line="34" column="30" />
@@ -292,8 +292,15 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/node_modules/@turf/bbox-polygon/index.d.ts" timestamp="1547259318968">
         <mark key="[" line="5" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550566871002" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/PublicEvent.ts" timestamp="1549609840854">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/model/Label.ts" timestamp="1550567656446">
+        <mark key="'" line="76" column="16" />
+        <mark key="[" line="150" column="22" />
+        <mark key="]" line="150" column="22" />
+        <mark key="." line="150" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/Style.ts" timestamp="1541578832969">
         <mark key="[" line="0" column="0" />
@@ -395,10 +402,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/indoor/basic.html" timestamp="1545977989436">
         <mark key="[" line="40" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1550565478226">
-        <mark key="[" line="127" column="17" />
-        <mark key="]" line="127" column="17" />
-        <mark key="." line="127" column="17" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1550568255862">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" timestamp="1544750931202">
         <mark key="[" line="122" column="7" />
@@ -444,11 +451,19 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/PerformanceManager.ts" timestamp="1550123979886">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/model/RoutePin.ts" timestamp="1550567885227">
+        <mark key="[" line="95" column="24" />
+        <mark key="]" line="95" column="24" />
+        <mark key="." line="95" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/rollup.config.legacy.ts" timestamp="1550477900156">
         <mark key="[" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/polygon-pattern.html" timestamp="1546249994230">
         <mark key="[" line="27" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/interfaces/PublicEvent.ts" timestamp="1550565857305">
+        <mark key="[" line="6" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1550108531776">
         <mark key="[" line="0" column="0" />
@@ -505,7 +520,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/environments/env.dev.ts" timestamp="1545975034347">
         <mark key="[" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/InfoLayer.ts" timestamp="1550564036952">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/InfoLayer.ts" timestamp="1550567748940">
         <mark key="[" line="509" column="11" />
         <mark key="]" line="509" column="11" />
         <mark key="." line="509" column="11" />
@@ -533,8 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="16" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/app.settings.ts" />
-      <jump line="35" column="31" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" />
       <jump line="327" column="0" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" />
       <jump line="689" column="51" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/entry/components/entry-place/entry-place.component.ts" />
       <jump line="103" column="33" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/entry/services/entry/entry-photo.service.ts" />
@@ -633,13 +646,15 @@
       <jump line="43" column="28" filename="$USER_HOME$/workspace/naver/subway-engine.js/examples/svg-pan-zoom/index.html" />
       <jump line="263" column="16" filename="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" />
       <jump line="91" column="15" filename="$USER_HOME$/workspace/naver/blackpearl/src/app/services/carto-manager/carto-manager.service.ts" />
+      <jump line="164" column="40" filename="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" />
+      <jump line="76" column="16" filename="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/model/Label.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>view</text>
+        <text>PanZoomTransform</text>
       </register>
       <register name="-" type="4">
-        <text>view</text>
+        <text>PanZoomTransform</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
@@ -648,60 +663,42 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">OwogICAgZWwuc3R5bGUudG9wID0g</text>
+        <text>x: Math.floor(e.clientX),
+        y: Math.floor(e.pixel[1])</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICB0</text>
+        <text encoding="base64">OwogICAgZWwuc3R5bGUudG9wID0g</text>
       </register>
       <register name="3" type="4">
-        <text>{
-      x,
-      y
-    }</text>
+        <text encoding="base64">CiAgICB0</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dGhpcy5kaXJlY3Rpb24KICAgICAgLmxvYWREaXJlY3Rpb25zKHsKICAgICAgICBzdGFydDogc3RhcnQsCiAgICAgICAgdmlhOiB2aWEsCiAgICAgICAgZ29hbDogZ29hbAogICAgICB9KQogICAgICAudGhlbihyID0+IHsKICAgICAgICB0aGlzLmxheWVyTWFuYWdlci50b2dnbGVEaW1tZXIodHJ1ZSk7CiAgICAgICAgdGhpcy5lbWl0KFB1YmxpY0V2ZW50LkxvYWREaXJlY3Rpb24sIHIpOwogICAgICB9KTs=</text>
+        <text>{
+      x,
+      y
+    }</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4geyAuLi5yIH07CiAgICB9KQ==</text>
+        <text encoding="base64">dGhpcy5kaXJlY3Rpb24KICAgICAgLmxvYWREaXJlY3Rpb25zKHsKICAgICAgICBzdGFydDogc3RhcnQsCiAgICAgICAgdmlhOiB2aWEsCiAgICAgICAgZ29hbDogZ29hbAogICAgICB9KQogICAgICAudGhlbihyID0+IHsKICAgICAgICB0aGlzLmxheWVyTWFuYWdlci50b2dnbGVEaW1tZXIodHJ1ZSk7CiAgICAgICAgdGhpcy5lbWl0KFB1YmxpY0V2ZW50LkxvYWREaXJlY3Rpb24sIHIpOwogICAgICB9KTs=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4gcGFyc2VJbnQoci5yY29kZSwgMTApOwogICAgfSk=</text>
+        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4geyAuLi5yIH07CiAgICB9KQ==</text>
       </register>
       <register name="7" type="4">
-        <text>{
-    } as Point;</text>
+        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4gcGFyc2VJbnQoci5yY29kZSwgMTApOwogICAgfSk=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Zm9yKGk9MDtpPGltYWdlcy5sZW5ndGg7aSsrKXsKICAgICAgICBpbWFnZXNbaV0ud2lkdGggPSBNYXRoLnJvdW5kKDUwMC9zY2FsZSk7IC8vY2hhbmdlIDUwMCB0byB5b3VyIGltYWdlIHNpemUKICAgICAgICBpbWFnZXNbaV0uaGVpZ2h0ID0gTWF0aC5yb3VuZCg1MDAvc2NhbGUpOyAvL2NoYW5nZSA1MDAgdG8geW91ciBpbWFnZSBzaXplCiAgICAgIH0=</text>
+        <text>{
+    } as Point;</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>, panEnabled: true
-        , controlIconsEnabled: false
-        , zoomEnabled: true
-        , dblClickZoomEnabled: true
-        , mouseWheelZoomEnabled: true
-        , preventMouseEventsDefault: true
-        , zoomScaleSensitivity: 0.2
-        , minZoom: 0.5
-        , maxZoom: 10
-        , fit: true
-        , contain: false
-        , center: true
-        , refreshRate: 'auto'
-        , beforeZoom: function(){}
-        , onZoom: function(){}
-        , beforePan: function(){}
-        , onPan: function(){}
-        , onUpdatedCTM: function(){}
-        , customEventsHandler: {}
-        , eve</text>
+        <text encoding="base64">Zm9yKGk9MDtpPGltYWdlcy5sZW5ndGg7aSsrKXsKICAgICAgICBpbWFnZXNbaV0ud2lkdGggPSBNYXRoLnJvdW5kKDUwMC9zY2FsZSk7IC8vY2hhbmdlIDUwMCB0byB5b3VyIGltYWdlIHNpemUKICAgICAgICBpbWFnZXNbaV0uaGVpZ2h0ID0gTWF0aC5yb3VuZCg1MDAvc2NhbGUpOyAvL2NoYW5nZSA1MDAgdG8geW91ciBpbWFnZSBzaXplCiAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
