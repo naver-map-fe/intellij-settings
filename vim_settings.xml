@@ -62,10 +62,10 @@
       <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550567218393">
-        <mark key="[" line="665" column="16" />
-        <mark key="]" line="665" column="16" />
-        <mark key="." line="665" column="16" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550568693904">
+        <mark key="[" line="676" column="11" />
+        <mark key="]" line="676" column="11" />
+        <mark key="." line="676" column="11" />
         <mark key="^" line="233" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1547199177034">
@@ -651,10 +651,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PanZoomTransform</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pbnRlcmFjdGlvbk1hbmFnZXIuaXNNb3ZpbmcoKSB8fAogICAg</text>
       </register>
       <register name="-" type="4">
-        <text>PanZoomTransform</text>
+        <text>getAnimating</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
@@ -663,42 +663,42 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICAgdGhpcy5pbnRlcmFjdGlvbk1hbmFnZXIuaXNNb3ZpbmcoKSB8fAogICAg</text>
+      </register>
+      <register name="2" type="4">
         <text>x: Math.floor(e.clientX),
         y: Math.floor(e.pixel[1])</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">OwogICAgZWwuc3R5bGUudG9wID0g</text>
-      </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICB0</text>
+        <text encoding="base64">OwogICAgZWwuc3R5bGUudG9wID0g</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICB0</text>
+      </register>
+      <register name="5" type="4">
         <text>{
       x,
       y
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">dGhpcy5kaXJlY3Rpb24KICAgICAgLmxvYWREaXJlY3Rpb25zKHsKICAgICAgICBzdGFydDogc3RhcnQsCiAgICAgICAgdmlhOiB2aWEsCiAgICAgICAgZ29hbDogZ29hbAogICAgICB9KQogICAgICAudGhlbihyID0+IHsKICAgICAgICB0aGlzLmxheWVyTWFuYWdlci50b2dnbGVEaW1tZXIodHJ1ZSk7CiAgICAgICAgdGhpcy5lbWl0KFB1YmxpY0V2ZW50LkxvYWREaXJlY3Rpb24sIHIpOwogICAgICB9KTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4geyAuLi5yIH07CiAgICB9KQ==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4gcGFyc2VJbnQoci5yY29kZSwgMTApOwogICAgfSk=</text>
-      </register>
       <register name="8" type="4">
-        <text>{
-    } as Point;</text>
+        <text encoding="base64">dGhpcy5jb21tb25NYW5hZ2VyLmdldFJlZ2lvbnMoKS5tYXAoKHI6IFJlZ2lvbikgPT4gewogICAgICByZXR1cm4gcGFyc2VJbnQoci5yY29kZSwgMTApOwogICAgfSk=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Zm9yKGk9MDtpPGltYWdlcy5sZW5ndGg7aSsrKXsKICAgICAgICBpbWFnZXNbaV0ud2lkdGggPSBNYXRoLnJvdW5kKDUwMC9zY2FsZSk7IC8vY2hhbmdlIDUwMCB0byB5b3VyIGltYWdlIHNpemUKICAgICAgICBpbWFnZXNbaV0uaGVpZ2h0ID0gTWF0aC5yb3VuZCg1MDAvc2NhbGUpOyAvL2NoYW5nZSA1MDAgdG8geW91ciBpbWFnZSBzaXplCiAgICAgIH0=</text>
+        <text>{
+    } as Point;</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
