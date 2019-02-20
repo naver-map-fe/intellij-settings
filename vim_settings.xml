@@ -67,6 +67,7 @@
       <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
         <mark key="[" line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550653307083" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1547199177034">
         <mark key="[" line="20" column="24" />
       </file>
@@ -388,6 +389,9 @@
         <mark key="]" line="11" column="81" />
         <mark key="." line="11" column="81" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/src/services/directions/Direction.ts" timestamp="1550653594687">
+        <mark key="[" line="157" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/mantle-geocoder/src/service/service-ncp.js" timestamp="1541495193032">
         <mark key="[" line="10" column="38" />
       </file>
@@ -497,7 +501,7 @@
       <file name="$USER_HOME$/workspace/personal/playground/examples/templates/example-full.html" timestamp="1548379146770">
         <mark key="[" line="19" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/src/SubwayEngine.ts" timestamp="1550630367073">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/src/SubwayEngine.ts" timestamp="1550654202415">
         <mark key="[" line="564" column="17" />
         <mark key="]" line="564" column="17" />
         <mark key="." line="564" column="17" />
