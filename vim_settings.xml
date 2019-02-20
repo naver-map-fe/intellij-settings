@@ -67,7 +67,7 @@
       <file name="$USER_HOME$/workspace/personal/playground/docs/pg/package.json" timestamp="1548387276791">
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550625569850">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550626806895">
         <mark key="[" line="666" column="26" />
         <mark key="]" line="666" column="26" />
         <mark key="." line="666" column="26" />
@@ -164,11 +164,6 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-entry-layout/subway-entry-layout.component.ts" timestamp="1544590527609">
         <mark key="[" line="134" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/Overlay.ts" timestamp="1550624644422">
-        <mark key="[" line="133" column="39" />
-        <mark key="]" line="133" column="39" />
-        <mark key="." line="133" column="39" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+mapswebpc-v5/modules/+mapswebpc-v5-banner/components/mapswebpc-v5-banner-settings-small-create/mapswebpc-v5-banner-settings-small-create.component.html" timestamp="1536041778203">
         <mark key="[" line="1" column="10" />
       </file>
@@ -210,9 +205,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/interfaces/Overlay.ts" timestamp="1550576581684">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/rollup.config.ts" timestamp="1550479958529">
         <mark key="[" line="106" column="22" />
@@ -305,7 +300,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/node_modules/@turf/bbox-polygon/index.d.ts" timestamp="1547259318968">
         <mark key="[" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550620884033">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550626797345">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
@@ -423,7 +418,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/indoor/basic.html" timestamp="1545977989436">
         <mark key="[" line="40" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1550624869511">
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1550627522404">
         <mark key="[" line="161" column="39" />
         <mark key="]" line="161" column="38" />
         <mark key="." line="161" column="38" />
@@ -521,7 +516,11 @@
       <file name="$USER_HOME$/workspace/personal/playground/examples/templates/example-full.html" timestamp="1548379146770">
         <mark key="[" line="19" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/src/SubwayEngine.ts" timestamp="1550583382446" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js-legacy/src/SubwayEngine.ts" timestamp="1550626993924">
+        <mark key="[" line="564" column="17" />
+        <mark key="]" line="564" column="17" />
+        <mark key="." line="564" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/CollisionMap.ts" timestamp="1542344742940">
         <mark key="[" line="11" column="25" />
       </file>
@@ -677,10 +676,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>center</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
