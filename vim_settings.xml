@@ -478,8 +478,10 @@
       <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/renderer/webgl/VectorTileLayer.js" timestamp="1535948820769">
         <mark key="[" line="93" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/util.js" timestamp="1550714413453">
-        <mark key="[" line="412" column="24" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/util.js" timestamp="1550715141074">
+        <mark key="[" line="411" column="6" />
+        <mark key="]" line="411" column="6" />
+        <mark key="." line="411" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/entry-common/interfaces/site-info.interfaces.ts" timestamp="1547292179730">
         <mark key="[" line="222" column="0" />
@@ -620,10 +622,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
