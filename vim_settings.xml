@@ -11,11 +11,11 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.service.ts" timestamp="1550735428249">
         <mark key="[" line="410" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1550738230424">
-        <mark key="[" line="334" column="22" />
-        <mark key="]" line="334" column="22" />
-        <mark key="." line="334" column="22" />
-        <mark key="^" line="275" column="30" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1550741807632">
+        <mark key="[" line="345" column="68" />
+        <mark key="]" line="345" column="68" />
+        <mark key="^" line="279" column="30" />
+        <mark key="." line="345" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" timestamp="1550736448030">
         <mark key="[" line="168" column="6" />
@@ -66,6 +66,9 @@
         <mark key="[" line="411" column="6" />
         <mark key="]" line="411" column="6" />
         <mark key="." line="411" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/lib/panZoom/index.js" timestamp="1550742764550">
+        <mark key="[" line="325" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -172,10 +175,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>, this.options.maxZoom, this.options.maxZoom</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>, this.options.maxZoom, this.options.maxZoom</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
