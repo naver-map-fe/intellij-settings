@@ -5,9 +5,12 @@
     <filemarks>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.service.ts" timestamp="1551079755904">
         <mark key="[" line="222" column="16" />
-        <mark key="]" line="412" column="0" />
-        <mark key="^" line="412" column="0" />
-        <mark key="." line="412" column="0" />
+        <mark key="]" line="410" column="0" />
+        <mark key="^" line="410" column="0" />
+        <mark key="." line="410" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1551148097991">
+        <mark key="[" line="328" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.interfaces.ts" timestamp="1550812485934">
         <mark key="[" line="185" column="15" />
@@ -19,8 +22,10 @@
         <mark key="]" line="63" column="40" />
         <mark key="." line="63" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/interactions/moving.html" timestamp="1551080614242">
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/interactions/moving.html" timestamp="1551147976534">
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="70" column="22" />
+        <mark key="." line="70" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-box/search-box.component.ts" timestamp="1551081596330">
         <mark key="[" line="96" column="55" />
@@ -161,10 +166,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text>2441</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>2441</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
