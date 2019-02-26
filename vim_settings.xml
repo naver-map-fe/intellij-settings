@@ -15,39 +15,36 @@
         <mark key="." line="347" column="16" />
         <mark key="^" line="347" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" timestamp="1551167232324">
-        <mark key="[" line="191" column="49" />
-        <mark key="]" line="191" column="49" />
-        <mark key="." line="191" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/popup/index.html" timestamp="1551167004040">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" timestamp="1551168310396" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/popup/index.html" timestamp="1551168455149">
         <mark key="[" line="39" column="31" />
         <mark key="]" line="63" column="40" />
         <mark key="." line="63" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InteractionManager.ts" timestamp="1551165427164">
-        <mark key="[" line="339" column="13" />
+        <mark key="[" line="337" column="13" />
         <mark key="]" line="269" column="10" />
         <mark key="^" line="269" column="10" />
         <mark key="." line="269" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-popup/subway-popup.component.ts" timestamp="1550813953036">
-        <mark key="[" line="37" column="6" />
-        <mark key="]" line="37" column="6" />
-        <mark key="." line="37" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/Overlay.ts" timestamp="1551166424582">
         <mark key="[" line="116" column="70" />
         <mark key="]" line="177" column="4" />
         <mark key="." line="177" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/Direction.ts" timestamp="1551168984891">
+        <mark key="[" line="222" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/model/RoutePin.ts" timestamp="1551169480108">
+        <mark key="[" line="133" column="4" />
+        <mark key="]" line="133" column="4" />
+        <mark key="." line="133" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550814674686">
         <mark key="[" line="38" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.interfaces.ts" timestamp="1550812485934">
-        <mark key="[" line="185" column="15" />
-        <mark key="]" line="185" column="15" />
-        <mark key="." line="185" column="15" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/LayerManager.ts" timestamp="1551169890564">
+        <mark key="[" line="115" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
         <mark key="[" line="414" column="64" />
@@ -62,6 +59,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/dom.ts" timestamp="1550815852762">
         <mark key="[" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/InfoLayer.ts" timestamp="1551169795169">
+        <mark key="[" line="59" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/lib/panZoom/index.js" timestamp="1550800361071">
         <mark key="[" line="325" column="5" />
@@ -174,10 +174,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.rawCenter</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>this.rawCenter</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
