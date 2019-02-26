@@ -9,8 +9,11 @@
         <mark key="^" line="410" column="0" />
         <mark key="." line="410" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1551148097991">
-        <mark key="[" line="328" column="5" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1551155872628">
+        <mark key="[" line="352" column="15" />
+        <mark key="]" line="351" column="16" />
+        <mark key="." line="351" column="16" />
+        <mark key="^" line="351" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.interfaces.ts" timestamp="1550812485934">
         <mark key="[" line="185" column="15" />
@@ -166,13 +169,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2441</text>
+        <text>center</text>
       </register>
       <register name="-" type="4">
-        <text>2441</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
-        <text>vs</text>
+        <text encoding="base64">XDwsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
@@ -221,9 +224,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vs</last-search>
+      <last-search encoding="base64">XDwsXD4=</last-search>
       <last-offset />
-      <last-pattern>vs</last-pattern>
+      <last-pattern encoding="base64">XDwsXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTdW1tYXJ5XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -241,6 +244,7 @@
         <entry>sp</entry>
         <entry encoding="base64">XDxjZW50ZXJPblw+</entry>
         <entry>vs</entry>
+        <entry encoding="base64">XDwsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>294</entry>
