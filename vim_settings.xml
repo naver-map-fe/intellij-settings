@@ -10,10 +10,10 @@
         <mark key="." line="410" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/InterationManager.ts" timestamp="1551155872628">
-        <mark key="[" line="352" column="15" />
-        <mark key="]" line="351" column="16" />
-        <mark key="." line="351" column="16" />
-        <mark key="^" line="351" column="16" />
+        <mark key="[" line="348" column="15" />
+        <mark key="]" line="347" column="16" />
+        <mark key="." line="347" column="16" />
+        <mark key="^" line="347" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.interfaces.ts" timestamp="1550812485934">
         <mark key="[" line="185" column="15" />
@@ -25,10 +25,11 @@
         <mark key="]" line="63" column="40" />
         <mark key="." line="63" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/interactions/moving.html" timestamp="1551147976534">
-        <mark key="[" line="70" column="22" />
-        <mark key="]" line="70" column="22" />
-        <mark key="." line="70" column="22" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/interactions/moving.html" timestamp="1551157841284">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="58" column="6" />
+        <mark key="." line="58" column="6" />
+        <mark key="^" line="58" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-box/search-box.component.ts" timestamp="1551081596330">
         <mark key="[" line="96" column="55" />
@@ -51,9 +52,6 @@
         <mark key="[" line="177" column="4" />
         <mark key="]" line="177" column="4" />
         <mark key="." line="177" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/SubwayEngine.ts" timestamp="1550735144104">
-        <mark key="[" line="459" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/lib/panZoom/index.js" timestamp="1550800361071">
         <mark key="[" line="325" column="5" />
