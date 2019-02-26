@@ -20,16 +20,19 @@
         <mark key="]" line="185" column="15" />
         <mark key="." line="185" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" timestamp="1551159016269" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
+        <mark key="[" line="414" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/popup/index.html" timestamp="1550818393642">
         <mark key="[" line="39" column="31" />
         <mark key="]" line="63" column="40" />
         <mark key="." line="63" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/interactions/moving.html" timestamp="1551157841284">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="58" column="6" />
-        <mark key="." line="58" column="6" />
-        <mark key="^" line="58" column="6" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/interactions/moving.html" timestamp="1551159495555">
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-box/search-box.component.ts" timestamp="1551081596330">
         <mark key="[" line="96" column="55" />
@@ -38,12 +41,6 @@
         <mark key="[" line="37" column="6" />
         <mark key="]" line="37" column="6" />
         <mark key="." line="37" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/common.ts" timestamp="1550736514640">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="9" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="21" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/dom.ts" timestamp="1550815852762">
         <mark key="[" line="0" column="33" />
@@ -167,10 +164,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>center</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
