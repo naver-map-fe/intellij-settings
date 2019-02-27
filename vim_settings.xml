@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.service.ts" timestamp="1551233810942">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.service.ts" timestamp="1551254253635">
         <mark key="[" line="645" column="89" />
         <mark key="]" line="166" column="15" />
         <mark key="^" line="166" column="15" />
@@ -15,11 +15,11 @@
         <mark key="." line="347" column="16" />
         <mark key="^" line="347" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" timestamp="1551252062364">
-        <mark key="[" line="138" column="13" />
-        <mark key="]" line="138" column="11" />
-        <mark key="." line="138" column="11" />
-        <mark key="^" line="138" column="11" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-direction-summary-popup/subway-direction-summary-popup.component.ts" timestamp="1551254508914">
+        <mark key="[" line="141" column="13" />
+        <mark key="]" line="141" column="11" />
+        <mark key="." line="141" column="11" />
+        <mark key="^" line="141" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/popup/index.html" timestamp="1551168455149">
         <mark key="[" line="39" column="31" />
@@ -55,18 +55,17 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/LayerManager.ts" timestamp="1551169890564">
         <mark key="[" line="115" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.interfaces.ts" timestamp="1551254387241">
+        <mark key="[" line="185" column="15" />
+        <mark key="]" line="185" column="15" />
+        <mark key="." line="185" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
         <mark key="[" line="414" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/interactions/moving.html" timestamp="1551177431689" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-box/search-box.component.ts" timestamp="1551081596330">
         <mark key="[" line="96" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/common.ts" timestamp="1550736514640">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="9" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="21" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/dom.ts" timestamp="1550815852762">
         <mark key="[" line="0" column="33" />
