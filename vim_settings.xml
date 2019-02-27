@@ -35,14 +35,14 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/LayerManager.ts" timestamp="1551256127147">
         <mark key="[" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1551256140236">
-        <mark key="[" line="201" column="69" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1551260793278">
+        <mark key="^" line="49" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/enum/index.ts" timestamp="1551256093737" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerFactory.ts" timestamp="1551256517302">
-        <mark key="[" line="80" column="43" />
-        <mark key="]" line="80" column="43" />
-        <mark key="." line="80" column="43" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerFactory.ts" timestamp="1551259664891">
+        <mark key="[" line="123" column="26" />
+        <mark key="]" line="123" column="26" />
+        <mark key="." line="123" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-entry-layout/subway-entry-layout.component.ts" timestamp="1551245601111">
         <mark key="[" line="84" column="14" />
@@ -199,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IndoorGround</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>IndoorGround</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
