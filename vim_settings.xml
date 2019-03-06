@@ -6,10 +6,10 @@
       <file name="/Dummy.txt" timestamp="1551333946624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1551837881460">
-        <mark key="[" line="108" column="49" />
-        <mark key="]" line="108" column="28" />
-        <mark key="." line="108" column="28" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1551843860142">
+        <mark key="[" line="107" column="49" />
+        <mark key="]" line="107" column="28" />
+        <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.interfaces.ts" timestamp="1551254387241">
         <mark key="[" line="185" column="15" />
@@ -18,6 +18,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
         <mark key="[" line="414" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/enum/common.ts" timestamp="1551843807370">
+        <mark key="[" line="115" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/popup/index.html" timestamp="1551168455149">
         <mark key="[" line="39" column="31" />
