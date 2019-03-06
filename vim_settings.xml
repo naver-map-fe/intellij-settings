@@ -6,10 +6,10 @@
       <file name="/Dummy.txt" timestamp="1551333946624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1551843860142">
-        <mark key="[" line="107" column="49" />
-        <mark key="]" line="107" column="28" />
-        <mark key="." line="107" column="28" />
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/View.ts" timestamp="1551844617363">
+        <mark key="[" line="111" column="64" />
+        <mark key="]" line="110" column="28" />
+        <mark key="." line="110" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/services/subway.interfaces.ts" timestamp="1551254387241">
         <mark key="[" line="185" column="15" />
@@ -44,6 +44,7 @@
         <mark key="]" line="84" column="14" />
         <mark key="." line="84" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/CollisionMap.ts" timestamp="1551844577359" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Indoor.ts" timestamp="1551334284544">
         <mark key="[" line="0" column="31" />
       </file>
