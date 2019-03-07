@@ -27,7 +27,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Indoor.ts" timestamp="1551334284544">
         <mark key="[" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1551936639943">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1551939613966">
         <mark key="[" line="133" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/directions/model/RoutePin.ts" timestamp="1551169480108">
@@ -61,10 +61,10 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
         <mark key="[" line="414" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/image.ts" timestamp="1551936559017">
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="23" column="58" />
-        <mark key="." line="23" column="58" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/image.ts" timestamp="1551939661891">
+        <mark key="[" line="256" column="32" />
+        <mark key="]" line="256" column="32" />
+        <mark key="." line="256" column="32" />
         <mark key="^" line="23" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/enum/common.ts" timestamp="1551843807370">
@@ -75,10 +75,10 @@
         <mark key="]" line="32" column="54" />
         <mark key="." line="32" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/text.ts" timestamp="1551936502656">
-        <mark key="[" line="241" column="14" />
-        <mark key="]" line="241" column="14" />
-        <mark key="." line="241" column="14" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/text.ts" timestamp="1551939886551">
+        <mark key="[" line="247" column="4" />
+        <mark key="]" line="247" column="4" />
+        <mark key="." line="247" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-box/search-box.component.ts" timestamp="1551081596330">
         <mark key="[" line="96" column="55" />
@@ -219,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pixelCenter</text>
+        <text>pixelCenter[1]</text>
       </register>
       <register name="-" type="4">
-        <text>pixelCenter</text>
+        <text>pixelCenter[1]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
