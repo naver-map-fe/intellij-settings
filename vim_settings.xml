@@ -22,13 +22,15 @@
         <mark key="]" line="200" column="31" />
         <mark key="." line="200" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1552368789004">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1552370817973">
         <mark key="[" line="2351" column="18" />
         <mark key="]" line="2351" column="18" />
         <mark key="." line="2351" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/mapboxgl/MapboxGLMap.ts" timestamp="1552368836779">
-        <mark key="[" line="418" column="49" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/mapboxgl/MapboxGLMap.ts" timestamp="1552370834887">
+        <mark key="[" line="425" column="11" />
+        <mark key="]" line="425" column="11" />
+        <mark key="." line="425" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550814674686">
         <mark key="[" line="38" column="5" />
@@ -42,10 +44,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/index.html" timestamp="1552367103300">
         <mark key="[" line="224" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/ProfileManager.ts" timestamp="1552365121337">
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="38" />
-        <mark key="." line="31" column="38" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/ProfileManager.ts" timestamp="1552371263581">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/ol-custom/CustomGeoJSON.ts" timestamp="1552027436361">
         <mark key="[" line="254" column="14" />
@@ -53,11 +55,11 @@
         <mark key="^" line="63" column="25" />
         <mark key="." line="254" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/Stats.ts" timestamp="1552365965026">
-        <mark key="[" line="60" column="62" />
-        <mark key="]" line="60" column="62" />
-        <mark key="." line="60" column="62" />
-        <mark key="^" line="58" column="0" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/Stats.ts" timestamp="1552369701226">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/enum/common.ts" timestamp="1551843807370">
         <mark key="[" line="115" column="3" />
@@ -82,8 +84,8 @@
         <mark key="]" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/google/GoogleMap.ts" timestamp="1552368849284">
-        <mark key="[" line="36" column="21" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/google/GoogleMap.ts" timestamp="1552370843323">
+        <mark key="[" line="40" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/node_modules/@types/ua-parser-js/index.d.ts" timestamp="1552288986226" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/LayerManager.ts" timestamp="1551256127147">
@@ -102,9 +104,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/rollup.config.ts" timestamp="1551863474004">
         <mark key="[" line="84" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/daum/DaumMap.ts" timestamp="1552368854562">
-        <mark key="[" line="84" column="21" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/daum/DaumMap.ts" timestamp="1552370847765">
+        <mark key="[" line="88" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Map.ts" timestamp="1552370778653" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/line.ts" timestamp="1551852520358">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="34" />
@@ -113,8 +116,8 @@
       <file name="/Dummy.txt" timestamp="1552036840635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/mantle/MantleMap.ts" timestamp="1552368843339">
-        <mark key="[" line="220" column="3" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/mantle/MantleMap.ts" timestamp="1552370838837">
+        <mark key="[" line="224" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
         <mark key="[" line="414" column="64" />
@@ -130,8 +133,8 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1552010905272">
         <mark key="[" line="367" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/common.ts" timestamp="1552368504820">
-        <mark key="[" line="69" column="17" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/common.ts" timestamp="1552369408042">
+        <mark key="[" line="72" column="1" />
         <mark key="]" line="69" column="17" />
         <mark key="." line="69" column="17" />
       </file>
@@ -262,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>apSt</text>
+        <text>this.map.getSize()</text>
       </register>
       <register name="-" type="4">
-        <text>apSt</text>
+        <text>this.map.getSize()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
