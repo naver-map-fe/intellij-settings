@@ -37,6 +37,7 @@
         <mark key="]" line="200" column="31" />
         <mark key="." line="200" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerFactory.ts" timestamp="1552873891103" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/perf/nightwatch.js" timestamp="1552638634257">
         <mark key="'" line="5" column="19" />
         <mark key="[" line="66" column="25" />
@@ -53,6 +54,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1551939613966">
         <mark key="[" line="133" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/openlayers/examples/mapbox-vector-tiles.js" timestamp="1552873982799">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/rollup.config.ts" timestamp="1551863474004">
         <mark key="[" line="84" column="48" />
@@ -74,7 +80,7 @@
         <mark key="]" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552872386148">
+      <file name="/Dummy.txt" timestamp="1552874020257">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
@@ -254,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>PIXEL_RATIO</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>PIXEL_RATIO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
