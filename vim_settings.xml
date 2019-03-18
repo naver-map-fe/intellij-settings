@@ -41,16 +41,6 @@
         <mark key="]" line="200" column="31" />
         <mark key="." line="200" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1552898092670">
-        <mark key="[" line="289" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1552897997312">
-        <mark key="'" line="1571" column="36" />
-        <mark key="[" line="1571" column="20" />
-        <mark key="]" line="1571" column="40" />
-        <mark key="." line="1571" column="40" />
-        <mark key="^" line="1571" column="40" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550814674686">
         <mark key="[" line="38" column="5" />
       </file>
@@ -113,9 +103,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/LayerManager.ts" timestamp="1551256127147">
         <mark key="[" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/TileGrid.ts" timestamp="1552892058495">
-        <mark key="[" line="300" column="6" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerFactory.ts" timestamp="1552890875698">
         <mark key="[" line="110" column="57" />
       </file>
@@ -129,7 +116,7 @@
         <mark key="[" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1552886363426">
-        <mark key="[" line="133" column="0" />
+        <mark key="[" line="134" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/openlayers/examples/mapbox-vector-tiles.js" timestamp="1552873982799">
         <mark key="[" line="23" column="26" />
