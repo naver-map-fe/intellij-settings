@@ -36,7 +36,6 @@
         <mark key="^" line="212" column="47" />
         <mark key="." line="269" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/arcgis-js-api-4.7.0/arcgis-js-api-4.7.0.s4/core/scheduling.js" timestamp="1552872385511" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/debug.html" timestamp="1552367098037">
         <mark key="[" line="200" column="31" />
         <mark key="]" line="200" column="31" />
@@ -107,12 +106,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerFactory.ts" timestamp="1552910348945">
         <mark key="[" line="111" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/perf/nightwatch.js" timestamp="1552638634257">
-        <mark key="'" line="5" column="19" />
-        <mark key="[" line="66" column="25" />
-        <mark key="]" line="66" column="25" />
-        <mark key="." line="66" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Indoor.ts" timestamp="1551334284544">
         <mark key="[" line="0" column="31" />
       </file>
@@ -147,6 +140,9 @@
         <mark key="[" line="72" column="1" />
         <mark key="]" line="69" column="17" />
         <mark key="." line="69" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/text.ts" timestamp="1552972078335">
+        <mark key="[" line="109" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/fill.ts" timestamp="1551852960199">
         <mark key="[" line="69" column="31" />
