@@ -40,10 +40,10 @@
         <mark key="]" line="200" column="31" />
         <mark key="." line="200" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1553056750967">
-        <mark key="[" line="75" column="5" />
-        <mark key="]" line="74" column="4" />
-        <mark key="." line="74" column="4" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1553059040190">
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="48" column="64" />
+        <mark key="." line="48" column="64" />
         <mark key="^" line="74" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550814674686">
@@ -140,13 +140,15 @@
         <mark key="]" line="30" column="34" />
         <mark key="." line="30" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/image.ts" timestamp="1553058372503">
+        <mark key="[" line="156" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1553057074275">
         <mark key="[" line="367" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/common.ts" timestamp="1552369408042">
-        <mark key="[" line="72" column="1" />
-        <mark key="]" line="69" column="17" />
-        <mark key="." line="69" column="17" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/common.ts" timestamp="1553059033634">
+        <mark key="]" line="76" column="17" />
+        <mark key="." line="76" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/fill.ts" timestamp="1551852960199">
         <mark key="[" line="69" column="31" />
@@ -281,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Color</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>Color</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
