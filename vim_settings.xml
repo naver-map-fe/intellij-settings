@@ -30,11 +30,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/perf/zooming.js" timestamp="1552882549167">
         <mark key="[" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/indoor/Indoor.ts" timestamp="1552910447294">
-        <mark key="[" line="183" column="63" />
-        <mark key="]" line="183" column="64" />
-        <mark key="." line="183" column="64" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/debug.html" timestamp="1552367098037">
         <mark key="[" line="200" column="31" />
         <mark key="]" line="200" column="31" />
@@ -140,15 +135,12 @@
         <mark key="]" line="30" column="34" />
         <mark key="." line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/image.ts" timestamp="1553058372503">
-        <mark key="[" line="156" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1553057074275">
-        <mark key="[" line="367" column="11" />
+        <mark key="[" line="366" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/common.ts" timestamp="1553059033634">
-        <mark key="]" line="76" column="17" />
-        <mark key="." line="76" column="17" />
+        <mark key="]" line="69" column="17" />
+        <mark key="." line="69" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/fill.ts" timestamp="1551852960199">
         <mark key="[" line="69" column="31" />
