@@ -50,6 +50,11 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/LayerManager.ts" timestamp="1551169890564">
         <mark key="[" line="115" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/index.html" timestamp="1553161854510">
+        <mark key="[" line="101" column="47" />
+        <mark key="]" line="101" column="47" />
+        <mark key="." line="101" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/worker/VectorTileWorkerSource.ts" timestamp="1552895894266">
         <mark key="[" line="218" column="29" />
       </file>
@@ -126,8 +131,10 @@
         <mark key="." line="76" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1553152814722" />
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-event.service.ts" timestamp="1553160647613">
-        <mark key="[" line="214" column="30" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-event.service.ts" timestamp="1553162073107">
+        <mark key="[" line="227" column="14" />
+        <mark key="]" line="227" column="14" />
+        <mark key="." line="227" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/perf/index.html" timestamp="1552882470149">
         <mark key="[" line="47" column="17" />
@@ -252,10 +259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fixed</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>fixed</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>vs</text>
