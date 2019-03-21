@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/api/api.service.ts" timestamp="1553147244276">
+        <mark key="[" line="917" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Tile.ts" timestamp="1552891607107">
         <mark key="[" line="160" column="24" />
         <mark key="]" line="160" column="24" />
@@ -39,10 +42,10 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/LayerManager.ts" timestamp="1551169890564">
         <mark key="[" line="115" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/index.html" timestamp="1553145931663">
-        <mark key="[" line="67" column="70" />
-        <mark key="]" line="67" column="70" />
-        <mark key="." line="67" column="70" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/index.html" timestamp="1553148160918">
+        <mark key="[" line="60" column="70" />
+        <mark key="]" line="60" column="70" />
+        <mark key="." line="60" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/worker/VectorTileWorkerSource.ts" timestamp="1552895894266">
         <mark key="[" line="218" column="29" />
@@ -112,6 +115,7 @@
         <mark key="]" line="76" column="17" />
         <mark key="." line="76" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1553148487774" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/perf/index.html" timestamp="1552882470149">
         <mark key="[" line="47" column="17" />
       </file>
@@ -235,13 +239,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log(e)</text>
+        <text>.querySelector('#test')</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(e)</text>
+        <text>.querySelector('#test')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwsXD4=</text>
+        <text>vs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
@@ -293,9 +297,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwsXD4=</last-search>
+      <last-search>vs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwsXD4=</last-pattern>
+      <last-pattern>vs</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTdW1tYXJ5XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -312,8 +316,8 @@
         <entry encoding="base64">XDwwXD4=</entry>
         <entry>sp</entry>
         <entry encoding="base64">XDxjZW50ZXJPblw+</entry>
-        <entry>vs</entry>
         <entry encoding="base64">XDwsXD4=</entry>
+        <entry>vs</entry>
       </history-search>
       <history-cmd>
         <entry>294</entry>
