@@ -30,8 +30,13 @@
         <mark key="." line="48" column="64" />
         <mark key="^" line="74" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1553061631993">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1553156145675">
         <mark key="[" line="921" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.scss" timestamp="1553155808202">
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="16" />
+        <mark key="." line="43" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.html" timestamp="1553153894399">
         <mark key="[" line="1" column="59" />
@@ -49,6 +54,9 @@
         <mark key="[" line="218" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/directives/prevent-default/prevent-default.directive.ts" timestamp="1553153822263" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/styles/common/_base.scss" timestamp="1553155699745">
+        <mark key="[" line="24" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/enum/common.ts" timestamp="1551843807370">
         <mark key="[" line="115" column="3" />
       </file>
@@ -106,6 +114,9 @@
       <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/+setting/components/setting-members/setting-members.component.ts" timestamp="1553141534862" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
         <mark key="[" line="414" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/index.html" timestamp="1553155830877">
+        <mark key="[" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1553057074275">
         <mark key="[" line="366" column="11" />
@@ -238,10 +249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-webkit-overflow-scrolling</text>
+        <text>fixed</text>
       </register>
       <register name="-" type="4">
-        <text>-webkit-overflow-scrolling</text>
+        <text>fixed</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
