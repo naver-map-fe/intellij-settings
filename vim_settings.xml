@@ -133,8 +133,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/rollup.config.ts" timestamp="1551863474004">
         <mark key="[" line="84" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions/components/directions-map-popup-icon/directions-map-popup-icon-item.component.ts" timestamp="1553516473794">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions/components/directions-map-popup-icon/directions-map-popup-icon-item.component.ts" timestamp="1553565235122">
+        <mark key="[" line="297" column="11" />
+        <mark key="]" line="297" column="11" />
         <mark key="^" line="143" column="43" />
+        <mark key="." line="297" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1553497263927">
         <mark key="[" line="0" column="0" />
@@ -281,7 +284,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lastLngLat</text>
+        <text>, {
+            'type': 'Feature',
+            'geometry': {
+              'type': 'Point',
+              'coordinates': [box.ne.lng, box.ne.lat]
+            }
+          }</text>
       </register>
       <register name="-" type="4">
         <text>lastLngLat</text>
@@ -292,14 +301,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">TW91c2VFdmVudAo=</text>
+      <register name="1" type="4">
+        <text>, {
+            'type': 'Feature',
+            'geometry': {
+              'type': 'Point',
+              'coordinates': [box.ne.lng, box.ne.lat]
+            }
+          }</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-      color: color.toArray(),
-      opacity: color.a
-    };</text>
+      <register name="2" type="2">
+        <text encoding="base64">TW91c2VFdmVudAo=</text>
       </register>
       <register name="3" type="4">
         <text>{
@@ -311,28 +323,30 @@
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICByZXF1ZXN0QW5pbWF0aW9uRnJhbWUoKCkgPT4gewogICAgICB9KTsKICAgIH0=</text>
+        <text>{
+      color: color.toArray(),
+      opacity: color.a
+    };</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgfQ==</text>
+        <text encoding="base64">KCkgPT4gewogICAgICByZXF1ZXN0QW5pbWF0aW9uRnJhbWUoKCkgPT4gewogICAgICB9KTsKICAgIH0=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIGlmICghZWxlbWVudCkgewogICAgICByZXR1cm4gWzAsIDBdOwogICAgfQoKICAgIGxldCB7IHdpZHRoLCBoZWlnaHQgfTogQ2xpZW50UmVjdCA9IGVsZW1lbnQuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCk7CgogICAgaWYgKHdpZHRoID09PSAwICYmIGhlaWdodCA9PT0gMCkgewogICAgICByZXR1cm4gQXJyYXkuZnJvbShlbGVtZW50LmNoaWxkcmVuKS5yZWR1Y2UoCiAgICAgICAgKHRvdGFsOiBbbnVtYmVyLCBudW1iZXJdLCBjaGlsZDogRWxlbWVudCk6IFtudW1iZXIsIG51bWJlcl0gPT4gewogICAgICAgICAgY29uc3QgW3csIGhdOiBbbnVtYmVyLCBudW1iZXJdID0gdGhpcy5nZXRFbGVtZW50U2l6ZShjaGlsZCk7CiAgICAgICAgICByZXR1cm4gW3RvdGFsWzBdICsgdywgdG90YWxbMV0gKyBoXTsKICAgICAgICB9LAogICAgICAgIFswLCAwXSBhcyBbbnVtYmVyLCBudW1iZXJdCiAgICAgICk7CiAgICB9CgogICAgcmV0dXJuIFt3aWR0aCwgaGVpZ2h0XTsK</text>
+        <text encoding="base64">KCkgPT4gewogICAgfQ==</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAgIGlmICghZWxlbWVudCkgewogICAgICByZXR1cm4gWzAsIDBdOwogICAgfQoKICAgIGxldCB7IHdpZHRoLCBoZWlnaHQgfTogQ2xpZW50UmVjdCA9IGVsZW1lbnQuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCk7CgogICAgaWYgKHdpZHRoID09PSAwICYmIGhlaWdodCA9PT0gMCkgewogICAgICByZXR1cm4gQXJyYXkuZnJvbShlbGVtZW50LmNoaWxkcmVuKS5yZWR1Y2UoCiAgICAgICAgKHRvdGFsOiBbbnVtYmVyLCBudW1iZXJdLCBjaGlsZDogRWxlbWVudCk6IFtudW1iZXIsIG51bWJlcl0gPT4gewogICAgICAgICAgY29uc3QgW3csIGhdOiBbbnVtYmVyLCBudW1iZXJdID0gdGhpcy5nZXRFbGVtZW50U2l6ZShjaGlsZCk7CiAgICAgICAgICByZXR1cm4gW3RvdGFsWzBdICsgdywgdG90YWxbMV0gKyBoXTsKICAgICAgICB9LAogICAgICAgIFswLCAwXSBhcyBbbnVtYmVyLCBudW1iZXJdCiAgICAgICk7CiAgICB9CgogICAgcmV0dXJuIFt3aWR0aCwgaGVpZ2h0XTsK</text>
+      </register>
+      <register name="8" type="4">
         <text>options: {
     
   } = {}</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgdGhpcy5pbnRlcmFjdGlvbk1hbmFnZXIuaXNNb3ZpbmcoKSB8fAogICAg</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>x: Math.floor(e.clientX),
-        y: Math.floor(e.pixel[1])</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pbnRlcmFjdGlvbk1hbmFnZXIuaXNNb3ZpbmcoKSB8fAogICAg</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
