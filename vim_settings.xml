@@ -23,7 +23,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/perf/zooming.js" timestamp="1552882549167">
         <mark key="[" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions-search/components/directions-search-box/directions-search-box.component.ts" timestamp="1553582075014" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+bus/components/bus-favorite-banner/bus-favorite-banner.component.html" timestamp="1553171263963" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+subway/components/subway-control-panel/subway-input-control/subway-input-control-item/subway-input-control-item.component.ts" timestamp="1553582294673">
         <mark key="[" line="229" column="54" />
@@ -151,7 +150,7 @@
         <mark key="^" line="327" column="12" />
         <mark key="." line="327" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553497263927">
+      <file name="/Dummy.txt" timestamp="1553587134134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -159,8 +158,10 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
         <mark key="[" line="414" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/index.html" timestamp="1553494275522">
-        <mark key="[" line="77" column="38" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/index.html" timestamp="1553587016883">
+        <mark key="[" line="79" column="1" />
+        <mark key="]" line="79" column="1" />
+        <mark key="." line="79" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-event.service.ts" timestamp="1553578448296">
         <mark key="[" line="247" column="6" />
@@ -178,9 +179,6 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/ObjectPool.ts" timestamp="1552027478020">
         <mark key="[" line="0" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+directions-search/components/directions-search/directions-search.component.ts" timestamp="1553580997085">
-        <mark key="[" line="72" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-item-place/search-item-place.component.html" timestamp="1553583599404">
         <mark key="[" line="1" column="5" />
@@ -304,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(click)=&quot;selectSearchList()</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>(click)=&quot;selectSearchList()</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>vs</text>
