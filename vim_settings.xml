@@ -101,6 +101,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/components/nm-select-box/nm-select-box.component.ts" timestamp="1553582045983">
         <mark key="[" line="54" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/interfaces/banner.interfaces.ts" timestamp="1553584996722" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/database/DataAccessObject.ts" timestamp="1552552506860">
         <mark key="[" line="32" column="20" />
       </file>
@@ -143,6 +144,12 @@
         <mark key="]" line="307" column="71" />
         <mark key="^" line="143" column="43" />
         <mark key="." line="307" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/MapDB-Admin-Tools-FE/src/app/modules/banner/banner.settings.ts" timestamp="1553584927434">
+        <mark key="[" line="327" column="14" />
+        <mark key="]" line="327" column="12" />
+        <mark key="^" line="327" column="12" />
+        <mark key="." line="327" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1553497263927">
         <mark key="[" line="0" column="0" />
