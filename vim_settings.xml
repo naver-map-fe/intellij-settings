@@ -20,8 +20,10 @@
         <mark key="'" line="2086" column="27" />
         <mark key="[" line="187" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-zoom/control-zoom.component.ts" timestamp="1553680860250">
-        <mark key="[" line="143" column="39" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-zoom/control-zoom.component.ts" timestamp="1553682775680">
+        <mark key="[" line="152" column="30" />
+        <mark key="]" line="152" column="30" />
+        <mark key="." line="152" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-layout.service.ts" timestamp="1553240095358">
         <mark key="[" line="62" column="80" />
@@ -52,8 +54,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/enum/PublicEvent.ts" timestamp="1553243326719">
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-zoom/control-zoom.component.html" timestamp="1553680938434">
-        <mark key="[" line="9" column="42" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-zoom/control-zoom.component.html" timestamp="1553682336468">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/index.html" timestamp="1553587016883">
         <mark key="[" line="79" column="1" />
@@ -191,10 +195,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.bannerModuleType =</text>
+        <text>click</text>
       </register>
       <register name="-" type="4">
-        <text>this.bannerModuleType =</text>
+        <text>click</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
