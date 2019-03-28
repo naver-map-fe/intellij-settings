@@ -8,13 +8,16 @@
         <mark key="]" line="160" column="24" />
         <mark key="." line="160" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1553242003715">
-        <mark key="[" line="518" column="68" />
-        <mark key="]" line="518" column="68" />
-        <mark key="." line="518" column="68" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1553738856972">
+        <mark key="[" line="558" column="35" />
+        <mark key="]" line="558" column="35" />
+        <mark key="." line="558" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/assets/i18n/ko.json" timestamp="1553172299541">
         <mark key="[" line="1286" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama-avatar.service.ts" timestamp="1553739162354">
+        <mark key="[" line="31" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1553665523946">
         <mark key="'" line="2086" column="27" />
@@ -196,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>click</text>
+        <text>e.lngLat || this.maps.unproject({ x: e['pixel'][0], y: e['pixel'][1] } as Point);</text>
       </register>
       <register name="-" type="4">
-        <text>click</text>
+        <text>e.lngLat || this.maps.unproject({ x: e['pixel'][0], y: e['pixel'][1] } as Point);</text>
       </register>
       <register name="/" type="4">
         <text>vs</text>
