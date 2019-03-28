@@ -34,8 +34,10 @@
         <mark key="]" line="200" column="31" />
         <mark key="." line="200" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.ts" timestamp="1553749846105">
-        <mark key="[" line="61" column="41" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.ts" timestamp="1553751759485">
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1552377996323">
         <mark key="[" line="2351" column="18" />
@@ -50,6 +52,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/LayerManager.ts" timestamp="1551169890564">
         <mark key="[" line="115" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.html" timestamp="1553750770287">
+        <mark key="[" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/enum/common.ts" timestamp="1551843807370">
         <mark key="[" line="115" column="3" />
@@ -74,7 +79,7 @@
         <mark key="]" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1553748318378">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1553750702166">
         <mark key="[" line="558" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/LayerManager.ts" timestamp="1551256127147">
@@ -85,6 +90,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/rollup.config.ts" timestamp="1551863474004">
         <mark key="[" line="84" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.scss" timestamp="1553752963673">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="51" />
+        <mark key="." line="4" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/line.ts" timestamp="1551852520358">
         <mark key="[" line="4" column="34" />
@@ -243,10 +253,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">d2luZG93ICYmIHdpbmRvdy4=</text>
+        <text>important</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2luZG93ICYmIHdpbmRvdy4=</text>
+        <text>important</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
@@ -254,44 +264,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICByZXF1ZXN0QW5pbWF0aW9uRnJhbWUoKCkgPT4gewogICAgICB9KTsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtOTUlKSAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgfQ==</text>
+        <text encoding="base64">KCkgPT4gewogICAgICByZXF1ZXN0QW5pbWF0aW9uRnJhbWUoKCkgPT4gewogICAgICB9KTsKICAgIH0=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIGlmICghZWxlbWVudCkgewogICAgICByZXR1cm4gWzAsIDBdOwogICAgfQoKICAgIGxldCB7IHdpZHRoLCBoZWlnaHQgfTogQ2xpZW50UmVjdCA9IGVsZW1lbnQuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCk7CgogICAgaWYgKHdpZHRoID09PSAwICYmIGhlaWdodCA9PT0gMCkgewogICAgICByZXR1cm4gQXJyYXkuZnJvbShlbGVtZW50LmNoaWxkcmVuKS5yZWR1Y2UoCiAgICAgICAgKHRvdGFsOiBbbnVtYmVyLCBudW1iZXJdLCBjaGlsZDogRWxlbWVudCk6IFtudW1iZXIsIG51bWJlcl0gPT4gewogICAgICAgICAgY29uc3QgW3csIGhdOiBbbnVtYmVyLCBudW1iZXJdID0gdGhpcy5nZXRFbGVtZW50U2l6ZShjaGlsZCk7CiAgICAgICAgICByZXR1cm4gW3RvdGFsWzBdICsgdywgdG90YWxbMV0gKyBoXTsKICAgICAgICB9LAogICAgICAgIFswLCAwXSBhcyBbbnVtYmVyLCBudW1iZXJdCiAgICAgICk7CiAgICB9CgogICAgcmV0dXJuIFt3aWR0aCwgaGVpZ2h0XTsK</text>
+        <text encoding="base64">KCkgPT4gewogICAgfQ==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgIGlmICghZWxlbWVudCkgewogICAgICByZXR1cm4gWzAsIDBdOwogICAgfQoKICAgIGxldCB7IHdpZHRoLCBoZWlnaHQgfTogQ2xpZW50UmVjdCA9IGVsZW1lbnQuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCk7CgogICAgaWYgKHdpZHRoID09PSAwICYmIGhlaWdodCA9PT0gMCkgewogICAgICByZXR1cm4gQXJyYXkuZnJvbShlbGVtZW50LmNoaWxkcmVuKS5yZWR1Y2UoCiAgICAgICAgKHRvdGFsOiBbbnVtYmVyLCBudW1iZXJdLCBjaGlsZDogRWxlbWVudCk6IFtudW1iZXIsIG51bWJlcl0gPT4gewogICAgICAgICAgY29uc3QgW3csIGhdOiBbbnVtYmVyLCBudW1iZXJdID0gdGhpcy5nZXRFbGVtZW50U2l6ZShjaGlsZCk7CiAgICAgICAgICByZXR1cm4gW3RvdGFsWzBdICsgdywgdG90YWxbMV0gKyBoXTsKICAgICAgICB9LAogICAgICAgIFswLCAwXSBhcyBbbnVtYmVyLCBudW1iZXJdCiAgICAgICk7CiAgICB9CgogICAgcmV0dXJuIFt3aWR0aCwgaGVpZ2h0XTsK</text>
+      </register>
+      <register name="5" type="4">
         <text>options: {
     
   } = {}</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgdGhpcy5pbnRlcmFjdGlvbk1hbmFnZXIuaXNNb3ZpbmcoKSB8fAogICAg</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>x: Math.floor(e.clientX),
         y: Math.floor(e.pixel[1])</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OwogICAgZWwuc3R5bGUudG9wID0g</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICB0</text>
+        <text encoding="base64">OwogICAgZWwuc3R5bGUudG9wID0g</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>{
-      x,
-      y
-    }</text>
+        <text encoding="base64">CiAgICB0</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
