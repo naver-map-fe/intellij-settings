@@ -43,7 +43,7 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553686974844">
+      <file name="/Dummy.txt" timestamp="1553736669767">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -54,10 +54,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/enum/PublicEvent.ts" timestamp="1553243326719">
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-zoom/control-zoom.component.html" timestamp="1553682336468">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-zoom/control-zoom.component.html" timestamp="1553736688812">
         <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="6" />
+        <mark key="^" line="29" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/index.html" timestamp="1553587016883">
         <mark key="[" line="79" column="1" />
