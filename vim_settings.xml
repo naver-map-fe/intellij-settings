@@ -25,6 +25,11 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/LayerManager.ts" timestamp="1551169890564">
         <mark key="[" line="115" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/toolbox/toolbox-radius.service.ts" timestamp="1553846973287">
+        <mark key="[" line="101" column="22" />
+        <mark key="]" line="101" column="21" />
+        <mark key="." line="101" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.html" timestamp="1553840787560">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="6" />
@@ -57,7 +62,7 @@
         <mark key="[" line="325" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1553775757346">
-        <mark key="[" line="721" column="36" />
+        <mark key="[" line="741" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.interfaces.ts" timestamp="1553775199574" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/LayerManager.ts" timestamp="1551256127147">
@@ -216,10 +221,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log(layerData.layers, featureType);</text>
+        <text>MapMouseEvent</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(layerData.layers, featureType);</text>
+        <text>MapMouseEvent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
