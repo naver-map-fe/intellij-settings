@@ -9,15 +9,6 @@
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1552283132495">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/const.js" timestamp="1552355799137">
-        <mark key="[" line="34" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/environments/env.stage.ts" timestamp="1551333607984">
-        <mark key="[" line="4" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1553762792264" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-layout.service.ts" timestamp="1553762365783">
         <mark key="[" line="27" column="28" />
@@ -26,15 +17,6 @@
         <mark key="[" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/mapbox-gl.d.ts" timestamp="1554003696743" />
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550814674686">
-        <mark key="[" line="38" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/ObjectMap.ts" timestamp="1551940768298">
-        <mark key="[" line="13" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/LayerManager.ts" timestamp="1551169890564">
-        <mark key="[" line="115" column="68" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/toolbox/toolbox-radius.service.ts" timestamp="1554010055315" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.html" timestamp="1553840787560">
         <mark key="[" line="4" column="6" />
@@ -45,63 +27,27 @@
         <mark key="[" line="573" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama-event.service.ts" timestamp="1553760663098" />
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/enum/common.ts" timestamp="1551843807370">
-        <mark key="[" line="115" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/maps-layout/maps-layout.component.ts" timestamp="1554004521228">
         <mark key="[" line="498" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/assets/img/panorama/pegman-panorama.json" timestamp="1553772703848" />
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/dom.ts" timestamp="1550815852762">
-        <mark key="[" line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/MapFactory.ts" timestamp="1552283200115">
-        <mark key="[" line="14" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/styles/common/_mixins.scss" timestamp="1553754094430">
         <mark key="[" line="45" column="54" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/StateService.ts" timestamp="1552283492951">
-        <mark key="[" line="26" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/lib/panZoom/index.js" timestamp="1550800361071">
-        <mark key="[" line="325" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1554004548735">
         <mark key="[" line="741" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.interfaces.ts" timestamp="1553775199574" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/LayerManager.ts" timestamp="1551256127147">
-        <mark key="[" line="13" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/cctv/components/cctv-popup/cctv-popup.component.ts" timestamp="1554008719886">
         <mark key="[" line="301" column="122" />
         <mark key="]" line="301" column="121" />
         <mark key="." line="301" column="121" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Indoor.ts" timestamp="1551334284544">
-        <mark key="[" line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/services/search/search-item-hover/search-item-hover.service.ts" timestamp="1554010141614">
-        <mark key="[" line="313" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/rollup.config.ts" timestamp="1551863474004">
-        <mark key="[" line="84" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.scss" timestamp="1554006358999">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="13" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552036840635">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/panorama-layout/panorama-layout.component.html" timestamp="1553749560228">
-        <mark key="[" line="75" column="76" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
-        <mark key="[" line="414" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/toolbox/toolbox-area.service.ts" timestamp="1554009369927">
         <mark key="[" line="127" column="23" />
@@ -110,24 +56,13 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/components/nm-input-count/nm-input-count.component.ts" timestamp="1553776527949" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/global-layout/global-layout.service.ts" timestamp="1553761743644" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-item-place/search-item-place.component.scss" timestamp="1554014151215" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/env.json" timestamp="1553841441267">
         <mark key="[" line="4" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/examples/util.js" timestamp="1551845522889">
-        <mark key="[" line="296" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/ObjectPool.ts" timestamp="1552027478020">
-        <mark key="[" line="0" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama-offscreen-avatar.service.ts" timestamp="1554004542612" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman-offscreen-widget/pegman-offscreen-widget.component.scss" timestamp="1553772325498" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-item-place/search-item-place.component.html" timestamp="1554010094639" />
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-box/search-box.component.html" timestamp="1551080907125">
-        <mark key="[" line="1" column="99" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/const.ts" timestamp="1551771270915">
-        <mark key="[" line="81" column="46" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/panorama-layout/panorama-layout.component.ts" timestamp="1553775015468" />
     </filemarks>
     <jumps>
