@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama-avatar.service.ts" timestamp="1554004531719" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/toolbox/toolbox-distance.service.ts" timestamp="1553854576232">
-        <mark key="[" line="244" column="23" />
-        <mark key="]" line="244" column="22" />
-        <mark key="." line="244" column="22" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1552283132495">
         <mark key="[" line="0" column="0" />
@@ -18,10 +19,11 @@
         <mark key="[" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1553762792264" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.ts" timestamp="1554004555300" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-layout.service.ts" timestamp="1553762365783">
         <mark key="[" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/mapbox-gl.d.ts" timestamp="1553999453263" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/mapbox-gl.d.ts" timestamp="1554003696743" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550814674686">
         <mark key="[" line="38" column="5" />
       </file>
@@ -30,12 +32,6 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/LayerManager.ts" timestamp="1551169890564">
         <mark key="[" line="115" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/toolbox/toolbox-radius.service.ts" timestamp="1553854674425">
-        <mark key="[" line="139" column="16" />
-        <mark key="]" line="139" column="16" />
-        <mark key="^" line="230" column="21" />
-        <mark key="." line="139" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.html" timestamp="1553840787560">
         <mark key="[" line="4" column="6" />
@@ -49,7 +45,7 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/enum/common.ts" timestamp="1551843807370">
         <mark key="[" line="115" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/maps-layout/maps-layout.component.ts" timestamp="1553762678628">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/maps-layout/maps-layout.component.ts" timestamp="1554004521228">
         <mark key="[" line="498" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/assets/img/panorama/pegman-panorama.json" timestamp="1553772703848" />
@@ -68,7 +64,7 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/lib/panZoom/index.js" timestamp="1550800361071">
         <mark key="[" line="325" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1553775757346">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1554004548735">
         <mark key="[" line="741" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.interfaces.ts" timestamp="1553775199574" />
@@ -77,6 +73,10 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Indoor.ts" timestamp="1551334284544">
         <mark key="[" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-zoom/control-zoom.component.ts" timestamp="1554004513808" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/ua-parser/ua-parser.service.ts" timestamp="1554004477672">
+        <mark key="[" line="46" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/rollup.config.ts" timestamp="1551863474004">
         <mark key="[" line="84" column="48" />
@@ -97,10 +97,7 @@
         <mark key="[" line="414" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/toolbox/toolbox-area.service.ts" timestamp="1553854753379">
-        <mark key="[" line="242" column="23" />
-        <mark key="]" line="241" column="21" />
-        <mark key="." line="241" column="21" />
-        <mark key="^" line="241" column="21" />
+        <mark key="[" line="50" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/components/nm-input-count/nm-input-count.component.ts" timestamp="1553776527949" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/global-layout/global-layout.service.ts" timestamp="1553761743644" />
@@ -113,6 +110,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/ObjectPool.ts" timestamp="1552027478020">
         <mark key="[" line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama-offscreen-avatar.service.ts" timestamp="1554004542612" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman-offscreen-widget/pegman-offscreen-widget.component.scss" timestamp="1553772325498" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-box/search-box.component.html" timestamp="1551080907125">
         <mark key="[" line="1" column="99" />
