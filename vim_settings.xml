@@ -21,6 +21,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-layout.service.ts" timestamp="1553762365783">
         <mark key="[" line="27" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/mapbox-gl.d.ts" timestamp="1553999453263" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550814674686">
         <mark key="[" line="38" column="5" />
       </file>
@@ -95,11 +96,6 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1551158781527">
         <mark key="[" line="414" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1553998599433">
-        <mark key="[" line="295" column="56" />
-        <mark key="]" line="295" column="56" />
-        <mark key="." line="295" column="56" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/toolbox/toolbox-area.service.ts" timestamp="1553854753379">
         <mark key="[" line="242" column="23" />
         <mark key="]" line="241" column="21" />
@@ -108,11 +104,6 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/components/nm-input-count/nm-input-count.component.ts" timestamp="1553776527949" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/global-layout/global-layout.service.ts" timestamp="1553761743644" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/StyleManager.ts" timestamp="1553844330585">
-        <mark key="[" line="161" column="8" />
-        <mark key="]" line="161" column="8" />
-        <mark key="." line="161" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/env.json" timestamp="1553841441267">
         <mark key="[" line="4" column="37" />
       </file>
@@ -235,10 +226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>layout</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>layout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
