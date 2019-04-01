@@ -100,9 +100,11 @@
         <mark key="." line="200" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1553762792264" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1554020249577">
-        <mark key="]" line="2341" column="18" />
-        <mark key="." line="2341" column="18" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1554081653018">
+        <mark key="[" line="1622" column="19" />
+        <mark key="]" line="590" column="39" />
+        <mark key="." line="590" column="39" />
+        <mark key="^" line="590" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-layout.service.ts" timestamp="1553762365783">
         <mark key="[" line="27" column="28" />
@@ -150,6 +152,12 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Indoor.ts" timestamp="1551334284544">
         <mark key="[" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.scss" timestamp="1554006358999">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="13" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1552036840635">
         <mark key="[" line="0" column="0" />
