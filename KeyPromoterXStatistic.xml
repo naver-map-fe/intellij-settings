@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3393</Count>
+          <Count>3397</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -135,6 +135,14 @@
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste Simple">
+        <Item>
+          <IdeaActionID>EditorPasteSimple</IdeaActionID>
+          <ShortCut>'⌥⇧⌘V'</ShortCut>
+          <Description>Paste Simple</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
