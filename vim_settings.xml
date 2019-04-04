@@ -67,8 +67,10 @@
         <mark key="]" line="87" column="5" />
         <mark key="." line="87" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/const.js" timestamp="1552355799137">
-        <mark key="[" line="34" column="26" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/const.js" timestamp="1554380164454">
+        <mark key="[" line="184" column="22" />
+        <mark key="]" line="184" column="22" />
+        <mark key="." line="184" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/IndoorLayer.ts" timestamp="1554370913059">
         <mark key="[" line="195" column="31" />
@@ -241,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
+        <text>.getStats()</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>.getStats()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
@@ -253,41 +255,41 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
+        <text encoding="base64">CiAgLy8=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LCBsYXllciwgewogICAgICBiYXNlOiB0cnVlCiAgICA=</text>
+        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
       </register>
       <register name="3" type="4">
-        <text>, layer, {
-      base: true
-    }</text>
+        <text encoding="base64">LCBsYXllciwgewogICAgICBiYXNlOiB0cnVlCiAgICA=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGxheWVyLCB7CiAgICAgIGJhc2U6IHRydWUKICAgIH0=</text>
+        <text>, layer, {
+      base: true
+    }</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IGxheWVyLCB7CiAgICAgIGJhc2U6IHRydWUKICAgIH0=</text>
+      </register>
+      <register name="6" type="4">
         <text>{
       type: 'INDOOR_SUB'
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGVsc2UgewogICAgICB0aGlzLmV2ZW50cy5tb2RlCiAgICAgICAgLnBpcGUoCiAgICAgICAgICBmaWx0ZXIobW9kZSA9PiBtb2RlID09PSBQYW5vcmFtYU1vZGUuVmlld2VyKSwKICAgICAgICAgIGZpcnN0KCkKICAgICAgICApCiAgICAgICAgLnN1YnNjcmliZSgoKSA9PiB7CiAgICAgICAgICB0aGlzLmFkanVzdE1pbmlNYXBBbmRBdmF0YXIoKTsKICAgICAgICB9KTsKICAgIH0=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtOTUlKSAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICByZXF1ZXN0QW5pbWF0aW9uRnJhbWUoKCkgPT4gewogICAgICB9KTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtOTUlKSAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
