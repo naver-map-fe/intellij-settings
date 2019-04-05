@@ -60,10 +60,10 @@
         <mark key="." line="40" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/package.json" timestamp="1554359589914" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/image.ts" timestamp="1554445117448">
-        <mark key="[" line="147" column="38" />
-        <mark key="]" line="147" column="36" />
-        <mark key="." line="147" column="36" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/image.ts" timestamp="1554449552620">
+        <mark key="[" line="184" column="14" />
+        <mark key="]" line="184" column="14" />
+        <mark key="." line="184" column="14" />
         <mark key="^" line="147" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1554444371585">
@@ -179,10 +179,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>style</text>
+        <text>isYOffset</text>
       </register>
       <register name="-" type="4">
-        <text>style</text>
+        <text>isYOffset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
