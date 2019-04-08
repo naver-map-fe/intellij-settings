@@ -142,9 +142,7 @@
         <mark key="]" line="200" column="31" />
         <mark key="." line="200" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1554703825154">
-        <mark key="[" line="143" column="6" />
-      </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1554707940092" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1554430444510">
         <mark key="[" line="129" column="12" />
       </file>
@@ -244,7 +242,7 @@
         <mark key="]" line="95" column="12" />
         <mark key="." line="95" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/util.ts" timestamp="1554704467672">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/util.ts" timestamp="1554706289089">
         <mark key="[" line="76" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/fill.ts" timestamp="1551852960199">
@@ -374,10 +372,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pixelRatio</text>
+        <text>font</text>
       </register>
       <register name="-" type="4">
-        <text>pixelRatio</text>
+        <text>font</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
