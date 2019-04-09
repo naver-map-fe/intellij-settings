@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/FeatureBoundCalculator.ts" timestamp="1554443694168">
         <mark key="[" line="65" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/WorkerWrapper.ts" timestamp="1554796044638">
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/WorkerWrapper.ts" timestamp="1554798839128">
         <mark key="[" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/services/search/search-layer-maker.model.ts" timestamp="1554698379018">
@@ -70,6 +70,9 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/rollup.config.ts" timestamp="1551863474004">
         <mark key="[" line="84" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/interface/common.ts" timestamp="1554798983444">
+        <mark key="[" line="21" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1554120254805">
         <mark key="[" line="123" column="42" />
       </file>
@@ -82,8 +85,8 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/const.ts" timestamp="1554431002219">
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/VSync.ts" timestamp="1554796049573">
-        <mark key="[" line="0" column="7" />
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/VSync.ts" timestamp="1554798860406">
+        <mark key="[" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1554446874115">
         <mark key="[" line="193" column="38" />
@@ -95,18 +98,16 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/const.ts" timestamp="1551771270915">
         <mark key="[" line="81" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/task/Task.ts" timestamp="1554795838726">
-        <mark key="[" line="0" column="6" />
-      </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/task/Task.ts" timestamp="1554795838726" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerManager.ts" timestamp="1554371188597">
         <mark key="[" line="87" column="5" />
         <mark key="]" line="87" column="5" />
         <mark key="." line="87" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/ThreadPool.ts" timestamp="1554796024221">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/ThreadPool.ts" timestamp="1554798828197">
+        <mark key="[" line="55" column="17" />
+        <mark key="]" line="55" column="17" />
+        <mark key="." line="55" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/test/util/uuid.spec.ts" timestamp="1554798271273">
         <mark key="[" line="24" column="30" />
@@ -159,7 +160,7 @@
       <file name="$USER_HOME$/workspace/naver/v-sync.js/tsconfig.json" timestamp="1554793186439">
         <mark key="[" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/WorkerFactory.ts" timestamp="1554796039793">
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/WorkerFactory.ts" timestamp="1554798831849">
         <mark key="[" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/dom.ts" timestamp="1550815852762">
@@ -176,15 +177,15 @@
         <mark key="[" line="26" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/util/EventTarget.ts" timestamp="1554791479773">
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="35" column="21" />
-        <mark key="." line="35" column="21" />
+        <mark key="[" line="79" column="21" />
+        <mark key="]" line="79" column="21" />
+        <mark key="." line="79" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/lib/panZoom/index.js" timestamp="1550800361071">
         <mark key="[" line="325" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/Thread.ts" timestamp="1554796009366">
-        <mark key="[" line="2" column="7" />
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/Thread.ts" timestamp="1554798774587">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/indoor/basic.html" timestamp="1554367015336" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Indoor.ts" timestamp="1551334284544">
@@ -236,7 +237,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/ObjectPool.ts" timestamp="1552027478020">
         <mark key="[" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/Job.ts" timestamp="1554795996239" />
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/Job.ts" timestamp="1554798754595">
+        <mark key="[" line="99" column="25" />
+        <mark key="]" line="99" column="25" />
+        <mark key="." line="99" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-box/search-box.component.html" timestamp="1551080907125">
         <mark key="[" line="1" column="99" />
       </file>
@@ -345,10 +350,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, l = array.lengt</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>, l = array.lengt</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
