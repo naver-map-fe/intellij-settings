@@ -21,7 +21,9 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/LayerManager.ts" timestamp="1551169890564">
         <mark key="[" line="115" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/index.html" timestamp="1554445509923" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/index.html" timestamp="1554869786460">
+        <mark key="[" line="156" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/worker/VectorTileWorkerSource.ts" timestamp="1554355346350">
         <mark key="[" line="368" column="7" />
       </file>
@@ -46,6 +48,9 @@
         <mark key="[" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/loader.ts" timestamp="1554857774554" />
+      <file name="/Clipboard.txt" timestamp="1554869964896">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/VectorTileWorkerSource.ts" timestamp="1554355339122" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1554004548735">
         <mark key="[" line="741" column="36" />
@@ -89,6 +94,9 @@
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/v-sync.ts" timestamp="1554785467990" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/env.json.example" timestamp="1554122232248">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/StyleManager.ts" timestamp="1554869954891">
+        <mark key="[" line="178" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/const.ts" timestamp="1551771270915">
         <mark key="[" line="81" column="46" />
@@ -182,6 +190,7 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/indoor/basic.html" timestamp="1554367015336" />
+      <file name="/StyleManager.ts" timestamp="1554869938274" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Indoor.ts" timestamp="1551334284544">
         <mark key="[" line="0" column="31" />
       </file>
