@@ -39,6 +39,11 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/bookmark/bookmark-marker.model.ts" timestamp="1554891452582">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.html" timestamp="1553840787560">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="6" />
@@ -209,9 +214,6 @@
       <file name="$USER_HOME$/workspace/naver/v-sync.js/tsconfig.json" timestamp="1554793186439">
         <mark key="[" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/WorkerFactory.ts" timestamp="1554798831849">
-        <mark key="[" line="2" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/dom.ts" timestamp="1550815852762">
         <mark key="[" line="0" column="33" />
       </file>
@@ -265,11 +267,6 @@
         <mark key="[" line="30" column="34" />
         <mark key="]" line="30" column="34" />
         <mark key="." line="30" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1554701086423">
-        <mark key="[" line="532" column="27" />
-        <mark key="]" line="532" column="27" />
-        <mark key="." line="532" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/util/uuid.ts" timestamp="1554881280609">
         <mark key="[" line="0" column="25" />
