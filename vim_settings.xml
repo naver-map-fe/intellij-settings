@@ -216,11 +216,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/indoor/basic.html" timestamp="1554367015336" />
       <file name="/StyleManager.ts" timestamp="1554869938274" />
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/test/task/task.spec.ts" timestamp="1554966824828">
-        <mark key="[" line="53" column="16" />
-        <mark key="]" line="53" column="16" />
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/test/task/task.spec.ts" timestamp="1554974549389">
+        <mark key="[" line="57" column="30" />
+        <mark key="]" line="57" column="30" />
         <mark key="^" line="8" column="39" />
-        <mark key="." line="53" column="16" />
+        <mark key="." line="57" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/Indoor.ts" timestamp="1551334284544">
         <mark key="[" line="0" column="31" />
@@ -376,10 +376,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
