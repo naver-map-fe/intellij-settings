@@ -17,6 +17,17 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/environments/env.stage.ts" timestamp="1551333607984">
         <mark key="[" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/util/event.ts" timestamp="1554947140513">
+        <mark key="[" line="106" column="4" />
+        <mark key="]" line="106" column="4" />
+        <mark key="." line="106" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/event/EventTarget.ts" timestamp="1554946416840">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/line-symbol.html" timestamp="1554292833413">
         <mark key="[" line="87" column="30" />
       </file>
@@ -109,9 +120,6 @@
         <mark key="]" line="127" column="22" />
         <mark key="." line="127" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/VSync.ts" timestamp="1554798860406">
-        <mark key="[" line="0" column="33" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1554446874115">
         <mark key="[" line="193" column="38" />
       </file>
@@ -166,6 +174,12 @@
         <mark key="]" line="113" column="37" />
         <mark key="." line="113" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/IndoorLayer.ts" timestamp="1554370913059">
+        <mark key="[" line="195" column="31" />
+        <mark key="]" line="195" column="31" />
+        <mark key="." line="195" column="31" />
+        <mark key="^" line="357" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/debug.html" timestamp="1552367098037">
         <mark key="[" line="200" column="31" />
         <mark key="]" line="200" column="31" />
@@ -199,6 +213,7 @@
       <file name="$USER_HOME$/workspace/naver/v-sync.js/package.json" timestamp="1554794463928">
         <mark key="[" line="81" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/event/Observable.ts" timestamp="1554946929807" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/main.ts" timestamp="1554288391482">
         <mark key="[" line="35" column="60" />
       </file>
@@ -267,6 +282,12 @@
         <mark key="[" line="30" column="34" />
         <mark key="]" line="30" column="34" />
         <mark key="." line="30" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/image.ts" timestamp="1554701208987">
+        <mark key="[" line="156" column="31" />
+        <mark key="]" line="156" column="30" />
+        <mark key="." line="156" column="30" />
+        <mark key="^" line="156" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/util/uuid.ts" timestamp="1554881280609">
         <mark key="[" line="0" column="25" />
@@ -418,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>featureId</text>
+        <text>/** @type {import(&quot;./events/Target.js&quot;).default} */ (</text>
       </register>
       <register name="-" type="4">
-        <text>featureId</text>
+        <text>/** @type {import(&quot;./events/Target.js&quot;).default} */ (</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
