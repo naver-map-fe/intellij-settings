@@ -32,6 +32,11 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/line-symbol.html" timestamp="1554292833413">
         <mark key="[" line="87" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/eventemitter.d.ts" timestamp="1554958478086">
+        <mark key="[" line="63" column="8" />
+        <mark key="]" line="63" column="7" />
+        <mark key="." line="63" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.scss" timestamp="1554008839123">
         <mark key="[" line="4" column="29" />
       </file>
@@ -72,9 +77,7 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/FeatureBoundCalculator.ts" timestamp="1554443694168">
         <mark key="[" line="65" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/WorkerWrapper.ts" timestamp="1554798839128">
-        <mark key="[" line="2" column="8" />
-      </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/WorkerWrapper.ts" timestamp="1554958251925" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/MapFactory.ts" timestamp="1552283200115">
         <mark key="[" line="14" column="24" />
       </file>
@@ -127,15 +130,15 @@
         <mark key="]" line="127" column="22" />
         <mark key="." line="127" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/VSync.ts" timestamp="1554958240156">
+        <mark key="[" line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1554446874115">
         <mark key="[" line="193" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/v-sync.ts" timestamp="1554785467990" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/env.json.example" timestamp="1554122232248">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/StyleManager.ts" timestamp="1554873749182">
-        <mark key="[" line="178" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-item-place/search-item-place.component.html" timestamp="1554016339909">
         <mark key="[" line="1" column="6" />
@@ -150,16 +153,16 @@
         <mark key="]" line="327" column="47" />
         <mark key="." line="327" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/task/Task.ts" timestamp="1554795838726" />
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/task/Task.ts" timestamp="1554958615646" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerManager.ts" timestamp="1554371188597">
         <mark key="[" line="87" column="5" />
         <mark key="]" line="87" column="5" />
         <mark key="." line="87" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/ThreadPool.ts" timestamp="1554798828197">
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/ThreadPool.ts" timestamp="1554958265763">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="17" />
+        <mark key="." line="52" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/test/util/uuid.spec.ts" timestamp="1554798271273">
         <mark key="[" line="24" column="30" />
@@ -217,6 +220,7 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/services/overlay/OverlayManager.ts" timestamp="1550814674686">
         <mark key="[" line="38" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/node_modules/@types/node/globals.d.ts" timestamp="1554957943488" />
       <file name="$USER_HOME$/workspace/naver/v-sync.js/package.json" timestamp="1554794463928">
         <mark key="[" line="81" column="4" />
       </file>
@@ -240,6 +244,7 @@
       <file name="$USER_HOME$/workspace/naver/v-sync.js/tsconfig.json" timestamp="1554793186439">
         <mark key="[" line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/WorkerFactory.ts" timestamp="1554958259990" />
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/dom.ts" timestamp="1550815852762">
         <mark key="[" line="0" column="33" />
       </file>
@@ -261,7 +266,7 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/lib/panZoom/index.js" timestamp="1550800361071">
         <mark key="[" line="325" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/Thread.ts" timestamp="1554798774587">
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/Thread.ts" timestamp="1554958271358">
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/indoor/basic.html" timestamp="1554367015336" />
@@ -337,10 +342,10 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/ObjectPool.ts" timestamp="1552027478020">
         <mark key="[" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/Job.ts" timestamp="1554798754595">
-        <mark key="[" line="99" column="25" />
-        <mark key="]" line="99" column="25" />
-        <mark key="." line="99" column="25" />
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/Job.ts" timestamp="1554958627183">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/components/search-box/search-box.component.html" timestamp="1551080907125">
         <mark key="[" line="1" column="99" />
@@ -450,10 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Function</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Function</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
@@ -461,46 +466,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW5kZXguZC50cwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>type: 'interval',
                         stops: [
                           [1, [0, 1.5]],
                           [15, [0, 1.4]],
                         ]</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgLy8=</text>
-      </register>
       <register name="3" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
+        <text encoding="base64">CiAgLy8=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">LCBsYXllciwgewogICAgICBiYXNlOiB0cnVlCiAgICA=</text>
+        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">LCBsYXllciwgewogICAgICBiYXNlOiB0cnVlCiAgICA=</text>
+      </register>
+      <register name="6" type="4">
         <text>, layer, {
       base: true
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGxheWVyLCB7CiAgICAgIGJhc2U6IHRydWUKICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
       type: 'INDOOR_SUB'
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICB0aGlzLmV2ZW50cy5tb2RlCiAgICAgICAgLnBpcGUoCiAgICAgICAgICBmaWx0ZXIobW9kZSA9PiBtb2RlID09PSBQYW5vcmFtYU1vZGUuVmlld2VyKSwKICAgICAgICAgIGZpcnN0KCkKICAgICAgICApCiAgICAgICAgLnN1YnNjcmliZSgoKSA9PiB7CiAgICAgICAgICB0aGlzLmFkanVzdE1pbmlNYXBBbmRBdmF0YXIoKTsKICAgICAgICB9KTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
