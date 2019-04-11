@@ -30,6 +30,9 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/styles/line-symbol.html" timestamp="1554292833413">
         <mark key="[" line="87" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/overlays/popup.ts" timestamp="1554977429709">
+        <mark key="[" line="74" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/eventemitter.d.ts" timestamp="1554958478086">
         <mark key="[" line="63" column="8" />
         <mark key="]" line="63" column="7" />
@@ -76,9 +79,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/LayerManager.ts" timestamp="1551256127147">
         <mark key="[" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/TileGrid.ts" timestamp="1554972822918">
-        <mark key="'" line="106" column="44" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/rollup.config.ts" timestamp="1554960042090">
         <mark key="[" line="41" column="1" />
       </file>
@@ -108,6 +108,8 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/const.ts" timestamp="1554431002219">
         <mark key="[" line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/VSync.ts" timestamp="1554974944864" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/components/nm-map-popup/nm-map-popup.component.ts" timestamp="1554977469372" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1554446874115">
         <mark key="[" line="193" column="38" />
       </file>
@@ -129,6 +131,9 @@
         <mark key="]" line="24" column="30" />
         <mark key="." line="24" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/test/task/WorkerTask.spec.ts" timestamp="1554975962294">
+        <mark key="^" line="2" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/index.html" timestamp="1554445364643">
         <mark key="[" line="113" column="37" />
         <mark key="]" line="113" column="37" />
@@ -146,6 +151,7 @@
         <mark key="." line="216" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1554714487284" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/location-info-widget/location-info-widget.component.ts" timestamp="1554976670983" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-layout.service.ts" timestamp="1553762365783">
         <mark key="[" line="27" column="28" />
       </file>
@@ -178,6 +184,9 @@
         <mark key="[" line="35" column="60" />
       </file>
       <file name="/maps.service.ts" timestamp="1554698285681" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.html" timestamp="1554977041926">
+        <mark key="[" line="22" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/maps-layout/maps-layout.component.ts" timestamp="1554004521228">
         <mark key="[" line="498" column="40" />
       </file>
@@ -193,6 +202,7 @@
       <file name="$USER_HOME$/workspace/naver/subway-engine.js/src/utils/dom.ts" timestamp="1550815852762">
         <mark key="[" line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/v-sync.js/test/task/Task.spec.ts" timestamp="1554975245800" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/styles/common/_mixins.scss" timestamp="1553754094430">
         <mark key="[" line="45" column="54" />
       </file>
@@ -213,6 +223,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/thread-pool/Thread.ts" timestamp="1554958271358">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.ts" timestamp="1554977482717">
+        <mark key="[" line="46" column="113" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/indoor/basic.html" timestamp="1554367015336" />
       <file name="/StyleManager.ts" timestamp="1554869938274" />
@@ -376,10 +389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>protected</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
