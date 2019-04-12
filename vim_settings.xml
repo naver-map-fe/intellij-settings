@@ -175,6 +175,7 @@
         <mark key="]" line="301" column="121" />
         <mark key="." line="301" column="121" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/interface/ImageManager.ts" timestamp="1555063048732" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1554881506328">
         <mark key="[" line="9" column="22" />
       </file>
@@ -190,9 +191,6 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/util/common.ts" timestamp="1554963657673">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/common/SpriteLoader.ts" timestamp="1555052954304">
-        <mark key="[" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/ProfileManager.ts" timestamp="1552282789242">
         <mark key="[" line="30" column="34" />
