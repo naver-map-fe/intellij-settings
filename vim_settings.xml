@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.module.ts" timestamp="1555301683779">
         <mark key="[" line="35" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerManager.ts" timestamp="1555311283653">
+        <mark key="[" line="87" column="5" />
+        <mark key="]" line="87" column="5" />
+        <mark key="." line="87" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/location-info/location-info.service.ts" timestamp="1555301857046">
         <mark key="[" line="52" column="56" />
       </file>
@@ -27,6 +32,11 @@
         <mark key="[" line="73" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-tooltip.component.html" timestamp="1555303953964" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555310708708">
+        <mark key="[" line="1968" column="15" />
+        <mark key="]" line="1968" column="15" />
+        <mark key="." line="1968" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/location-info-widget/location-info-widget.component.ts" timestamp="1555301249954" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.scss" timestamp="1555304995204">
         <mark key="[" line="129" column="7" />
@@ -89,8 +99,11 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-floor.component.ts" timestamp="1555303691754">
         <mark key="[" line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/image.ts" timestamp="1555057616602">
-        <mark key="[" line="153" column="12" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/image.ts" timestamp="1555311745632">
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="4" />
+        <mark key="." line="101" column="4" />
+        <mark key="^" line="44" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/const.ts" timestamp="1554431002219">
         <mark key="[" line="36" column="0" />
@@ -211,10 +224,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>updateByupdateByLayerTypeLayerType</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>updateByupdateByLayerTypeLayerType</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
@@ -223,45 +236,47 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text>const width: number = imageData.width;
+    const height: number = imageData.height;
+    const image: HTMLImageElement | HTMLCanvasElement = imageData.image as
+      | HTMLImageElement
+      | HTMLCanvasElement;</text>
+      </register>
+      <register name="s" type="4">
+        <text />
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW5kZXguZC50cwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>type: 'interval',
                         stops: [
                           [1, [0, 1.5]],
                           [15, [0, 1.4]],
                         ]</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgLy8=</text>
       </register>
-      <register name="s" type="4">
-        <text />
-      </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LCBsYXllciwgewogICAgICBiYXNlOiB0cnVlCiAgICA=</text>
-      </register>
-      <register name="6" type="4">
-        <text>, layer, {
-      base: true
-    }</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGxheWVyLCB7CiAgICAgIGJhc2U6IHRydWUKICAgIH0=</text>
-      </register>
       <register name="8" type="4">
-        <text>{
-      type: 'INDOOR_SUB'
-    }</text>
+        <text encoding="base64">LCBsYXllciwgewogICAgICBiYXNlOiB0cnVlCiAgICA=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>, layer, {
+      base: true
+    }</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
