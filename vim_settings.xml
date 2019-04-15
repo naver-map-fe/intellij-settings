@@ -48,14 +48,19 @@
         <mark key="." line="231" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-tooltip.component.html" timestamp="1555303953964" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555315341356">
-        <mark key="[" line="2288" column="60" />
-        <mark key="]" line="2288" column="60" />
-        <mark key="." line="2288" column="60" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555321943260">
+        <mark key="[" line="2361" column="7" />
+        <mark key="]" line="2361" column="7" />
+        <mark key="." line="2361" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/location-info-widget/location-info-widget.component.ts" timestamp="1555301249954" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.scss" timestamp="1555304995204">
         <mark key="[" line="129" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-engine.ts" timestamp="1555322049687">
+        <mark key="[" line="293" column="3" />
+        <mark key="]" line="224" column="50" />
+        <mark key="." line="224" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-tooltip.component.ts" timestamp="1555305305901">
         <mark key="[" line="34" column="27" />
@@ -248,10 +253,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getNearPanorama</text>
+        <text>feature</text>
       </register>
       <register name="-" type="4">
-        <text>getNearPanorama</text>
+        <text>feature</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
