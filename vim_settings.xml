@@ -3,8 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/api/api.service.ts" timestamp="1555320501855">
+        <mark key="[" line="1018" column="49" />
+        <mark key="]" line="1018" column="49" />
+        <mark key="." line="1018" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/task/Task.ts" timestamp="1555293255014">
         <mark key="[" line="60" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/panorama.module.ts" timestamp="1555317775360">
+        <mark key="[" line="39" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.module.ts" timestamp="1555301683779">
         <mark key="[" line="35" column="44" />
@@ -28,11 +36,16 @@
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1555316749094">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1555317960287">
         <mark key="[" line="166" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+entry-place/components/entry-place/entry-place.component.ts" timestamp="1555301770478">
         <mark key="[" line="73" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.ts" timestamp="1555319831171">
+        <mark key="[" line="231" column="42" />
+        <mark key="]" line="231" column="42" />
+        <mark key="." line="231" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-tooltip.component.html" timestamp="1555303953964" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555315341356">
@@ -69,6 +82,9 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.ts" timestamp="1555034597887">
         <mark key="[" line="46" column="113" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1555319754823">
+        <mark key="[" line="199" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/rollup.config.ts" timestamp="1554960042090">
         <mark key="[" line="41" column="1" />
@@ -121,10 +137,10 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/env.json" timestamp="1554370089424">
         <mark key="[" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1555316330831">
-        <mark key="[" line="207" column="8" />
-        <mark key="]" line="207" column="8" />
-        <mark key="." line="207" column="8" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1555320572344">
+        <mark key="[" line="257" column="10" />
+        <mark key="]" line="257" column="10" />
+        <mark key="." line="257" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.html" timestamp="1555303929778" />
     </filemarks>
@@ -232,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text>getNearPanorama</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>getNearPanorama</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
@@ -243,48 +259,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKCFpbmRvb3JGLnByb3BlcnRpZXNbJ2lkJ10gfHwgIWluZG9vckYucHJvcGVydGllc1snc3pvcmRlciddIHx8ICFpbmRvb3JGLnByb3BlcnRpZXNbJ2Zsb29ycyddKSB7CiAgICAgICAgICB0aGlzLm1zZy5vcGVuVGhyb3VnaFRyYW5zbGF0aW9uKCdJTkRPT1IuRVJST1IuREFUQScpOwogICAgICAgICAgdGhpcy5sb2dTZXJ2aWNlLmxvZygKICAgICAgICAgICAgTG9nTW9kdWxlLkluZG9vciwKICAgICAgICAgICAgJ0xvY2F0aW9uSW5mb1NlcnZpY2UnLAogICAgICAgICAgICAnYWN0aXZhdGVJbmRvb3InLAogICAgICAgICAgICBpbmRvb3JGLnByb3BlcnRpZXMsCiAgICAgICAgICAgIHRoaXMudHJhbnNsYXRlLmluc3RhbnQoJ0lORE9PUi5FUlJPUi5EQVRBJykKICAgICAgICAgICk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHRyeSB7IC8vIHRyeSBmb3IgSlNPTi5wYXJzZQogICAgICAgICAgLy8g7Iuk64K07KeA64+EIOyLpO2WiQogICAgICAgICAgY29uc3QgaWQyOiBzdHJpbmcgPSBpbmRvb3JGLnByb3BlcnRpZXNbJ2lkJ10uc3Vic3RyKDAsIDE3KTsKICAgICAgICAgIHRoaXMuYXBpLmdldEluZG9vckluZm8oaWQyKQogICAgICAgICAgICAuc3Vic2NyaWJlKChyZXM6IEluZG9vckluZm8pID0+IHsKICAgICAgICAgICAgICB0aGlzLnNob3dCdWlsZGluZygKICAgICAgICAgICAgICAgIGluZG9vckYucHJvcGVydGllc1snaWQnXSwKICAgICAgICAgICAgICAgIGluZG9vckYucHJvcGVydGllc1snc3pvcmRlciddLAogICAgICAgICAgICAgICAgSlNPTi5wYXJzZShpbmRvb3JGLnByb3BlcnRpZXNbJ2Zsb29ycyddKSwKICAgICAgICAgICAgICAgIHR5cGVvZiByZXMucmxldmVsICE9PSAndW5kZWZpbmVkJyA/IHJlcy5ybGV2ZWwgOiBJTkRPT1JfTUlOX1pPT00sCiAgICAgICAgICAgICAgICBKU09OLnBhcnNlKGluZG9vckYucHJvcGVydGllc1snYmJveCddKSwKICAgICAgICAgICAgICAgIGxuZ0xhdAogICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgIHRoaXMubXNnLm9wZW5UaHJvdWdoVHJhbnNsYXRpb24oJ0lORE9PUi5FUlJPUi5QQVJTRScpOwogICAgICAgICAgdGhpcy5sb2dTZXJ2aWNlLmxvZygKICAgICAgICAgICAgTG9nTW9kdWxlLkluZG9vciwKICAgICAgICAgICAgJ0xvY2F0aW9uSW5mb1NlcnZpY2UnLAogICAgICAgICAgICAnYWN0aXZhdGVJbmRvb3InLAogICAgICAgICAgICBpbmRvb3JGLnByb3BlcnRpZXMsCiAgICAgICAgICAgIHRoaXMudHJhbnNsYXRlLmluc3RhbnQoJ0lORE9PUi5FUlJPUi5QQVJTRScpCiAgICAgICAgICApOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="s" type="4">
+        <text />
+      </register>
+      <register name="4" type="4">
         <text>const width: number = imageData.width;
     const height: number = imageData.height;
     const image: HTMLImageElement | HTMLCanvasElement = imageData.image as
       | HTMLImageElement
       | HTMLCanvasElement;</text>
       </register>
-      <register name="s" type="4">
-        <text />
-      </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW5kZXguZC50cwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>type: 'interval',
                         stops: [
                           [1, [0, 1.5]],
                           [15, [0, 1.4]],
                         ]</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgLy8=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">LCBsYXllciwgewogICAgICBiYXNlOiB0cnVlCiAgICA=</text>
+        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>, layer, {
-      base: true
-    }</text>
+        <text encoding="base64">LCBsYXllciwgewogICAgICBiYXNlOiB0cnVlCiAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
