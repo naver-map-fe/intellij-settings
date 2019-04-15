@@ -22,8 +22,8 @@
         <mark key="]" line="87" column="5" />
         <mark key="." line="87" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/location-info/location-info.service.ts" timestamp="1555301857046">
-        <mark key="[" line="52" column="56" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/location-info/location-info.service.ts" timestamp="1555326265479">
+        <mark key="[" line="170" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-tooltip.component.scss" timestamp="1555305144581">
         <mark key="[" line="2" column="7" />
@@ -36,31 +36,32 @@
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1555317960287">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.interfaces.ts" timestamp="1555324787146">
         <mark key="[" line="166" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+entry-place/components/entry-place/entry-place.component.ts" timestamp="1555301770478">
         <mark key="[" line="73" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.ts" timestamp="1555319831171">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.ts" timestamp="1555325566452">
         <mark key="[" line="231" column="42" />
         <mark key="]" line="231" column="42" />
         <mark key="." line="231" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-tooltip.component.html" timestamp="1555303953964" />
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555321943260">
-        <mark key="[" line="2361" column="7" />
-        <mark key="]" line="2361" column="7" />
-        <mark key="." line="2361" column="7" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555325165389">
+        <mark key="[" line="2344" column="56" />
+        <mark key="]" line="2360" column="29" />
+        <mark key="." line="2360" column="29" />
+        <mark key="^" line="2360" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/location-info-widget/location-info-widget.component.ts" timestamp="1555301249954" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.scss" timestamp="1555304995204">
         <mark key="[" line="129" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-engine.ts" timestamp="1555322049687">
-        <mark key="[" line="293" column="3" />
-        <mark key="]" line="224" column="50" />
-        <mark key="." line="224" column="10" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-engine.ts" timestamp="1555325327484">
+        <mark key="[" line="294" column="3" />
+        <mark key="]" line="225" column="50" />
+        <mark key="." line="225" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-tooltip.component.ts" timestamp="1555305305901">
         <mark key="[" line="34" column="27" />
@@ -70,6 +71,11 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/package.json" timestamp="1554794463928">
         <mark key="[" line="81" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps.service.ts" timestamp="1555325320897">
+        <mark key="[" line="895" column="13" />
+        <mark key="]" line="895" column="13" />
+        <mark key="." line="895" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.html" timestamp="1554977041926">
         <mark key="[" line="25" column="8" />
@@ -88,8 +94,8 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.ts" timestamp="1555034597887">
         <mark key="[" line="46" column="113" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1555319754823">
-        <mark key="[" line="199" column="47" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1555325687818">
+        <mark key="[" line="201" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/rollup.config.ts" timestamp="1554960042090">
         <mark key="[" line="41" column="1" />
@@ -103,6 +109,9 @@
         <mark key="." line="16" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/clustered-hovercard/clustered-hovercard.component.ts" timestamp="1555305249684" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/StyleSpecManager.ts" timestamp="1555325135724">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1554881506328">
         <mark key="[" line="9" column="22" />
       </file>
@@ -126,8 +135,8 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/const.ts" timestamp="1554431002219">
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1555312370563">
-        <mark key="[" line="91" column="27" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1555325097298">
+        <mark key="[" line="89" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1554446874115">
         <mark key="[" line="193" column="38" />
@@ -142,10 +151,10 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/env.json" timestamp="1554370089424">
         <mark key="[" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1555320572344">
-        <mark key="[" line="257" column="10" />
-        <mark key="]" line="257" column="10" />
-        <mark key="." line="257" column="10" />
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1555325199956">
+        <mark key="[" line="276" column="70" />
+        <mark key="]" line="276" column="70" />
+        <mark key="." line="276" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.html" timestamp="1555303929778" />
     </filemarks>
@@ -253,10 +262,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feature</text>
+        <text>any</text>
       </register>
       <register name="-" type="4">
-        <text>feature</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
@@ -265,45 +274,56 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text>{
+          properties: { rgba },
+          type: 'Layer',
+          layer: {
+            id: layerId,
+            source: sourceId,
+            indoor: layerId === LayerType.IndoorPoi,
+            poi: layerId === LayerType.Poi,
+          },
+          source: sourceId,
+          _layer: layer
+        }</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">aWYgKCFpbmRvb3JGLnByb3BlcnRpZXNbJ2lkJ10gfHwgIWluZG9vckYucHJvcGVydGllc1snc3pvcmRlciddIHx8ICFpbmRvb3JGLnByb3BlcnRpZXNbJ2Zsb29ycyddKSB7CiAgICAgICAgICB0aGlzLm1zZy5vcGVuVGhyb3VnaFRyYW5zbGF0aW9uKCdJTkRPT1IuRVJST1IuREFUQScpOwogICAgICAgICAgdGhpcy5sb2dTZXJ2aWNlLmxvZygKICAgICAgICAgICAgTG9nTW9kdWxlLkluZG9vciwKICAgICAgICAgICAgJ0xvY2F0aW9uSW5mb1NlcnZpY2UnLAogICAgICAgICAgICAnYWN0aXZhdGVJbmRvb3InLAogICAgICAgICAgICBpbmRvb3JGLnByb3BlcnRpZXMsCiAgICAgICAgICAgIHRoaXMudHJhbnNsYXRlLmluc3RhbnQoJ0lORE9PUi5FUlJPUi5EQVRBJykKICAgICAgICAgICk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHRyeSB7IC8vIHRyeSBmb3IgSlNPTi5wYXJzZQogICAgICAgICAgLy8g7Iuk64K07KeA64+EIOyLpO2WiQogICAgICAgICAgY29uc3QgaWQyOiBzdHJpbmcgPSBpbmRvb3JGLnByb3BlcnRpZXNbJ2lkJ10uc3Vic3RyKDAsIDE3KTsKICAgICAgICAgIHRoaXMuYXBpLmdldEluZG9vckluZm8oaWQyKQogICAgICAgICAgICAuc3Vic2NyaWJlKChyZXM6IEluZG9vckluZm8pID0+IHsKICAgICAgICAgICAgICB0aGlzLnNob3dCdWlsZGluZygKICAgICAgICAgICAgICAgIGluZG9vckYucHJvcGVydGllc1snaWQnXSwKICAgICAgICAgICAgICAgIGluZG9vckYucHJvcGVydGllc1snc3pvcmRlciddLAogICAgICAgICAgICAgICAgSlNPTi5wYXJzZShpbmRvb3JGLnByb3BlcnRpZXNbJ2Zsb29ycyddKSwKICAgICAgICAgICAgICAgIHR5cGVvZiByZXMucmxldmVsICE9PSAndW5kZWZpbmVkJyA/IHJlcy5ybGV2ZWwgOiBJTkRPT1JfTUlOX1pPT00sCiAgICAgICAgICAgICAgICBKU09OLnBhcnNlKGluZG9vckYucHJvcGVydGllc1snYmJveCddKSwKICAgICAgICAgICAgICAgIGxuZ0xhdAogICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgIHRoaXMubXNnLm9wZW5UaHJvdWdoVHJhbnNsYXRpb24oJ0lORE9PUi5FUlJPUi5QQVJTRScpOwogICAgICAgICAgdGhpcy5sb2dTZXJ2aWNlLmxvZygKICAgICAgICAgICAgTG9nTW9kdWxlLkluZG9vciwKICAgICAgICAgICAgJ0xvY2F0aW9uSW5mb1NlcnZpY2UnLAogICAgICAgICAgICAnYWN0aXZhdGVJbmRvb3InLAogICAgICAgICAgICBpbmRvb3JGLnByb3BlcnRpZXMsCiAgICAgICAgICAgIHRoaXMudHJhbnNsYXRlLmluc3RhbnQoJ0lORE9PUi5FUlJPUi5QQVJTRScpCiAgICAgICAgICApOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="4">
         <text>const width: number = imageData.width;
     const height: number = imageData.height;
     const image: HTMLImageElement | HTMLCanvasElement = imageData.image as
       | HTMLImageElement
       | HTMLCanvasElement;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW5kZXguZC50cwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>type: 'interval',
                         stops: [
                           [1, [0, 1.5]],
                           [15, [0, 1.4]],
                         ]</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgLy8=</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
+        <text encoding="base64">CiAgLy8=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LCBsYXllciwgewogICAgICBiYXNlOiB0cnVlCiAgICA=</text>
+        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
