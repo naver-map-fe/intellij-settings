@@ -51,6 +51,9 @@
         <mark key="." line="2360" column="29" />
         <mark key="^" line="2360" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/npanorama.d.ts" timestamp="1555388318777">
+        <mark key="[" line="52" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.scss" timestamp="1555304995204">
         <mark key="[" line="129" column="7" />
       </file>
@@ -99,7 +102,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.ts" timestamp="1555034597887">
         <mark key="[" line="46" column="113" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1555380309376">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1555388591494">
         <mark key="[" line="266" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/rollup.config.ts" timestamp="1554960042090">
@@ -158,7 +161,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/env.json" timestamp="1554370089424">
         <mark key="[" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1555379875668">
+      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1555388572204">
         <mark key="[" line="242" column="31" />
         <mark key="]" line="280" column="70" />
         <mark key="." line="280" column="70" />
