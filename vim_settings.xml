@@ -44,8 +44,8 @@
         <mark key="]" line="235" column="20" />
         <mark key="." line="235" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1555484168064">
-        <mark key="[" line="138" column="32" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1555485330560">
+        <mark key="[" line="139" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/npanorama.d.ts" timestamp="1555388318777">
         <mark key="[" line="52" column="24" />
@@ -90,6 +90,7 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/const.ts" timestamp="1555486669950" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.ts" timestamp="1555034597887">
         <mark key="[" line="46" column="113" />
       </file>
@@ -135,12 +136,17 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/const.ts" timestamp="1554431002219">
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1555475520454">
-        <mark key="[" line="340" column="2" />
-        <mark key="]" line="340" column="2" />
-        <mark key="." line="340" column="2" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1555486298287">
+        <mark key="[" line="342" column="2" />
+        <mark key="]" line="342" column="2" />
+        <mark key="." line="342" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/util.ts" timestamp="1555476320449" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/text.ts" timestamp="1555486487791">
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="84" column="15" />
+        <mark key="." line="84" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/util.ts" timestamp="1555485391660" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1554446874115">
         <mark key="[" line="193" column="38" />
       </file>
@@ -260,10 +266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
@@ -272,6 +278,9 @@
         <text encoding="base64">ICAgICAgICB0ZjFNYXAuc2V0Q2VudGVyKGMpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewogIH0=</text>
+      </register>
+      <register name="2" type="4">
         <text>{
           properties: { rgba },
           type: 'Layer',
@@ -285,43 +294,40 @@
           _layer: layer
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">aWYgKCFpbmRvb3JGLnByb3BlcnRpZXNbJ2lkJ10gfHwgIWluZG9vckYucHJvcGVydGllc1snc3pvcmRlciddIHx8ICFpbmRvb3JGLnByb3BlcnRpZXNbJ2Zsb29ycyddKSB7CiAgICAgICAgICB0aGlzLm1zZy5vcGVuVGhyb3VnaFRyYW5zbGF0aW9uKCdJTkRPT1IuRVJST1IuREFUQScpOwogICAgICAgICAgdGhpcy5sb2dTZXJ2aWNlLmxvZygKICAgICAgICAgICAgTG9nTW9kdWxlLkluZG9vciwKICAgICAgICAgICAgJ0xvY2F0aW9uSW5mb1NlcnZpY2UnLAogICAgICAgICAgICAnYWN0aXZhdGVJbmRvb3InLAogICAgICAgICAgICBpbmRvb3JGLnByb3BlcnRpZXMsCiAgICAgICAgICAgIHRoaXMudHJhbnNsYXRlLmluc3RhbnQoJ0lORE9PUi5FUlJPUi5EQVRBJykKICAgICAgICAgICk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIHRyeSB7IC8vIHRyeSBmb3IgSlNPTi5wYXJzZQogICAgICAgICAgLy8g7Iuk64K07KeA64+EIOyLpO2WiQogICAgICAgICAgY29uc3QgaWQyOiBzdHJpbmcgPSBpbmRvb3JGLnByb3BlcnRpZXNbJ2lkJ10uc3Vic3RyKDAsIDE3KTsKICAgICAgICAgIHRoaXMuYXBpLmdldEluZG9vckluZm8oaWQyKQogICAgICAgICAgICAuc3Vic2NyaWJlKChyZXM6IEluZG9vckluZm8pID0+IHsKICAgICAgICAgICAgICB0aGlzLnNob3dCdWlsZGluZygKICAgICAgICAgICAgICAgIGluZG9vckYucHJvcGVydGllc1snaWQnXSwKICAgICAgICAgICAgICAgIGluZG9vckYucHJvcGVydGllc1snc3pvcmRlciddLAogICAgICAgICAgICAgICAgSlNPTi5wYXJzZShpbmRvb3JGLnByb3BlcnRpZXNbJ2Zsb29ycyddKSwKICAgICAgICAgICAgICAgIHR5cGVvZiByZXMucmxldmVsICE9PSAndW5kZWZpbmVkJyA/IHJlcy5ybGV2ZWwgOiBJTkRPT1JfTUlOX1pPT00sCiAgICAgICAgICAgICAgICBKU09OLnBhcnNlKGluZG9vckYucHJvcGVydGllc1snYmJveCddKSwKICAgICAgICAgICAgICAgIGxuZ0xhdAogICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgIHRoaXMubXNnLm9wZW5UaHJvdWdoVHJhbnNsYXRpb24oJ0lORE9PUi5FUlJPUi5QQVJTRScpOwogICAgICAgICAgdGhpcy5sb2dTZXJ2aWNlLmxvZygKICAgICAgICAgICAgTG9nTW9kdWxlLkluZG9vciwKICAgICAgICAgICAgJ0xvY2F0aW9uSW5mb1NlcnZpY2UnLAogICAgICAgICAgICAnYWN0aXZhdGVJbmRvb3InLAogICAgICAgICAgICBpbmRvb3JGLnByb3BlcnRpZXMsCiAgICAgICAgICAgIHRoaXMudHJhbnNsYXRlLmluc3RhbnQoJ0lORE9PUi5FUlJPUi5QQVJTRScpCiAgICAgICAgICApOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>const width: number = imageData.width;
     const height: number = imageData.height;
     const image: HTMLImageElement | HTMLCanvasElement = imageData.image as
       | HTMLImageElement
       | HTMLCanvasElement;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW5kZXguZC50cwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>type: 'interval',
                         stops: [
                           [1, [0, 1.5]],
                           [15, [0, 1.4]],
                         ]</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgLy8=</text>
-      </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHR5cGUgPT09IExheWVyVHlwZS5JbmRvb3IpIHsKICAgICAgY29uc3QgaW5kb29yOiBJbmRvb3JMYXllciA9IHRoaXMubGF5ZXJzLmdldCh0eXBlKTsKCiAgICAgIGlmIChpbmRvb3IpIHsKICAgICAgICBpbmRvb3IuZGVzdHJveSgpOwogICAgICB9CiAgICB9</text>
+        <text encoding="base64">CiAgLy8=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
