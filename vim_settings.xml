@@ -44,6 +44,9 @@
         <mark key="]" line="235" column="20" />
         <mark key="." line="235" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1555476379244">
+        <mark key="[" line="138" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/npanorama.d.ts" timestamp="1555388318777">
         <mark key="[" line="52" column="24" />
       </file>
@@ -132,17 +135,12 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/const.ts" timestamp="1554431002219">
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1555467521344">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1555475520454">
         <mark key="[" line="340" column="2" />
         <mark key="]" line="340" column="2" />
         <mark key="." line="340" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/text.ts" timestamp="1555467442742">
-        <mark key="[" line="69" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/util.ts" timestamp="1555468261464">
-        <mark key="[" line="143" column="19" />
-      </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/util.ts" timestamp="1555476320449" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/util.js" timestamp="1554446874115">
         <mark key="[" line="193" column="38" />
       </file>
@@ -262,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
