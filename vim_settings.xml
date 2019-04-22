@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/api/api.service.ts" timestamp="1555493000494">
-        <mark key="[" line="1019" column="55" />
-        <mark key="]" line="1018" column="49" />
-        <mark key="." line="1018" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/task/Task.ts" timestamp="1555388639873">
         <mark key="[" line="60" column="18" />
       </file>
@@ -22,18 +17,15 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.module.ts" timestamp="1555301683779">
         <mark key="[" line="35" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerManager.ts" timestamp="1555311283653">
-        <mark key="[" line="87" column="5" />
-        <mark key="]" line="87" column="5" />
-        <mark key="." line="87" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-tooltip.component.scss" timestamp="1555305144581">
         <mark key="[" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/renderer/canvas/VectorTileLayer.js" timestamp="1555921440428" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/dist/lib/maps/openlayers/OpenLayersMap.js" timestamp="1555921295661" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/overlays/popup.ts" timestamp="1554977429709">
         <mark key="[" line="74" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/IndoorLayer.ts" timestamp="1555465760851">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/IndoorLayer.ts" timestamp="1555921288455">
         <mark key="[" line="87" column="18" />
         <mark key="]" line="259" column="64" />
         <mark key="." line="259" column="64" />
@@ -44,27 +36,17 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+entry-place/components/entry-place/entry-place.component.ts" timestamp="1555301770478">
         <mark key="[" line="73" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/components/pegman/pegman.component.ts" timestamp="1555402637226">
-        <mark key="[" line="235" column="20" />
-        <mark key="]" line="235" column="20" />
-        <mark key="." line="235" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1555914962011">
         <mark key="[" line="227" column="23" />
         <mark key="]" line="227" column="24" />
         <mark key="." line="227" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555912573375" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555921278688" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/npanorama.d.ts" timestamp="1555388318777">
         <mark key="[" line="52" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/components/layout/layout.component.scss" timestamp="1555304995204">
         <mark key="[" line="129" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/shared/services/maps/maps-engine.ts" timestamp="1555389065685">
-        <mark key="[" line="294" column="3" />
-        <mark key="]" line="225" column="50" />
-        <mark key="." line="225" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-tooltip.component.ts" timestamp="1555305305901">
         <mark key="[" line="34" column="27" />
@@ -94,20 +76,10 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/indoor.module.ts" timestamp="1555304122279">
         <mark key="[" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/dist/lib/maps/openlayers/layers/LayerFactory.js" timestamp="1555381203028">
-        <mark key="[" line="84" column="62" />
-        <mark key="]" line="84" column="63" />
-        <mark key="." line="84" column="63" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/search/services/search/search-layer-maker.model.ts" timestamp="1555378916251">
         <mark key="[" line="93" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/render/canvas/ExecutorGroup.js" timestamp="1555917970049" />
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-floor.component.html" timestamp="1555303496742">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.ts" timestamp="1555034597887">
         <mark key="[" line="46" column="113" />
       </file>
@@ -118,15 +90,10 @@
       <file name="$USER_HOME$/workspace/naver/v-sync.js/rollup.config.ts" timestamp="1554960042090">
         <mark key="[" line="41" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerFactory.ts" timestamp="1555397334547">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/LayerFactory.ts" timestamp="1555921302840">
         <mark key="[" line="117" column="56" />
         <mark key="]" line="117" column="57" />
         <mark key="." line="117" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-floor/indoor-floor.component.ts" timestamp="1555304908448">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1554881506328">
         <mark key="[" line="9" column="22" />
@@ -136,11 +103,6 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/services/carto-manager/carto-manager.service.ts" timestamp="1555301842304">
         <mark key="[" line="14" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/v-sync.js/src/task/WorkerTask.ts" timestamp="1555293373321">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/src/util/common.ts" timestamp="1554963657673">
         <mark key="[" line="1" column="0" />
@@ -153,11 +115,6 @@
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-floor.component.ts" timestamp="1555303691754">
         <mark key="[" line="43" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1555381295560">
-        <mark key="[" line="123" column="40" />
-        <mark key="]" line="123" column="41" />
-        <mark key="." line="123" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/const.ts" timestamp="1554431002219">
         <mark key="[" line="36" column="0" />
@@ -180,11 +137,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/env.json" timestamp="1554370089424">
         <mark key="[" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" timestamp="1555402769758">
-        <mark key="[" line="324" column="4" />
-        <mark key="]" line="324" column="4" />
-        <mark key="." line="324" column="4" />
-      </file>
+      <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/layer/VectorTile.js" timestamp="1555921611927" />
     </filemarks>
     <jumps>
       <jump line="272" column="20" filename="$USER_HOME$/Documents/workspace/naver/blackpearl/src/app/modules/indoor/services/indoor/indoor.service.ts" />
