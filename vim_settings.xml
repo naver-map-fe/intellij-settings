@@ -30,8 +30,8 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/overlays/popup.ts" timestamp="1554977429709">
         <mark key="[" line="74" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/IndoorLayer.ts" timestamp="1555927403530">
-        <mark key="[" line="87" column="18" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/layers/IndoorLayer.ts" timestamp="1555936753746">
+        <mark key="[" line="87" column="20" />
         <mark key="]" line="259" column="64" />
         <mark key="." line="259" column="64" />
       </file>
@@ -62,7 +62,6 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/const.ts" timestamp="1555494108126">
         <mark key="[" line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/label/ImageLabelGenerator.ts" timestamp="1555932352804" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/index.html" timestamp="1554882430581">
         <mark key="[" line="156" column="22" />
       </file>
