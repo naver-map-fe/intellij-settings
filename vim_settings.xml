@@ -22,6 +22,12 @@
       </file>
       <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/renderer/canvas/VectorTileLayer.js" timestamp="1555921440428" />
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/dist/lib/maps/openlayers/OpenLayersMap.js" timestamp="1555921295661" />
+      <file name="$USER_HOME$/workspace/openlayers/openlayers/examples/vector-tile-info.js" timestamp="1555925819246">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/overlays/popup.ts" timestamp="1554977429709">
         <mark key="[" line="74" column="7" />
       </file>
@@ -85,6 +91,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.ts" timestamp="1555034597887">
         <mark key="[" line="46" column="113" />
       </file>
+      <file name="$USER_HOME$/workspace/openlayers/openlayers/examples/xyz.js" timestamp="1555925624869" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1555493007703">
         <mark key="[" line="215" column="44" />
       </file>
