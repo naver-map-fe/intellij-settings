@@ -41,7 +41,9 @@
         <mark key="]" line="227" column="24" />
         <mark key="." line="227" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555921278688" />
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/OpenLayersMap.ts" timestamp="1555924244173">
+        <mark key="[" line="1704" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/npanorama.d.ts" timestamp="1555388318777">
         <mark key="[" line="52" column="24" />
       </file>
@@ -110,7 +112,7 @@
       <file name="/Dummy.txt" timestamp="1555912409405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/ol-custom/loadFeatureXhr.ts" timestamp="1555918436737">
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/ol-custom/loadFeatureXhr.ts" timestamp="1555923882183">
         <mark key="[" line="71" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-floor.component.ts" timestamp="1555303691754">
