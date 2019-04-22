@@ -56,18 +56,13 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/const.ts" timestamp="1555494108126">
         <mark key="[" line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/label/ImageLabelGenerator.ts" timestamp="1555917981748">
-        <mark key="[" line="40" column="78" />
-        <mark key="]" line="127" column="20" />
-        <mark key="." line="127" column="20" />
-        <mark key="^" line="127" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/examples/labs/index.html" timestamp="1554882430581">
         <mark key="[" line="156" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/naver/v-sync.js/package.json" timestamp="1554794463928">
         <mark key="[" line="81" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/render/canvas/TextBuilder.js" timestamp="1555932083465" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.html" timestamp="1554977041926">
         <mark key="[" line="25" column="8" />
       </file>
@@ -84,7 +79,7 @@
       <file name="$USER_HOME$/workspace/openlayers/openlayers/examples/vector-tile-info.css" timestamp="1555926910020">
         <mark key="[" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/render/canvas/ExecutorGroup.js" timestamp="1555917970049" />
+      <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/render/canvas/ExecutorGroup.js" timestamp="1555932000230" />
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/+carto-control/components/control-weather/control-weather-map-popup-item.component.ts" timestamp="1555034597887">
         <mark key="[" line="46" column="113" />
       </file>
@@ -92,7 +87,7 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/panorama/services/panorama/panorama.service.ts" timestamp="1555493007703">
         <mark key="[" line="215" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/render/canvas/Executor.js" timestamp="1555916358683" />
+      <file name="$USER_HOME$/workspace/openlayers/openlayers/src/ol/render/canvas/Executor.js" timestamp="1555932129237" />
       <file name="$USER_HOME$/workspace/naver/v-sync.js/rollup.config.ts" timestamp="1554960042090">
         <mark key="[" line="41" column="1" />
       </file>
