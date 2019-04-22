@@ -63,9 +63,6 @@
         <mark key="]" line="235" column="20" />
         <mark key="." line="235" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/util.ts" timestamp="1555485330560">
-        <mark key="[" line="11" column="32" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/declutter/Declutter.ts" timestamp="1554881506328">
         <mark key="[" line="9" column="22" />
       </file>
@@ -112,6 +109,9 @@
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/modules/indoor/components/indoor-tooltip/indoor-floor.component.ts" timestamp="1555303691754">
         <mark key="[" line="43" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/manager/WorkerBusManager.ts" timestamp="1555910571906">
+        <mark key="[" line="181" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/naver/blackpearl/src/app/app.settings.ts" timestamp="1555381295560">
         <mark key="[" line="123" column="40" />
         <mark key="]" line="123" column="41" />
@@ -126,15 +126,8 @@
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/const.ts" timestamp="1554431002219">
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/shared/style-util.ts" timestamp="1555494812447">
-        <mark key="[" line="379" column="79" />
-        <mark key="]" line="342" column="2" />
-        <mark key="." line="342" column="2" />
-      </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/src/maps/openlayers/style/text.ts" timestamp="1555494768643">
-        <mark key="[" line="182" column="3" />
-        <mark key="]" line="84" column="15" />
-        <mark key="." line="84" column="15" />
+        <mark key="[" line="209" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/naver/TwoFace.js/dist/lib/maps/openlayers/layers/LayerFactory.js" timestamp="1555381203028">
         <mark key="[" line="84" column="62" />
